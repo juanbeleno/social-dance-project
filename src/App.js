@@ -1,8 +1,9 @@
 import React, { useEffect, useState } from 'react';
 import axios from "axios";
+import sampleSize from "lodash.samplesize";
 import Levels from "./Levels";
 import Tags from "./Tags";
-import Content from "./Content"
+import Content from "./Content";
 
 function App() {
   // Hook to update a state without creating a class
@@ -74,9 +75,7 @@ function App() {
 
       // Select 10 random gifs
       const num_elements = 10;
-      const filtered_content = [...Array(num_elements)].map((_, i) => {
-        return raw_content[Math.floor(Math.random() * raw_content.length)];
-      });
+      const filtered_content = sampleSize(raw_content, num_elements)
 
       // Update the state with the new values
       setAllValues( prevValues => {
