@@ -41,23 +41,23 @@ function App() {
 
       // Define possible color classes for tags
       const colors = [
-        "red-500",
-        "amber-500",
-        "lime-500",
-        "orange-500",
-        "yellow-500",
-        "green-500",
-        "emerald-500",
-        "teal-500",
-        "cyan-500",
-        "sky-500",
-        "blue-500",
-        "indigo-500",
-        "violet-500",
-        "purple-500",
-        "fuchsia-500",
-        "pink-500",
-        "rose-500"
+        "red-200",
+        "amber-200",
+        "lime-200",
+        "orange-200",
+        "yellow-200",
+        "green-200",
+        "emerald-200",
+        "teal-200",
+        "cyan-200",
+        "sky-200",
+        "blue-200",
+        "indigo-200",
+        "violet-200",
+        "purple-200",
+        "fuchsia-200",
+        "pink-200",
+        "rose-200"
       ];
 
       // Assign a random color to each tag in the content
@@ -109,42 +109,42 @@ function App() {
       <Content filtered_content={allValues.filtered_content} levels={allValues.levels} tag_colors={allValues.tag_colors}/>
 
       <span className="
-        text-red-500
-        text-amber-500
-        text-lime-500
-        text-lime-500
-        text-orange-500
-        text-yellow-500
-        text-green-500
-        text-emerald-500
-        text-teal-500
-        text-cyan-500
-        text-sky-500
-        text-blue-500
-        text-indigo-500
-        text-violet-500
-        text-purple-500
-        text-fuchsia-500
-        text-pink-500
-        text-rose-500
-        border-red-500
-        border-amber-500
-        border-lime-500
-        border-lime-500
-        border-orange-500
-        border-yellow-500
-        border-green-500
-        border-emerald-500
-        border-teal-500
-        border-cyan-500
-        border-sky-500
-        border-blue-500
-        border-indigo-500
-        border-violet-500
-        border-purple-500
-        border-fuchsia-500
-        border-pink-500
-        border-rose-500
+        text-red-200
+        text-amber-200
+        text-lime-200
+        text-lime-200
+        text-orange-200
+        text-yellow-200
+        text-green-200
+        text-emerald-200
+        text-teal-200
+        text-cyan-200
+        text-sky-200
+        text-blue-200
+        text-indigo-200
+        text-violet-200
+        text-purple-200
+        text-fuchsia-200
+        text-pink-200
+        text-rose-200
+        border-red-200
+        border-amber-200
+        border-lime-200
+        border-lime-200
+        border-orange-200
+        border-yellow-200
+        border-green-200
+        border-emerald-200
+        border-teal-200
+        border-cyan-200
+        border-sky-200
+        border-blue-200
+        border-indigo-200
+        border-violet-200
+        border-purple-200
+        border-fuchsia-200
+        border-pink-200
+        border-rose-200
       "></span>
     </div>
   );
