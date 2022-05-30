@@ -10,7 +10,7 @@ export default function Content(props) {
             return (
                 filtered_content.map(item => {
                     return (
-                        <div key={item['id']} className="basis-96 bg-black rounded flex relative">
+                        <div key={item['id']} className="basis-96 h-[36rem] bg-black rounded flex relative">
                             <img src={`img/${item['filepath']}`} alt="" className="my-auto"/>
                             <div className="absolute bottom-0 flex flex-wrap bg-black/80 p-4 w-96 text-sm">
                                 <div className="text-white w-96">Level: {levels[item['level']]}</div>
