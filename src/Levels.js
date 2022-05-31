@@ -8,13 +8,21 @@ export default function Levels(props) {
             Object.entries(levels).map(([level, name]) => {
                 if (selectedLevels.indexOf(parseInt(level)) >= 0) {
                     return (
-                        <div key={name} onClick={() => changeLevelSelection(parseInt(level))} className="rounded cursor-pointer border-2 bg-gray-600 text-white p-5">
+                        <div
+                            key={name}
+                            onClick={() => changeLevelSelection(parseInt(level))}
+                            className="rounded cursor-pointer border-2 bg-gray-600 text-white p-5"
+                        >
                             {name}
                         </div>
                     )
                 } else {
                     return (
-                        <div key={name} onClick={() => changeLevelSelection(parseInt(level))} className="rounded cursor-pointer border-2 border-gray-200 text-gray-200 p-5">
+                        <div
+                            key={name}
+                            onClick={() => changeLevelSelection(parseInt(level))}
+                            className="rounded cursor-pointer border-2 border-gray-200 text-gray-200 p-5"
+                        >
                             {name}
                         </div>
                     )

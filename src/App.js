@@ -23,38 +23,69 @@ function App() {
     selectedLevels: [1, 2, 3, 4, 5]
   });
 
+  // Define the number of elements to load
+  const numContentElements = 10;
+
   // Handle level selection
   const changeLevelSelection = level => {
     // If the level is already selected, remove it from the selection
     // Otherwise, add it to the selection
-    var selectedLevels = allValues.selectedLevels
-    const levelIndex = selectedLevels.indexOf(parseInt(level))
+    var selectedLevels = allValues.selectedLevels;
+    const levelIndex = selectedLevels.indexOf(parseInt(level));
     if (levelIndex >= 0) {
       selectedLevels.splice(levelIndex, 1);
     } else {
-      selectedLevels.push(level)
+      selectedLevels.push(level);
     }
 
     // Change the selected levels in the state of the component
     setAllValues( prevValues => {
-      return { ...prevValues, "selectedLevels": selectedLevels}
+      return { ...prevValues, "selectedLevels": selectedLevels};
     })
+
+    // Filter the content
+    filterContent(allValues.selectedTag, selectedLevels)
   }
 
   // Handle the selection of a specific tag to filter the content
   const changeTagSelection = tag => {
     // If the tag is exactly the same as the previous one, then remove it from selection
     // Otherwise, select the new tag
-    var selectedTag = allValues.selectedTag
+    var selectedTag = allValues.selectedTag;
     if (selectedTag === tag) {
-      selectedTag = ""
+      selectedTag = "";
     } else {
-      selectedTag = tag
+      selectedTag = tag;
     }
 
     // Change the selected tag in the state of the component
     setAllValues( prevValues => {
-      return { ...prevValues, "selectedTag": selectedTag}
+      return { ...prevValues, "selectedTag": selectedTag};
+    })
+
+    // Filter the content
+    filterContent(selectedTag, allValues.selectedLevels)
+  }
+
+  const filterContent = (tag, levels) => {
+    console.log(tag)
+    console.log(levels)
+    const rawContent = allValues.rawContent;
+    var filteredContent = []
+    rawContent.forEach(item => {
+      if (tag === "" || item["tags"].indexOf(tag) >= 0) {
+        if (levels.indexOf(item["level"]) >= 0) {
+          console.log(item)
+          console.log(item["tags"].includes(tag))
+          filteredContent.push(item);
+        }
+      }
+    })
+    filteredContent = sampleSize(filteredContent, numContentElements);
+
+    // Change the selected tag in the state of the component
+    setAllValues( prevValues => {
+      return { ...prevValues, "filteredContent": filteredContent};
     })
   }
 
@@ -102,8 +133,7 @@ function App() {
       const filteredTags = ["on1", "on2", "colombiano"];
 
       // Select 10 random gifs
-      const numElements = 10;
-      const filteredContent = sampleSize(rawContent, numElements)
+      const filteredContent = sampleSize(rawContent, numContentElements)
 
       // Update the state with the new values
       setAllValues( prevValues => {
