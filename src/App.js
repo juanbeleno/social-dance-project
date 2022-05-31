@@ -23,12 +23,23 @@ function App() {
     selectedLevels: [1, 2, 3, 4, 5]
   });
 
-  // Handle the change of any value to update the state
-  const changeHandler = e => {
+  // Handle level selection
+  const changeLevelSelection = level => {
+    // If the level is already selected, remove it from the selection
+    // Otherwise, add it to the selection
+    var selectedLevels = allValues.selectedLevels
+    const levelIndex = selectedLevels.indexOf(parseInt(level))
+    if (levelIndex >= 0) {
+      selectedLevels.splice(levelIndex, 1);
+    } else {
+      selectedLevels.push(level)
+    }
+
+    // Change the selected levels in the state of the component
     setAllValues( prevValues => {
-        return { ...prevValues, [e.target.name]: e.target.value}
+        return { ...prevValues, "selectedLevels": selectedLevels}
     })
-  };
+  }
 
   // Define the base url
   const baseUrl = 'http://localhost:3000/';
@@ -62,8 +73,8 @@ function App() {
 
       // Assign a random color to each tag in the content
       var tagColors = {};
-      rawContent.map(item => {
-        item.tags.map(tag => {
+      rawContent.forEach(item => {
+        item.tags.forEach(tag => {
           if (!(tag in tagColors)) {
             tagColors[tag] = colors[Math.floor(Math.random() * colors.length)];
           }
@@ -101,7 +112,11 @@ function App() {
       <div className="text-purple-200 mb-6 mt-10">
         CHOOSE THE LEVEL
       </div>
-      <Levels levels={allValues.levels} selectedLevels={allValues.selectedLevels} />
+      <Levels
+        levels={allValues.levels}
+        selectedLevels={allValues.selectedLevels}
+        changeLevelSelection={changeLevelSelection}
+      />
 
       <div className="mb-6 mt-10 text-purple-200">
         EXPLORE GIFS
