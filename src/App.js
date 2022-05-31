@@ -12,7 +12,7 @@ function App() {
     tagColors: {},
     filteredTags: [],
     filteredContent: [],
-    selectedTag: null,
+    selectedTag: "",
     levels: {
       1: "Initiation",
       2: "Basic",
@@ -37,7 +37,24 @@ function App() {
 
     // Change the selected levels in the state of the component
     setAllValues( prevValues => {
-        return { ...prevValues, "selectedLevels": selectedLevels}
+      return { ...prevValues, "selectedLevels": selectedLevels}
+    })
+  }
+
+  // Handle the selection of a specific tag to filter the content
+  const changeTagSelection = tag => {
+    // If the tag is exactly the same as the previous one, then remove it from selection
+    // Otherwise, select the new tag
+    var selectedTag = allValues.selectedTag
+    if (selectedTag === tag) {
+      selectedTag = ""
+    } else {
+      selectedTag = tag
+    }
+
+    // Change the selected tag in the state of the component
+    setAllValues( prevValues => {
+      return { ...prevValues, "selectedTag": selectedTag}
     })
   }
 
@@ -52,23 +69,23 @@ function App() {
 
       // Define possible color classes for tags
       const colors = [
-        "red-200",
-        "amber-200",
-        "lime-200",
-        "orange-200",
-        "yellow-200",
-        "green-200",
-        "emerald-200",
-        "teal-200",
-        "cyan-200",
-        "sky-200",
-        "blue-200",
-        "indigo-200",
-        "violet-200",
-        "purple-200",
-        "fuchsia-200",
-        "pink-200",
-        "rose-200"
+        "red",
+        "amber",
+        "lime",
+        "orange",
+        "yellow",
+        "green",
+        "emerald",
+        "teal",
+        "cyan",
+        "sky",
+        "blue",
+        "indigo",
+        "violet",
+        "purple",
+        "fuchsia",
+        "pink",
+        "rose"
       ];
 
       // Assign a random color to each tag in the content
@@ -107,7 +124,11 @@ function App() {
       <div className="text-purple-200 mb-6 mt-10">
         EXPLORE TAGS
       </div>
-      <Tags filteredTags={allValues.filteredTags} tagColors={allValues.tagColors}/>
+      <Tags
+        filteredTags={allValues.filteredTags}
+        tagColors={allValues.tagColors}
+        selectedTag={allValues.selectedTag}
+        changeTagSelection={changeTagSelection}/>
 
       <div className="text-purple-200 mb-6 mt-10">
         CHOOSE THE LEVEL
@@ -160,6 +181,24 @@ function App() {
         border-fuchsia-200
         border-pink-200
         border-rose-200
+        bg-red-600
+        bg-amber-600
+        bg-lime-600
+        bg-lime-600
+        bg-orange-600
+        bg-yellow-600
+        bg-green-600
+        bg-emerald-600
+        bg-teal-600
+        bg-cyan-600
+        bg-sky-600
+        bg-blue-600
+        bg-indigo-600
+        bg-violet-600
+        bg-purple-600
+        bg-fuchsia-600
+        bg-pink-600
+        bg-rose-600
       "></span>
     </div>
   );

@@ -3,16 +3,24 @@ import React from 'react';
 export default function Tags(props) {
 
     const displayTags = (props) => {
-        const {filteredTags, tagColors} = props;
+        const {filteredTags, tagColors, selectedTag, changeTagSelection} = props;
 
         if (filteredTags.length > 0) {
             return (
                 filteredTags.map(tag => {
-                    return (
-                        <div key={tag} className={`rounded cursor-pointer border-2 border-${tagColors[tag]} text-${tagColors[tag]} p-5 mr-6`}>
-                            {tag}
-                        </div>
-                    )
+                    if (tag === selectedTag) {
+                        return (
+                            <div key={tag} onClick={() => {changeTagSelection(tag)}} className={`rounded cursor-pointer bg-${tagColors[tag]}-600 text-white p-5 mr-6`}>
+                                {tag}
+                            </div>
+                        )
+                    } else {
+                        return (
+                            <div key={tag} onClick={() => {changeTagSelection(tag)}} className={`rounded cursor-pointer border-2 border-${tagColors[tag]}-200 text-${tagColors[tag]}-200 p-5 mr-6`}>
+                                {tag}
+                            </div>
+                        )
+                    }
                 })
             )
         } else {
