@@ -3,13 +3,13 @@ import React from 'react';
 export default function Tags(props) {
 
     const displayTags = (props) => {
-        const {filtered_tags, tag_colors} = props;
+        const {filteredTags, tagColors} = props;
 
-        if (filtered_tags.length > 0) {
+        if (filteredTags.length > 0) {
             return (
-                filtered_tags.map(tag => {
+                filteredTags.map(tag => {
                     return (
-                        <div key={tag} className={`rounded border-2 border-${tag_colors[tag]} text-${tag_colors[tag]} p-5 mr-6`}>
+                        <div key={tag} className={`rounded cursor-pointer border-2 border-${tagColors[tag]} text-${tagColors[tag]} p-5 mr-6`}>
                             {tag}
                         </div>
                     )

@@ -8,11 +8,11 @@ import Content from "./Content";
 function App() {
   // Hook to update a state without creating a class
   const [allValues, setAllValues] = useState({
-    raw_content: [],
-    tag_colors: {},
-    filtered_tags: [],
-    filtered_content: [],
-    selected_tag: null,
+    rawContent: [],
+    tagColors: {},
+    filteredTags: [],
+    filteredContent: [],
+    selectedTag: null,
     levels: {
       1: "Initiation",
       2: "Basic",
@@ -20,7 +20,7 @@ function App() {
       4: "Intermediate - Advanced",
       5: "Advanced"
     },
-    selected_levels: [1, 2, 3, 4, 5]
+    selectedLevels: [1, 2, 3, 4, 5]
   });
 
   // Handle the change of any value to update the state
@@ -31,13 +31,13 @@ function App() {
   };
 
   // Define the base url
-  const base_url = 'http://localhost:3000/';
+  const baseUrl = 'http://localhost:3000/';
 
   // Update the feed, given the filters
   useEffect(() => {
-    axios.get(`${base_url}content.json`)
+    axios.get(`${baseUrl}content.json`)
     .then((response) => {
-      const raw_content = response.data;
+      const rawContent = response.data;
 
       // Define possible color classes for tags
       const colors = [
@@ -61,30 +61,30 @@ function App() {
       ];
 
       // Assign a random color to each tag in the content
-      var tag_colors = {};
-      raw_content.map(item => {
+      var tagColors = {};
+      rawContent.map(item => {
         item.tags.map(tag => {
-          if (!(tag in tag_colors)) {
-            tag_colors[tag] = colors[Math.floor(Math.random() * colors.length)];
+          if (!(tag in tagColors)) {
+            tagColors[tag] = colors[Math.floor(Math.random() * colors.length)];
           }
         });
       });
 
       // Filter tags to show only from on1, on2, and colombiano
-      const filtered_tags = ["on1", "on2", "colombiano"];
+      const filteredTags = ["on1", "on2", "colombiano"];
 
       // Select 10 random gifs
-      const num_elements = 10;
-      const filtered_content = sampleSize(raw_content, num_elements)
+      const numElements = 10;
+      const filteredContent = sampleSize(rawContent, numElements)
 
       // Update the state with the new values
       setAllValues( prevValues => {
         return {
           ...prevValues,
-          "raw_content": raw_content,
-          "tag_colors": tag_colors,
-          "filtered_tags": filtered_tags,
-          "filtered_content": filtered_content
+          "rawContent": rawContent,
+          "tagColors": tagColors,
+          "filteredTags": filteredTags,
+          "filteredContent": filteredContent
         }
       });
     })
@@ -96,17 +96,17 @@ function App() {
       <div className="text-purple-200 mb-6 mt-10">
         EXPLORE TAGS
       </div>
-      <Tags filtered_tags={allValues.filtered_tags} tag_colors={allValues.tag_colors}/>
+      <Tags filteredTags={allValues.filteredTags} tagColors={allValues.tagColors}/>
 
       <div className="text-purple-200 mb-6 mt-10">
         CHOOSE THE LEVEL
       </div>
-      <Levels levels={allValues.levels} selected_levels={allValues.selected_levels} />
+      <Levels levels={allValues.levels} selectedLevels={allValues.selectedLevels} />
 
       <div className="mb-6 mt-10 text-purple-200">
         EXPLORE GIFS
       </div>
-      <Content filtered_content={allValues.filtered_content} levels={allValues.levels} tag_colors={allValues.tag_colors}/>
+      <Content filteredContent={allValues.filteredContent} levels={allValues.levels} tagColors={allValues.tagColors}/>
 
       <span className="
         text-red-200
