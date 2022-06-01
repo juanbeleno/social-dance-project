@@ -90,7 +90,7 @@ function App() {
   }
 
   // Define the base url
-  const baseUrl = 'http://localhost:3000/';
+  const baseUrl = `${process.env.PUBLIC_URL}/`;
 
   // Update the feed, given the filters
   useEffect(() => {
