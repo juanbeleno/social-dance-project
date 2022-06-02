@@ -236,5 +236,61 @@
         "tags": ["combo", "on1", "follow turn", "lead turn", "Andrés Leiton"],
         "level": 3,
         "orientation": "portrait"
+    },
+    {
+        "id": "972a67c",
+        "filepath": "salsa/on1/972a67c.gif",
+        "tags": ["combo", "on1", "follow turn", "lead turn", "follow hammerlock", "Andrés Leiton"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "fc074d5",
+        "filepath": "salsa/on1/fc074d5.gif",
+        "tags": ["step", "on1", "follow turn", "Andrés Leiton"],
+        "level": 2,
+        "orientation": "portrait"
+    },
+    {
+        "id": "cb7a1d7",
+        "filepath": "salsa/on1/cb7a1d7.gif",
+        "tags": ["combo", "on1", "follow turn", "Andrés Leiton"],
+        "level": 2,
+        "orientation": "portrait"
+    },
+    {
+        "id": "5b384ce",
+        "filepath": "salsa/on1/5b384ce.gif",
+        "tags": ["combo", "on1", "follow turn", "lead turn", "Andrés Leiton"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "ca3512f",
+        "filepath": "salsa/on1/ca3512f.gif",
+        "tags": ["combo", "on1", "follow turn", "hand change", "Andrés Leiton"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "af3e133",
+        "filepath": "salsa/on1/af3e133.gif",
+        "tags": ["combo", "on1", "follow turn", "open", "Andrés Leiton"],
+        "level": 4,
+        "orientation": "portrait"
+    },
+    {
+        "id": "761f22b",
+        "filepath": "salsa/on1/761f22b.gif",
+        "tags": ["combo", "on1", "follow turn", "lead turn", "copa", "Andrés Leiton"],
+        "level": 4,
+        "orientation": "portrait"
+    },
+    {
+        "id": "92cfceb",
+        "filepath": "salsa/on1/92cfceb.gif",
+        "tags": ["combo", "on1", "follow turn", "lead turn", "open", "copa", "Andrés Leiton"],
+        "level": 4,
+        "orientation": "portrait"
     }
 ]
