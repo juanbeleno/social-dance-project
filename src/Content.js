@@ -17,7 +17,7 @@ export default function Content(props) {
                             <img
                                 src={`img/${item['filepath']}`}
                                 alt=""
-                                className="my-auto"/>
+                                className={`m-auto ${item['orientation'] === 'portrait' ? 'h-full' : 'w-full'}`}/>
                             <div className="absolute bottom-0 flex flex-wrap bg-black/80 p-4 w-96 text-sm">
                                 <div className="text-white w-96">
                                     Level: {levels[item['level']]}

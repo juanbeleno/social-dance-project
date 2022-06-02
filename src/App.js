@@ -89,11 +89,11 @@ function App() {
     })
   }
 
-  // Define the base url
-  const baseUrl = `${process.env.PUBLIC_URL}/`;
-
   // Update the feed, given the filters
   useEffect(() => {
+    // Define the base url
+    const baseUrl = `${process.env.PUBLIC_URL}/`;
+
     axios.get(`${baseUrl}content.json`)
     .then((response) => {
       const rawContent = response.data;
@@ -161,7 +161,7 @@ function App() {
         changeTagSelection={changeTagSelection}/>
 
       <div className="text-purple-200 mb-6 mt-10">
-        CHOOSE THE LEVEL
+        SELECT THE LEVEL OF DIFFICULTY YOU WANNA TRAIN
       </div>
       <Levels
         levels={allValues.levels}
@@ -172,7 +172,10 @@ function App() {
       <div className="mb-6 mt-10 text-purple-200">
         EXPLORE GIFS
       </div>
-      <Content filteredContent={allValues.filteredContent} levels={allValues.levels} tagColors={allValues.tagColors}/>
+      <Content
+        filteredContent={allValues.filteredContent}
+        levels={allValues.levels}
+        tagColors={allValues.tagColors}/>
 
       <span className="
         text-red-200
