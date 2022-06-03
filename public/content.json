@@ -292,5 +292,82 @@
         "tags": ["combo", "on1", "follow turn", "lead turn", "open", "copa", "Andrés Leiton"],
         "level": 4,
         "orientation": "portrait"
+    },
+    {
+        "id": "0286dd5",
+        "filepath": "salsa/on1/0286dd5.gif",
+        "tags": ["combo", "on1", "follow turn", "360", "lead styling", "follow styling", "Andrés Leiton"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "98fbc42",
+        "filepath": "salsa/on1/98fbc42.gif",
+        "tags": ["combo", "on1", "follow turn", "lead turn", "follow hammerlock", "copa", "Andrés Leiton"],
+        "level": 4,
+        "orientation": "landscape"
+    },
+    {
+        "id": "fb64435",
+        "filepath": "salsa/on1/fb64435.gif",
+        "tags": ["combo", "on1", "follow turn", "lead turn", "follow hammerlock", "flick", "Andrés Leiton"],
+        "level": 4,
+        "orientation": "landscape"
+    },
+    {
+        "id": "fe2ef49",
+        "filepath": "salsa/on1/fe2ef49.gif",
+        "tags": ["combo", "on1", "follow turn", "lead turn", "flick", "Andrés Leiton"],
+        "level": 4,
+        "orientation": "landscape"
+    },
+    {
+        "id": "64e095f",
+        "filepath": "salsa/on1/64e095f.gif",
+        "tags": ["combo", "on1", "follow turn", "lead turn", "flick", "David Ruiz Pecas"],
+        "level": 3,
+        "orientation": "landscape"
+    },
+    {
+        "id": "2e01e17",
+        "filepath": "salsa/on1/2e01e17.gif",
+        "tags": ["combo", "on1", "follow turn", "lead turn", "flick", "hand change", "David Ruiz Pecas"],
+        "level": 3,
+        "orientation": "landscape"
+    },
+    {
+        "id": "e1822db",
+        "filepath": "salsa/on1/e1822db.gif",
+        "tags": ["combo", "on1", "follow turn", "lead turn", "David Ruiz Pecas"],
+        "level": 3,
+        "orientation": "landscape"
+    },
+    {
+        "id": "b7eb6c6",
+        "filepath": "salsa/on1/b7eb6c6.gif",
+        "tags": ["combo", "on1", "follow turn", "lead turn", "flick", "follow hammerlock", "David Ruiz Pecas"],
+        "level": 4,
+        "orientation": "landscape"
+    },
+    {
+        "id": "a933498",
+        "filepath": "salsa/on1/a933498.gif",
+        "tags": ["combo", "on1", "follow turn", "flick", "David Ruiz Pecas"],
+        "level": 3,
+        "orientation": "landscape"
+    },
+    {
+        "id": "c5b76da",
+        "filepath": "salsa/on1/c5b76da.gif",
+        "tags": ["combo", "on1", "lead turn", "lead styling", "David Ruiz Pecas"],
+        "level": 1,
+        "orientation": "landscape"
+    },
+    {
+        "id": "c5b76da",
+        "filepath": "salsa/on1/c5b76da.gif",
+        "tags": ["combo", "on1", "lead turn", "lead styling", "David Ruiz Pecas"],
+        "level": 1,
+        "orientation": "landscape"
     }
 ]
