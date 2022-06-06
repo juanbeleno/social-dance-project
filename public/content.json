@@ -359,15 +359,86 @@
     {
         "id": "c5b76da",
         "filepath": "salsa/on1/c5b76da.gif",
-        "tags": ["combo", "on1", "lead turn", "lead styling", "David Ruiz Pecas"],
+        "tags": ["step", "on1", "lead turn", "lead styling", "David Ruiz Pecas"],
         "level": 1,
         "orientation": "landscape"
     },
     {
-        "id": "c5b76da",
-        "filepath": "salsa/on1/c5b76da.gif",
-        "tags": ["combo", "on1", "lead turn", "lead styling", "David Ruiz Pecas"],
+        "id": "80e28a5",
+        "filepath": "salsa/on1/80e28a5.gif",
+        "tags": ["step", "on1", "follow turn", "Andrés Leiton"],
+        "level": 2,
+        "orientation": "landscape"
+    },
+    {
+        "id": "8effee4",
+        "filepath": "salsa/on1/8effee4.gif",
+        "tags": ["combo", "on1", "follow turn", "lead turn", "flick", "Andrés Leiton"],
+        "level": 4,
+        "orientation": "landscape"
+    },
+    {
+        "id": "54ceb91",
+        "filepath": "salsa/on1/54ceb91.gif",
+        "tags": ["combo", "on1", "follow turn", "lead turn", "lead rond de jambe", "Andrés Leiton"],
+        "level": 4,
+        "orientation": "landscape"
+    },
+    {
+        "id": "9109c85",
+        "filepath": "salsa/on1/9109c85.gif",
+        "tags": ["combo", "on1", "follow turn", "Andrés Leiton"],
+        "level": 4,
+        "orientation": "landscape"
+    },
+    {
+        "id": "667be54",
+        "filepath": "salsa/on1/667be54.gif",
+        "tags": ["combo", "on1", "follow turn", "lead turn", "flick", "Andrés Leiton"],
+        "level": 3,
+        "orientation": "landscape"
+    },
+    {
+        "id": "5a5b0f9",
+        "filepath": "salsa/on1/5a5b0f9.gif",
+        "tags": ["combo", "on1", "follow turn", "lead turn", "copa", "flick", "Andrés Leiton"],
+        "level": 3,
+        "orientation": "landscape"
+    },
+    {
+        "id": "e6c3dd6",
+        "filepath": "salsa/on1/e6c3dd6.gif",
+        "tags": ["combo", "on1", "follow turn", "lead turn", "copa", "flick", "Andrés Leiton"],
+        "level": 5,
+        "orientation": "landscape"
+    },
+    {
+        "id": "6c1e671",
+        "filepath": "salsa/on1/6c1e671.gif",
+        "tags": ["step", "on1", "lead styling", "follow styling", "Andrés Leiton"],
         "level": 1,
+        "orientation": "landscape"
+    },
+    {
+        "id": "511a418",
+        "filepath": "salsa/on1/511a418.gif",
+        "tags": ["combo", "on1", "follow turn", "lead rond de jambe", "follow styling", "Andrés Leiton"],
+        "level": 3,
+        "orientation": "landscape"
+    },
+    {
+        "id": "a17554a",
+        "filepath": "salsa/on1/a17554a.gif",
+        "tags": ["combo", "on1", "follow turn", "change of direction", "lead styling", "Andrés Leiton"],
+        "level": 4,
+        "musicality": "3-5",
+        "orientation": "landscape"
+    },
+    {
+        "id": "c66c651",
+        "filepath": "salsa/on1/c66c651.gif",
+        "tags": ["combo", "on1", "follow turn", "lead turn", "lead rond de jambe", "flick", "Andrés Leiton"],
+        "level": 4,
         "orientation": "landscape"
     }
 ]

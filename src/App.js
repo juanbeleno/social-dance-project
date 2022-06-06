@@ -24,7 +24,7 @@ function App() {
   });
 
   // Define the number of elements to load
-  const numContentElements = 10;
+  const numContentElements = 5;
 
   // Handle level selection
   const changeLevelSelection = level => {
