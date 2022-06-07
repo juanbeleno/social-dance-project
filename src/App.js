@@ -20,7 +20,7 @@ function App() {
       4: "Intermediate - Advanced",
       5: "Advanced"
     },
-    selectedLevels: [1, 2, 3, 4, 5]
+    selectedLevels: []
   });
 
   // Define the number of elements to load
