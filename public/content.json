@@ -475,5 +475,110 @@
         "tags": ["combo", "on1", "follow turn", "lead turn", "Andrés Leiton"],
         "level": 3,
         "orientation": "portrait"
+    },
+    {
+        "id": "b7103ca",
+        "filepath": "salsa/on1/b7103ca.gif",
+        "tags": ["step", "on1", "follow turn", "follow hammerlock", "Andrés Leiton"],
+        "level": 2,
+        "orientation": "portrait"
+    },
+    {
+        "id": "d02560d",
+        "filepath": "salsa/on1/d02560d.gif",
+        "tags": ["combo", "on1", "follow turn", "lead turn", "flick", "follow hammerlock", "Andrés Leiton"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "c097638",
+        "filepath": "salsa/on1/c097638.gif",
+        "tags": ["combo", "on1", "follow turn", "lead turn", "flick", "follow hammerlock", "Andrés Leiton"],
+        "level": 4,
+        "orientation": "portrait"
+    },
+    {
+        "id": "35e995c",
+        "filepath": "salsa/on1/35e995c.gif",
+        "tags": ["combo", "on1", "follow turn", "lead turn", "flick", "follow hammerlock", "copa", "Andrés Leiton"],
+        "level": 4,
+        "orientation": "portrait"
+    },
+    {
+        "id": "1f1362",
+        "filepath": "salsa/on1/1f1362.gif",
+        "tags": ["step", "on1", "follow turn", "follow hammerlock", "Andrés Leiton"],
+        "level": 1,
+        "orientation": "portrait"
+    },
+    {
+        "id": "450ddec",
+        "filepath": "salsa/on1/450ddec.gif",
+        "tags": ["combo", "on1", "follow turn", "lead turn", "follow hammerlock", "Andrés Leiton"],
+        "level": 4,
+        "orientation": "portrait"
+    },
+    {
+        "id": "d54ad00",
+        "filepath": "salsa/on1/d54ad00.gif",
+        "tags": ["step", "on1", "follow turn", "follow hammerlock", "Andrés Leiton"],
+        "level": 2,
+        "orientation": "portrait"
+    },
+    {
+        "id": "d321d6f",
+        "filepath": "salsa/on1/d321d6f.gif",
+        "tags": ["combo", "on1", "follow turn", "Andrés Leiton"],
+        "level": 4,
+        "orientation": "portrait"
+    },
+    {
+        "id": "eb4ac30",
+        "filepath": "salsa/on1/eb4ac30.gif",
+        "tags": ["combo", "on1", "follow turn", "flick", "Andrés Leiton"],
+        "level": 4,
+        "orientation": "portrait"
+    },
+    {
+        "id": "b74f5ee",
+        "filepath": "salsa/on1/b74f5ee.gif",
+        "tags": ["combo", "on1", "follow turn", "lead turn", "follow hammerlock", "Andrés Leiton"],
+        "level": 4,
+        "orientation": "portrait"
+    },
+    {
+        "id": "b888b29",
+        "filepath": "salsa/on1/b888b29.gif",
+        "tags": ["step", "on1", "follow turn", "Andrés Leiton"],
+        "level": 2,
+        "orientation": "portrait"
+    },
+    {
+        "id": "1d513c0",
+        "filepath": "salsa/on1/1d513c0.gif",
+        "tags": ["step", "on1", "lead turn", "follow turn", "follow hammerlock", "Andrés Leiton"],
+        "level": 2,
+        "orientation": "portrait"
+    },
+    {
+        "id": "76546f9",
+        "filepath": "salsa/on1/76546f9.gif",
+        "tags": ["combo", "on1", "lead turn", "follow turn", "follow hammerlock", "Andrés Leiton"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "7d7116e",
+        "filepath": "salsa/on1/7d7116e.gif",
+        "tags": ["combo", "on1", "lead turn", "follow turn", "Andrés Leiton"],
+        "level": 4,
+        "orientation": "portrait"
+    },
+    {
+        "id": "be461a0",
+        "filepath": "salsa/on1/be461a0.gif",
+        "tags": ["combo", "on1", "cambré", "follow turn", "Andrés Leiton"],
+        "level": 3,
+        "orientation": "portrait"
     }
 ]
