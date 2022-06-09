@@ -580,5 +580,40 @@
         "tags": ["combo", "on1", "cambré", "follow turn", "Andrés Leiton"],
         "level": 3,
         "orientation": "portrait"
+    },
+    {
+        "id": "1352246",
+        "filepath": "salsa/on1/1352246.gif",
+        "tags": ["combo", "on1", "lead turn", "follow turn", "follow hammerlock", "Andrés Leiton"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "3c26dff",
+        "filepath": "salsa/on1/3c26dff.gif",
+        "tags": ["combo", "on1", "lead turn", "follow turn", "follow hammerlock", "Andrés Leiton"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "e62d7f1",
+        "filepath": "salsa/on1/e62d7f1.gif",
+        "tags": ["combo", "on1", "lead turn", "follow turn", "flick", "follow hammerlock", "lead rond de jambe", "Andrés Leiton"],
+        "level": 4,
+        "orientation": "portrait"
+    },
+    {
+        "id": "b37f6dd",
+        "filepath": "salsa/on1/b37f6dd.gif",
+        "tags": ["combo", "on1", "follow turn", "Andrés Leiton"],
+        "level": 2,
+        "orientation": "portrait"
+    },
+    {
+        "id": "2d0c8af",
+        "filepath": "salsa/on1/2d0c8af.gif",
+        "tags": ["step", "on1", "follow turn", "Andrés Leiton"],
+        "level": 3,
+        "orientation": "portrait"
     }
 ]
