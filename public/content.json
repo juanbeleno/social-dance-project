@@ -615,5 +615,47 @@
         "tags": ["step", "on1", "follow turn", "Andrés Leiton"],
         "level": 3,
         "orientation": "portrait"
+    },
+    {
+        "id": "4cd66df",
+        "filepath": "salsa/on2/4cd66df.gif",
+        "tags": ["combo", "on2", "follow turn", "Juan Vásquez"],
+        "level": 3,
+        "orientation": "landscape"
+    },
+    {
+        "id": "8ee51ca",
+        "filepath": "salsa/on2/8ee51ca.gif",
+        "tags": ["combo", "on2", "follow hammerlock", "follow turn", "Juan Vásquez"],
+        "level": 4,
+        "orientation": "landscape"
+    },
+    {
+        "id": "8ee51ca",
+        "filepath": "salsa/on2/8ee51ca.gif",
+        "tags": ["step", "on2", "follow hammerlock", "follow turn", "open", "Juan Vásquez"],
+        "level": 2,
+        "orientation": "landscape"
+    },
+    {
+        "id": "215bb47",
+        "filepath": "salsa/on2/215bb47.gif",
+        "tags": ["combo", "on2", "follow turn", "Juan Vásquez"],
+        "level": 4,
+        "orientation": "landscape"
+    },
+    {
+        "id": "8e63fd3",
+        "filepath": "salsa/on2/8e63fd3.gif",
+        "tags": ["combo", "on2", "follow turn", "lead turn", "Juan Vásquez"],
+        "level": 3,
+        "orientation": "landscape"
+    },
+    {
+        "id": "6fb84ae",
+        "filepath": "salsa/on2/6fb84ae.gif",
+        "tags": ["combo", "on2", "follow turn", "lead turn", "Juan Vásquez"],
+        "level": 4,
+        "orientation": "landscape"
     }
 ]
