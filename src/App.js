@@ -94,7 +94,7 @@ function App() {
     // Define the base url
     const baseUrl = `${process.env.PUBLIC_URL}/`;
 
-    axios.get(`${baseUrl}content.json`)
+    axios.get(`${baseUrl}partnerwork.json`)
     .then((response) => {
       const rawContent = response.data;
 
