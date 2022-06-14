@@ -10,20 +10,14 @@ jobs:
           fetch-depth: 0 # otherwise, there would be errors pushing refs to the destination repository.
           path: main
 
-      - name: Move to the main folder
-        run: cd ./main
-
       # Build the project in React
       - uses: actions/setup-node@v3
         with:
           node-version: 14
       - run: |
-          ls
           cd main
-          ls
-      - run: npm ci
-      - run: npm run build --if-present
-      - run: cd ../
+          npm ci
+          npm run build --if-present
 
       - name: Clone my personal blog
         uses: actions/checkout@v3
