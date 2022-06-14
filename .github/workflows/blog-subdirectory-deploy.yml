@@ -3,6 +3,12 @@ on: [push]
 jobs:
   Update-Blog:
     runs-on: ubuntu-latest
+
+    permissions:
+      pull-requests: write
+      issues: write
+      repository-projects: write
+
     steps:
       - uses: actions/checkout@v3
         with:
