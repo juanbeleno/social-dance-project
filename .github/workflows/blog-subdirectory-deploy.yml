@@ -28,19 +28,13 @@ jobs:
           path: blog
 
       - name: Update the folder of the social dance project
-        run: |
-          ls
-          cp -fR ./main/build ./blog/socialdanceproject
+        run: cp -fR ./main/build ./blog/socialdanceproject
 
-      - name: Commit files
+      - name: Update repo
         run: |
           cd blog
+          git add .
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git commit -m "Update social dance project" -a
-
-      - name: Push changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: ${{ github.ref }}
+          git push
