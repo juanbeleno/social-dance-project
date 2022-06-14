@@ -29,16 +29,21 @@ jobs:
           path: blog
 
       - name: Update the folder of the social dance project
-        run: cp -fR ./main/build ./blog/socialdanceproject
+        run: |
+          rm -rf ./blog/socialdanceproject
+          mv ./main/build ./blog/socialdanceproject
 
       - name: Commit files
         run: |
           cd blog
-          git config --local user.email "jsbeleno@gmail.com"
-          git config --local user.name "juanbeleno"
-          git remote set-url origin https://juanbeleno:${{ secrets.GITHUB_TOKEN }}@github.com/juanbeleno/juanbeleno.github.com.git
-          git fetch
-          git rebase
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
           git add .
           git commit -m "Automatic update of the social dance project"
-          git push
+
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.PERSONAL_TOKEN }}
+          directory: blog
+          repository: juanbeleno/juanbeleno.github.com
