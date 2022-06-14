@@ -1,6 +1,6 @@
 name: Update my blog repository
 on: [push]
-permissions: read-all|write-all
+permissions: write-all
 jobs:
   Update-Blog:
     runs-on: ubuntu-latest
