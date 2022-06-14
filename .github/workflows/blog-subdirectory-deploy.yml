@@ -36,12 +36,7 @@ jobs:
           cd blog
           git config --local user.email "jsbeleno@gmail.com"
           git config --local user.name "juanbeleno"
+          git remoteset-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/juanbeleno/juanbeleno.github.com.git
           git add .
           git commit -m "Automatic update of the social dance project"
-
-      - name: Push changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          directory: blog
-          repository: juanbeleno/juanbeleno.github.com
+          git push
