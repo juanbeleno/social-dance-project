@@ -1,7 +1,7 @@
 name: Update my blog repository
 on: [push]
 jobs:
-  build:
+  Update-Blog:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
@@ -17,6 +17,7 @@ jobs:
       - uses: actions/setup-node@v3
         with:
           node-version: 14
+      - run: ls
       - run: npm ci
       - run: npm run build --if-present
       - run: cd ../
@@ -30,8 +31,7 @@ jobs:
           path: blog
 
       - name: Update the folder of the social dance project
-        run: |
-          cp -fR ./main/build ./blog/socialdanceproject
+        run: cp -fR ./main/build ./blog/socialdanceproject
 
       - name: Commit files
         run: |
