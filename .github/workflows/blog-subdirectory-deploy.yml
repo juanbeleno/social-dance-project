@@ -1,13 +1,9 @@
 name: Update my blog repository
 on: [push]
+permissions: read-all|write-all
 jobs:
   Update-Blog:
     runs-on: ubuntu-latest
-
-    permissions:
-      contents: write
-      packages: write
-
     steps:
       - uses: actions/checkout@v3
         with:
