@@ -36,7 +36,7 @@ jobs:
           cd blog
           git config --local user.email "jsbeleno@gmail.com"
           git config --local user.name "juanbeleno"
-          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/juanbeleno/juanbeleno.github.com
+          git remote add origin https://juanbeleno:${{ secrets.GITHUB_TOKEN }}@github.com/juanbeleno/juanbeleno.github.com.git
           git add .
           git commit -m "Automatic update of the social dance project"
           git push
