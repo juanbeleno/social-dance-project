@@ -28,7 +28,9 @@ jobs:
           path: blog
 
       - name: Update the folder of the social dance project
-        run: cp -fR ./main/build ./blog/socialdanceproject
+        run: |
+          ls
+          cp -fR ./main/build ./blog/socialdanceproject
 
       - name: Commit files
         run: |
