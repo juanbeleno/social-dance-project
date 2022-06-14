@@ -33,14 +33,13 @@ jobs:
       - name: Commit files
         run: |
           cd blog
-          git add .
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git commit -m "Update social dance project" -a
+          git add .
+          git commit -m "Automatic update of the social dance project"
 
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           directory: blog
-          force: true
