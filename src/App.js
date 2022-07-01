@@ -129,8 +129,8 @@ function App() {
         });
       });
 
-      // Filter tags to show only from on1, on2, and colombiano
-      const filteredTags = ["on1", "on2", "colombiano"];
+      // Filter tags to show only from on1, on2, colombiano, bachata sensual, and bachata moderna
+      const filteredTags = ["on1", "on2", "colombiano", "bachata sensual", "bachata moderna"];
 
       // Select 10 random gifs
       const filteredContent = sampleSize(rawContent, numContentElements)
