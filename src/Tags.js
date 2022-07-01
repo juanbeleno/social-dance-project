@@ -13,7 +13,7 @@ export default function Tags(props) {
                             <div
                                 key={tag}
                                 onClick={() => {changeTagSelection(tag)}}
-                                className={`rounded cursor-pointer bg-${tagColors[tag]}-600 text-white p-5 mr-6`}
+                                className={`rounded cursor-pointer bg-${tagColors[tag]}-600 text-white p-5`}
                             >
                                 {tag}
                             </div>
@@ -23,7 +23,7 @@ export default function Tags(props) {
                             <div
                                 key={tag}
                                 onClick={() => {changeTagSelection(tag)}}
-                                className={`rounded cursor-pointer border-2 border-${tagColors[tag]}-200 text-${tagColors[tag]}-200 p-5 mr-6`}
+                                className={`rounded cursor-pointer border-2 border-${tagColors[tag]}-200 text-${tagColors[tag]}-200 p-5`}
                             >
                                 {tag}
                             </div>
@@ -37,7 +37,7 @@ export default function Tags(props) {
     }
 
     return (
-        <div className="flex flex-row">
+        <div className="flex flex-row flex-wrap gap-4">
             {displayTags(props)}
         </div>
     )
