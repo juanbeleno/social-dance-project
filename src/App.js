@@ -4,6 +4,7 @@ import sampleSize from "lodash.samplesize";
 import Levels from "./Levels";
 import Tags from "./Tags";
 import Content from "./Content";
+import Bookmarks from "./Bookmarks"
 
 function App() {
   // Hook to update a state without creating a class
@@ -20,11 +21,46 @@ function App() {
       4: "Intermediate - Advanced",
       5: "Advanced"
     },
-    selectedLevels: []
+    selectedLevels: [],
+    useBookmarks: false,
+    bookmarks: []
   });
 
   // Define the number of elements to load
-  const numContentElements = 5;
+  const numContentElements = 10;
+
+  // Handle bookmark selection
+  const changeBookmarkSelection = () => {
+    // If the level is already selected, remove it from the selection
+    // Otherwise, add it to the selection
+    var useBookmarks = allValues.useBookmarks;
+
+    // Negate the useBookmarks variable in the state of the component
+    setAllValues( prevValues => {
+      return { ...prevValues, "useBookmarks": !useBookmarks};
+    })
+
+    // Filter the content
+    filterContent(allValues.selectedTag, allValues.selectedLevels, !useBookmarks)
+  }
+
+  const addBookmark = elementId => {
+    var bookmarks = allValues.bookmarks;
+    const bookmarkIndex = bookmarks.indexOf(elementId);
+    if (bookmarkIndex >= 0) {
+      bookmarks.splice(bookmarkIndex, 1);
+    } else {
+      bookmarks.push(elementId);
+    }
+
+    // Save in localStorage
+    localStorage.setItem("bookmarks", JSON.stringify(bookmarks))
+
+    // Change the bookmarks in the state of the component
+    setAllValues( prevValues => {
+      return { ...prevValues, "bookmarks": bookmarks};
+    })
+  }
 
   // Handle level selection
   const changeLevelSelection = level => {
@@ -44,7 +80,7 @@ function App() {
     })
 
     // Filter the content
-    filterContent(allValues.selectedTag, selectedLevels)
+    filterContent(allValues.selectedTag, selectedLevels, allValues.useBookmarks)
   }
 
   // Handle the selection of a specific tag to filter the content
@@ -64,20 +100,23 @@ function App() {
     })
 
     // Filter the content
-    filterContent(selectedTag, allValues.selectedLevels)
+    filterContent(selectedTag, allValues.selectedLevels, allValues.useBookmarks)
   }
 
-  const filterContent = (tag, levels) => {
-    console.log(tag)
-    console.log(levels)
+  const filterContent = (tag, levels, useBookmarks) => {
     const rawContent = allValues.rawContent;
+    const bookmarks = allValues.bookmarks;
     var filteredContent = []
     rawContent.forEach(item => {
       if (tag === "" || item["tags"].indexOf(tag) >= 0) {
         if (levels.indexOf(item["level"]) >= 0) {
-          console.log(item)
-          console.log(item["tags"].includes(tag))
-          filteredContent.push(item);
+          if (useBookmarks) {
+            if (bookmarks.indexOf(item["id"]) >= 0) {
+              filteredContent.push(item);
+            }
+          } else {
+            filteredContent.push(item);
+          }
         }
       }
     })
@@ -135,6 +174,9 @@ function App() {
       // Select 10 random gifs
       const filteredContent = sampleSize(rawContent, numContentElements)
 
+      // Load bookmarks
+      const bookmarks = JSON.parse(localStorage.getItem("bookmarks")) || [];
+
       // Update the state with the new values
       setAllValues( prevValues => {
         return {
@@ -142,7 +184,8 @@ function App() {
           "rawContent": rawContent,
           "tagColors": tagColors,
           "filteredTags": filteredTags,
-          "filteredContent": filteredContent
+          "filteredContent": filteredContent,
+          "bookmarks": bookmarks
         }
       });
     })
@@ -169,13 +212,24 @@ function App() {
         changeLevelSelection={changeLevelSelection}
       />
 
+      <div className="text-purple-200 mb-6 mt-10">
+        BOOKMARKS
+      </div>
+      <Bookmarks
+        useBookmarks={allValues.useBookmarks}
+        selectedLevels={allValues.selectedLevels}
+        changeBookmarkSelection={changeBookmarkSelection}
+      />
+
       <div className="mb-6 mt-10 text-purple-200">
         EXPLORE GIFS
       </div>
       <Content
         filteredContent={allValues.filteredContent}
         levels={allValues.levels}
-        tagColors={allValues.tagColors}/>
+        tagColors={allValues.tagColors}
+        bookmarks={allValues.bookmarks}
+        addBookmark={addBookmark}/>
 
       <span className="
         text-red-200

@@ -1,10 +1,11 @@
 import React from 'react';
 import ContentTags from "./ContentTags";
+import BookmarkButton from "./BookmarkButton"
 
 export default function Content(props) {
 
     const displayContent = (props) => {
-        const {filteredContent, tagColors, levels} = props;
+        const {filteredContent, tagColors, levels, bookmarks, addBookmark} = props;
 
         if (filteredContent.length > 0) {
             return (
@@ -18,6 +19,13 @@ export default function Content(props) {
                                 src={`img/${item['filepath']}`}
                                 alt=""
                                 className={`m-auto ${item['orientation'] === 'portrait' ? 'h-full' : 'w-full'}`}/>
+                            <div className="absolute top-0 p-2">
+                                <BookmarkButton
+                                    bookmarks={bookmarks}
+                                    elementId={item["id"]}
+                                    addBookmark={addBookmark}
+                                />
+                            </div>
                             <div className="absolute bottom-0 flex flex-wrap bg-black/80 p-4 w-96 text-sm">
                                 <div className="text-white w-96">
                                     Level: {levels[item['level']]}
