@@ -26,7 +26,7 @@ export default function Content(props) {
                                     addBookmark={addBookmark}
                                 />
                             </div>
-                            <div className="absolute bottom-0 flex flex-wrap bg-black/80 p-4 w-96 text-sm">
+                            <div className="absolute bottom-0 flex flex-wrap bg-black/50 p-4 w-96 text-sm">
                                 <div className="text-white w-96">
                                     Level: {levels[item['level']]}
                                 </div>
