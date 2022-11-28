@@ -1,6 +1,7 @@
 import React from 'react';
 import ContentTags from "./ContentTags";
-import BookmarkButton from "./BookmarkButton"
+import BookmarkButton from "./BookmarkButton";
+import MediaContent from "./MediaContent"
 
 export default function Content(props) {
 
@@ -15,10 +16,10 @@ export default function Content(props) {
                             key={item['id']}
                             className="basis-96 h-[36rem] bg-black rounded flex relative"
                         >
-                            <img
-                                src={`img/${item['filepath']}`}
-                                alt=""
-                                className={`m-auto ${item['orientation'] === 'portrait' ? 'h-full' : 'w-full'}`}/>
+                            <MediaContent
+                                filepath={item['filepath']}
+                                orientation={item['orientation']}
+                            />
                             <div className="absolute top-0 p-2">
                                 <BookmarkButton
                                     bookmarks={bookmarks}
