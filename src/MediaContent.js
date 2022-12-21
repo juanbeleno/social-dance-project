@@ -4,9 +4,9 @@ export default function MediaContent(props) {
 
     const DisplayMediaContent = (props) => {
         const {filepath, orientation} = props;
+        const videoRef= useRef();
 
         if (filepath.includes(".mp4")) {
-            const videoRef= useRef();
             const setPlayBack = () => {
                 videoRef.current.playbackRate = 0.75;
             };
