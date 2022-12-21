@@ -11,7 +11,7 @@ export default function MediaContent(props) {
                 videoRef.current.playbackRate = 0.75;
             };
             return (
-                <video autoPlay loop
+                <video autoPlay loop muted
                     ref={videoRef}
                     onCanPlay={() => setPlayBack()}
                     className={`m-auto ${orientation === 'portrait' ? 'h-full' : 'w-full'}`}>
