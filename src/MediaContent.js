@@ -2,7 +2,7 @@ import React, { useRef } from 'react';
 
 export default function MediaContent(props) {
 
-    const displayMediaContent = (props) => {
+    const DisplayMediaContent = (props) => {
         const {filepath, orientation} = props;
 
         if (filepath.includes(".mp4")) {
@@ -31,7 +31,7 @@ export default function MediaContent(props) {
 
     return (
         <>
-            {displayMediaContent(props)}
+            {DisplayMediaContent(props)}
         </>
     )
 }
