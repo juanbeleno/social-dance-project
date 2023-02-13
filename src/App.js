@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react';
 import axios from "axios";
 import sampleSize from "lodash.samplesize";
 import Levels from "./Levels";
-import Tags from "./Tags";
+import TagSearch from "./TagSearch";
 import Content from "./Content";
 import Bookmarks from "./Bookmarks"
 
@@ -11,7 +11,6 @@ function App() {
   const [allValues, setAllValues] = useState({
     rawContent: [],
     tagColors: {},
-    filteredTags: [],
     filteredContent: [],
     selectedTag: "",
     levels: {
@@ -168,9 +167,6 @@ function App() {
         });
       });
 
-      // Filter tags to show only from on1, on2, colombiano, bachata sensual, and bachata moderna
-      const filteredTags = ["on1", "on2", "colombiano", "bachata sensual", "bachata moderna"];
-
       // Select 10 random gifs
       const filteredContent = sampleSize(rawContent, numContentElements)
 
@@ -183,7 +179,6 @@ function App() {
           ...prevValues,
           "rawContent": rawContent,
           "tagColors": tagColors,
-          "filteredTags": filteredTags,
           "filteredContent": filteredContent,
           "bookmarks": bookmarks
         }
@@ -197,8 +192,7 @@ function App() {
       <div className="text-purple-200 mb-6 mt-10">
         EXPLORE TAGS
       </div>
-      <Tags
-        filteredTags={allValues.filteredTags}
+      <TagSearch
         tagColors={allValues.tagColors}
         selectedTag={allValues.selectedTag}
         changeTagSelection={changeTagSelection}/>
