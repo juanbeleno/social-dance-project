@@ -42,7 +42,25 @@ Generalmente, una canción de bachata está compuesta por frases musicales. Las 
 
 ## Interpretación musical
 
-Golpes secos (Estacato): Movimientos rápidos que se acaban
+No he encontrado una forma estructurada y con suficiente profundidad de como aprender musicalidad en bachata. Por lo que este documento es un esfuerzo de mi parte para aprender interpretación musical.
+
+Para estructurar este documento, decidí estudiar varios videos de parejas de baile que yo (subjetivamente) considero que son buenas en musicalidad enfocada en sociales (No en coreografías): Daniel y Tom, Ofri y Ofir, Miguel y Sunsi, etc.
+
+Para cada video, identificaba como expectador los momentos del baile donde los bailarines claramente interpretaban musicalmente una parte de la canción que estaba sonando. Luego de identificar esos momentos, decidí generar una clasificación para saber que cosas tenían en común esos momentos y esa clasificación es la que va a quedar estructurada en este documento.
+
+Nota: Yo uso `interpretación musical` y `musicalidad` como sinónimos.
+
+### Interpretación musical por número de golpes
+
+Los instrumentos de la bachata aveces generan golpes que son interpretados por los bailarines/bailadores. Estos golpes pueden tener diferentes características como extensión (secos o extendidos), por número de golpes, velocidad de los golpes, instrumento, tiempo en el que suceden, etc. He decidido clasificarlos por número de golpes por prefencia personal.
+
+### 1 golpe
+
+La siguiente subclasificación que decidí usar es el tiempo en el que suceden los golpes porque es más frecuente que pasen en el tiempo 5 o en el tiempo 1.
+
+![Empujón simple](./assets/3d7f317.mp4)
+
+Golpes secos (Staccato): Movimientos rápidos que se acaban
 
 Golpes extendidos (Guitarra o Voz): Movimiento extendidos
 
