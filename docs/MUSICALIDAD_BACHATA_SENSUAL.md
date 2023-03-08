@@ -122,6 +122,12 @@ https://user-images.githubusercontent.com/10092275/223549730-78648a2b-0fef-4ea5-
 
 Referencia: [ATACA & LA ALEMANA Bachata Demo At TSR TYSONS](https://youtu.be/Win6IGMhQPo?t=57)
 
+- Sensación: jalón circular.
+
+https://user-images.githubusercontent.com/10092275/223606958-05f1f8ca-e516-4937-b8fc-1224b850b66c.mov
+
+Referencia: [OFIR & OFRI | BACHATA DANCE | Soraya & Dani J - Te Quiero A Ti](https://youtu.be/MBcUrsWSMKk?t=89)
+
 
 - Sensación: giro en 2 tiempos con desvio de miradas.
 
