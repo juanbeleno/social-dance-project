@@ -24,7 +24,7 @@ Generalmente, las canciones introducen un puente para hacer la transición entre
 
 ![Frases musicales](../assets/frases_musicales.png)
 
-Generalmente, una canción de bachata está compuesta por frases musicales. Las frases musicales están compuestas de 4 ochos. Usualmente, en la segunda mitad de la cuarta octava (o en la primera mitad de la primera octava de la siguiente frase músical) pasa algo. Por ejemplo, un repique de bongós, una variación en la güira o un golpe músical.
+Una canción de bachata está compuesta por frases musicales. Generalmente, las frases musicales están compuestas de 4 ochos (octavas). Usualmente, en la segunda mitad de la cuarta octava (o en la primera mitad de la primera octava de la siguiente frase músical) pasa algo. Por ejemplo, un repique de bongós, una variación en la güira o un golpe músical.
 
 ### Estructura general de una bachata
 
@@ -52,7 +52,7 @@ Nota: Yo uso `interpretación musical` y `musicalidad` como sinónimos.
 
 ### Interpretación musical por número de golpes
 
-Los instrumentos de la bachata aveces generan golpes que son interpretados por los bailarines/bailadores. Estos golpes pueden tener diferentes características como extensión (secos o extendidos), por número de golpes, velocidad de los golpes, instrumento, tiempo en el que suceden, etc. He decidido clasificarlos por número de golpes por prefencia personal.
+Los instrumentos de la bachata aveces generan golpes musicales que son interpretados por los bailarines/bailadores. Estos golpes pueden tener diferentes características como extensión (secos o extendidos), número de golpes, velocidad de los golpes, instrumento que lo produjo, tiempo en el que suceden, etc. He decidido clasificarlos por número de golpes por prefencia personal.
 
 ### Un golpe músical
 
