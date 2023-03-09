@@ -22,7 +22,7 @@ Generalmente, las canciones introducen un puente para hacer la transición entre
 
 ## Introducción a la teoría musical para bailarines/bailadores de bachata
 
-![Frases musicales](./assets/frases_musicales.png)
+![Frases musicales](../assets/frases_musicales.png)
 
 Generalmente, una canción de bachata está compuesta por frases musicales. Las frases musicales están compuestas de 4 ochos. Usualmente, en la segunda mitad de la cuarta octava (o en la primera mitad de la primera octava de la siguiente frase músical) pasa algo. Por ejemplo, un repique de bongós, una variación en la güira o un golpe músical.
 
