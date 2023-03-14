@@ -50,16 +50,15 @@ Para cada video, identificaba como expectador los momentos del baile donde los b
 
 Nota: Yo uso `interpretación musical` y `musicalidad` como sinónimos.
 
-### Interpretación musical por número de golpes
+Voy a estructurar el aprendizaje de interpretación musical usando principalmente 2 criterios: impacto y frecuencia en la que se puede aplicar los conceptos. De esta manera, doy prioridad a los movimientos que se ven bonitos y que se pueden aplicar frecuentemente en el baile social.
 
-Los instrumentos de la bachata aveces generan golpes musicales que son interpretados por los bailarines/bailadores. Estos golpes pueden tener diferentes características como extensión (secos o extendidos), número de golpes, velocidad de los golpes, instrumento que lo produjo, tiempo en el que suceden, etc. He decidido clasificarlos por número de golpes por prefencia personal.
+1. Cortes: Los cortes son las partes en la canción donde la música para de manera abrupta. Los cortes en la bachata suelen pasar en el tiempo 1 y 5.
 
-### Un golpe músical
+- [Cortes en tiempo 5](./CORTES_EN_5.md)
+- [Cortes en tiempo 1](./CORTES_EN_1.md)
+- Cortes en tiempo 7: Son poco comunes por lo que solo voy a dar [un ejemplo](https://youtu.be/PWWwwHaRUAo?t=73)
 
-La siguiente subclasificación que decidí usar es el tiempo en el que suceden los golpes porque es más frecuente que pasen en el tiempo 5 o en el tiempo 1.
-
-- [Golpes musicales en tiempo 5](./GOLPES_MUSICALES_EN_5.md)
-- [Golpes musicales en tiempo 1](./GOLPES_MUSICALES_EN_1.md)
+2. [Majao](./MAJAO.md): Como expliqué anteriormente, el majao es la parte de la canción donde la güira y el bongó se alinean para tocar todos los tiempos (1 2 3 4 5 6 7 8). Estos son los instrumentos que vamos a interpretar musicalmente.
 
 Golpes secos (Staccato): Movimientos rápidos que se acaban
 

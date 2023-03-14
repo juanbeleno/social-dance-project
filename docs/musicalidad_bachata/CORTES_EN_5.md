@@ -1,6 +1,6 @@
-# Golpes musicales en tiempo 5
+# Cortes en tiempo 5
 
-A continuación, presento varios ejemplos de interpretaciones de golpes musicales en tiempo 5 que tienen sensaciones diferentes en orden de impacto visual (subjetivo):
+A continuación, presento varios ejemplos de interpretaciones de cortes en tiempo 5 que tienen sensaciones diferentes en orden de impacto visual (subjetivo):
 
 - Para este primer ejemplo, ignoremos la música y concentremonos en el movimiento de empujar lateralmente al follow y alejar la vista hacia un costado contrario del movimiento y luego recuperar la postura en diagonal en tiempo 7 al tiempo que miramos al follow. El efecto de mirar al follow es importante.
 
@@ -97,4 +97,3 @@ Referencia: [Gero & Migle | Bachata | Jr - Salvaje](https://youtu.be/xZaRrsaUZj0
 - R.I.P - Romeo Santos ([0:58](https://youtu.be/Uzt3PBzObl4?t=58), [1:28](https://youtu.be/Uzt3PBzObl4?t=88), [1:43](https://youtu.be/Uzt3PBzObl4?t=103), [2:11](https://youtu.be/Uzt3PBzObl4?t=131), [2:42](https://youtu.be/Uzt3PBzObl4?t=162), [3:12](https://youtu.be/Uzt3PBzObl4?t=192))
 
 - Bachata - Kay One, Cristobal ([0:35](https://youtu.be/C1m64RYBUFw?t=34), [0:52](https://youtu.be/C1m64RYBUFw?t=52), [1:07](https://youtu.be/C1m64RYBUFw?t=67), [1:23](https://youtu.be/C1m64RYBUFw?t=83))
-
