@@ -94,6 +94,8 @@ Referencia: [Gero & Migle | Bachata | Jr - Salvaje](https://youtu.be/xZaRrsaUZj0
 
 ## Canciones recomendadas para practicar
 
-- R.I.P - Romeo Santos ([0:58](https://youtu.be/Uzt3PBzObl4?t=58), [1:28](https://youtu.be/Uzt3PBzObl4?t=88), [1:43](https://youtu.be/Uzt3PBzObl4?t=103), [2:11](https://youtu.be/Uzt3PBzObl4?t=131), [2:42](https://youtu.be/Uzt3PBzObl4?t=162), [3:12](https://youtu.be/Uzt3PBzObl4?t=192))
+- R.I.P - Romeo Santos ([0:58](https://youtu.be/Uzt3PBzObl4?t=58), [1:13](https://youtu.be/Uzt3PBzObl4?t=73), [1:28](https://youtu.be/Uzt3PBzObl4?t=88), [1:43](https://youtu.be/Uzt3PBzObl4?t=103), [2:11](https://youtu.be/Uzt3PBzObl4?t=131), [2:42](https://youtu.be/Uzt3PBzObl4?t=162), [3:12](https://youtu.be/Uzt3PBzObl4?t=192))
 
 - Bachata - Kay One, Cristobal ([0:35](https://youtu.be/C1m64RYBUFw?t=34), [0:52](https://youtu.be/C1m64RYBUFw?t=52), [1:07](https://youtu.be/C1m64RYBUFw?t=67), [1:23](https://youtu.be/C1m64RYBUFw?t=83))
+
+- Te extraño (Bachata version) - Xtreme ([1:04](https://youtu.be/Gw-14MK4NWU?t=64), [2:21](https://youtu.be/Gw-14MK4NWU?t=141), [2:26](https://youtu.be/Gw-14MK4NWU?t=146), [3:07](https://youtu.be/Gw-14MK4NWU?t=187), [3:21](https://youtu.be/Gw-14MK4NWU?t=201))

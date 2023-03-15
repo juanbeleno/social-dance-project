@@ -68,6 +68,10 @@ Referencia: [Corazon Sin Cara New Version! Prince Royce | Daniel y Tom Bachata D
 
 ## Canciones recomendadas para practicar
 
-- R.I.P - Romeo Santos ([0:28](https://youtu.be/Uzt3PBzObl4?t=28), [1:13](https://youtu.be/Uzt3PBzObl4?t=73))
-- Corazon Sin Cara - Prince Royce ([1:30](https://youtu.be/XNGWDH-6yv8?t=90))
 - Salvaje - Jr ([1:00](https://youtu.be/77DRRRv6asQ?t=60), [1:55](https://youtu.be/77DRRRv6asQ?t=115), [2:27\*](https://youtu.be/77DRRRv6asQ?t=147))
+
+- R.I.P - Romeo Santos ([0:28](https://youtu.be/Uzt3PBzObl4?t=28))
+
+- Corazon Sin Cara - Prince Royce ([1:30](https://youtu.be/XNGWDH-6yv8?t=90))
+
+- Te extraño (Bachata version) - Xtreme ([0:18](https://youtu.be/Gw-14MK4NWU?t=18), [0:34](https://youtu.be/Gw-14MK4NWU?t=34), [1:36](https://youtu.be/Gw-14MK4NWU?t=96), [1:52](https://youtu.be/Gw-14MK4NWU?t=112))
