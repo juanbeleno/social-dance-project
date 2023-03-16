@@ -1,6 +1,6 @@
 # Majao
 
-Como expliqué anteriormente, el majao es la parte de la canción donde la güira y el bongó se alinean para tocar todos los tiempos (1 2 3 4 5 6 7 8). Estos son los instrumentos que vamos a interpretar musicalmente. He visto que generalmente se interpretan máximo 8 tiempos de majao y luego se pasa a hacer otros pasos en 8 tiempos antes de volver a hacer interpretación musical del majao de nuevo. Talvez hacen esto para no saturar el baile.
+Como expliqué anteriormente, el majao es la parte de la canción donde la güira y el bongó se alinean para tocar todos los tiempos (1 2 3 4 5 6 7 8). Estos son los instrumentos que vamos a interpretar musicalmente. He visto que generalmente se interpretan máximo 8 tiempos de majao y luego se pasa a hacer otros pasos en 8 tiempos antes de volver a hacer interpretación musical del majao de nuevo. Talvez hacen esto para no saturar el baile. Podemos practicar este módulo con cualquier canción de bachata porque todas deben tener majao.
 
 A continuación, presento varios ejemplos de interpretaciones del majao que tienen sensaciones diferentes en orden de impacto visual (subjetivo):
 
@@ -81,8 +81,8 @@ https://user-images.githubusercontent.com/10092275/225438914-2cf0954b-4ee4-4130-
 Referencia: [Miguel y Sunsi Bachata - Kewin Cosmos](https://youtu.be/O6O1VP05UwE?t=56)
 
 
-- Sensación: Subida de ambas manos del follow desde posición del candado.
+- Sensación: Onda fraccionada desde una posición de sombra.
 
-https://user-images.githubusercontent.com/10092275/225438914-2cf0954b-4ee4-4130-9fda-463c8040e250.mov
+https://user-images.githubusercontent.com/10092275/225498294-a9a18713-bd4e-4f3d-b21c-57c18c1f4f58.mov
 
-Referencia: [Miguel y Sunsi Bachata - Kewin Cosmos](https://youtu.be/O6O1VP05UwE?t=56)
+Referencia: [Miguel y Sunsi Bachata - Falso Amor - Solo 2](https://youtu.be/trwfDyna_Ik?t=40)
