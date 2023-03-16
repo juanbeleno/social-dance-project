@@ -81,7 +81,7 @@ https://user-images.githubusercontent.com/10092275/225438914-2cf0954b-4ee4-4130-
 Referencia: [Miguel y Sunsi Bachata - Kewin Cosmos](https://youtu.be/O6O1VP05UwE?t=56)
 
 
-- Sensación: Onda fraccionada desde una posición de sombra.
+- Sensación: Onda fraccionada desde una posición de sombra. En el audio se escuchan golpes musicales, pero creo que podemos adaptarlo al majao.
 
 https://user-images.githubusercontent.com/10092275/225498294-a9a18713-bd4e-4f3d-b21c-57c18c1f4f58.mov
 
