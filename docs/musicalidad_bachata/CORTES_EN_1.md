@@ -36,6 +36,14 @@ https://user-images.githubusercontent.com/10092275/224150863-a04f8135-6e8e-494d-
 
 Referencia: [Corazon Sin Cara New Version! Prince Royce | Daniel y Tom Bachata Dance [Bachata Explosion]](https://youtu.be/PWWwwHaRUAo?t=197)
 
+
+- Sensación: Posición de titanic.
+
+https://user-images.githubusercontent.com/10092275/226456235-45fdc219-a486-483b-aa66-add618c9f385.mov
+
+Referencia: [Kewin Cosmos - Sin Censura | Bachata Cover | Donatas & Laura | Plovdiv Bachata Sensual Weekend](https://youtu.be/AH-zC3dV6E4?t=133)
+
+
 - Sensación: Jalón frontal con estilo después de un par de giros. Puede aplicarse cuando hay preparación de 4 (o 2) tiempos de bongó, güira, voz o guitarra.
 
 https://user-images.githubusercontent.com/10092275/224153660-8773fbbd-2e81-4489-a6ef-c2e0a1838b74.mov
