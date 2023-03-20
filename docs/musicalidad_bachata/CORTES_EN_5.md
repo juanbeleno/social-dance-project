@@ -50,6 +50,21 @@ https://user-images.githubusercontent.com/10092275/223548350-418faec6-4fcb-4f15-
 
 Referencia: [Fronteo Pinto Picasso (feat. sP Polanco) | Daniel y Tom Bachata Demo](https://youtu.be/QPff2vfyN04?t=73)
 
+
+- Sensación: cambio de diagonales desde posición cerrada.
+
+https://user-images.githubusercontent.com/10092275/226453525-4fddc6c4-4146-42b4-b717-d5683f19466d.mov
+
+Referencia: [Kewin Cosmos - Sin Censura | Bachata Cover | Donatas & Laura | Plovdiv Bachata Sensual Weekend](https://youtu.be/AH-zC3dV6E4?t=91)
+
+
+- Sensación: cambio de diagonales desde posición cerrada con más impulso.
+
+https://user-images.githubusercontent.com/10092275/226454696-45695593-de8d-4680-9d70-4ebcfc0f19cf.mov
+
+Referencia: [Mike Bahía & Greeicy - Esta Noche | Bachata Cover | Donatas & Laura | Lithuania | Vilnius](https://youtu.be/t56YAzXnnpo?t=39)
+
+
 - Sensación: jalón frontal con desvió de miradas.
 
 https://user-images.githubusercontent.com/10092275/223549730-78648a2b-0fef-4ea5-b056-dc1d5fcbc102.mov
@@ -62,6 +77,7 @@ https://user-images.githubusercontent.com/10092275/223606958-05f1f8ca-e516-4937-
 
 Referencia: [OFIR & OFRI | BACHATA DANCE | Soraya & Dani J - Te Quiero A Ti](https://youtu.be/MBcUrsWSMKk?t=89)
 
+
 - Sensación: giro en 2 tiempos con desvio de miradas.
 
 https://user-images.githubusercontent.com/10092275/223551167-ee0f88b4-6d33-4cca-b9c3-60664a38a06a.mov
@@ -73,6 +89,13 @@ Referencia: [OFIR & OFRI | BACHATA DANCE | DJ Tony Pecino ft. Pablo Dazan - Tu M
 https://user-images.githubusercontent.com/10092275/223552107-b0fd064d-43f2-4187-80cd-9b3af9fbcb30.mov
 
 Referencia: [YT Cobardes al Amar](https://youtu.be/tM-Oqu7wUfA?t=37)
+
+- Sensación: variación de giro en 2 tiempos desde posición de candado.
+
+https://user-images.githubusercontent.com/10092275/226452530-fbf88ed9-77d0-4572-81f9-36c35c096979.mov
+
+Referencia: [Romeo Santos - Sobredosis ft. Ozuna | Bachata Cover | Donatas & Andzelika | Vilnius | Lithuania](https://youtu.be/TWY6H874Tt0?t=10)
+
 
 - Sensación: giro en tiempo 3 con final en cambré. Sirve para cuando hay preparación (bongós, güira, etc.) en tiempo 3 y 4.
 
