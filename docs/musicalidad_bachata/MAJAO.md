@@ -39,13 +39,6 @@ https://user-images.githubusercontent.com/10092275/225428692-36f24c75-4be1-490d-
 Referencia: [MARCELO Y BELEN , New demo "Uh Huh" (DJ Selphi Bachata Remix 2018)](https://youtu.be/8Y4YyE7tn0c?t=55)
 
 
-- Sensación: Movimiento fraccionado de brazos del follow.
-
-https://user-images.githubusercontent.com/10092275/225433225-502f957d-47f7-4c29-9449-a62457fd2766.mov
-
-Referencia: [Daniel & Anais - Bachata social dancing | Summer Sensual Days 2022 (Rovinj)](https://youtu.be/a6CsAkCtQM8?t=134)
-
-
 - Sensación: Movimiento fraccionado de cadera del follow.
 
 https://user-images.githubusercontent.com/10092275/225436439-ff71b738-ed37-49bf-bd50-cb0ec77edede.mov
