@@ -1,5 +1,7 @@
 # Cortes en tiempo 5
 
+A parte de los cortes en tiempo 5, la misma interpretación musical puede ser hecha para cuando la voz acentúa el tiempo 5. 
+
 A continuación, presento varios ejemplos de interpretaciones de cortes en tiempo 5 que tienen sensaciones diferentes en orden de impacto visual (subjetivo):
 
 - Para este primer ejemplo, ignoremos la música y concentremonos en el movimiento de empujar lateralmente al follow y alejar la vista hacia un costado contrario del movimiento y luego recuperar la postura en diagonal en tiempo 7 al tiempo que miramos al follow. El efecto de mirar al follow es importante.
@@ -103,6 +105,14 @@ https://user-images.githubusercontent.com/10092275/223553297-091bda8e-f00b-4d98-
 
 Referencia: [OFIR & OFRI | BACHATA DANCE | Romeo Santos - R.I.P.](https://youtu.be/Vw2vUu-P9jc?t=68)
 
+
+- Sensación: Movimiento de onda lateral con giro de follow en 2 tiempos. Sirve para cuando hay preparación por voz en tiempo 3 y 4 o cuando está en el derecho.
+
+https://user-images.githubusercontent.com/10092275/226761960-6fc5e09d-4c1d-43d5-b549-de60f33286c2.mov
+
+Referencia: [Toby Love - Lejos | Donatas & Laura | Bachata Cover | Lithuania | Vilnius](https://youtu.be/ww1YrZfPnJw?t=23)
+
+
 - Sensación: caminata de preparación en 1, 2, 3 y 4 con giro rápido y cambio de mano al 5 y terminar lado a lado con buena separación. Sirve para cuando el corte vaya después de un majao sin mucha preparación de instrumentos.
 
 https://user-images.githubusercontent.com/10092275/223554406-a5c3e101-14fe-4be1-8fda-0cb946c2e979.mov
@@ -115,10 +125,17 @@ https://user-images.githubusercontent.com/10092275/223555384-7150b6ff-6209-43e3-
 
 Referencia: [Gero & Migle | Bachata | Jr - Salvaje](https://youtu.be/xZaRrsaUZj0?t=34)
 
-## Canciones recomendadas para practicar
+## Canciones recomendadas para practicar por cortes en 5
 
 - R.I.P - Romeo Santos ([0:58](https://youtu.be/Uzt3PBzObl4?t=58), [1:13](https://youtu.be/Uzt3PBzObl4?t=73), [1:28](https://youtu.be/Uzt3PBzObl4?t=88), [1:43](https://youtu.be/Uzt3PBzObl4?t=103), [2:11](https://youtu.be/Uzt3PBzObl4?t=131), [2:42](https://youtu.be/Uzt3PBzObl4?t=162), [3:12](https://youtu.be/Uzt3PBzObl4?t=192))
 
 - Bachata - Kay One, Cristobal ([0:35](https://youtu.be/C1m64RYBUFw?t=34), [0:52](https://youtu.be/C1m64RYBUFw?t=52), [1:07](https://youtu.be/C1m64RYBUFw?t=67), [1:23](https://youtu.be/C1m64RYBUFw?t=83))
 
 - Te extraño (Bachata version) - Xtreme ([1:04](https://youtu.be/Gw-14MK4NWU?t=64), [2:21](https://youtu.be/Gw-14MK4NWU?t=141), [2:26](https://youtu.be/Gw-14MK4NWU?t=146), [3:07](https://youtu.be/Gw-14MK4NWU?t=187), [3:21](https://youtu.be/Gw-14MK4NWU?t=201))
+
+
+## Canciones recomendadas para practicar por acentuaciones de la voz en tiempo 5
+
+- R.I.P - Romeo Santos ([0:36](https://youtu.be/Uzt3PBzObl4?t=36), [0:51](https://youtu.be/Uzt3PBzObl4?t=51), [1:50](https://youtu.be/Uzt3PBzObl4?t=110), [2:04](https://youtu.be/Uzt3PBzObl4?t=124), [2:49](https://youtu.be/Uzt3PBzObl4?t=169), [3:03](https://youtu.be/Uzt3PBzObl4?t=183))
+
+- Perro - Romeo Santos ([0:36](https://youtu.be/OtBrF64KLFs?t=36), [0:52](https://youtu.be/OtBrF64KLFs?t=52), [1:01](https://youtu.be/OtBrF64KLFs?t=61), [1:08](https://youtu.be/OtBrF64KLFs?t=68), [1:16](https://youtu.be/OtBrF64KLFs?t=76), [1:24](https://youtu.be/OtBrF64KLFs?t=84), [1:59](https://youtu.be/OtBrF64KLFs?t=119), [2:07](https://youtu.be/OtBrF64KLFs?t=127), [2:20](https://youtu.be/OtBrF64KLFs?t=140), [2:28](https://youtu.be/OtBrF64KLFs?t=148), [2:36](https://youtu.be/OtBrF64KLFs?t=156), [2:42](https://youtu.be/OtBrF64KLFs?t=162), [2:51](https://youtu.be/OtBrF64KLFs?t=171))
