@@ -1,6 +1,6 @@
 # Cortes en tiempo 5
 
-A parte de los cortes en tiempo 5, la misma interpretación musical puede ser hecha para cuando la voz acentúa el tiempo 5. 
+A parte de los cortes en tiempo 5, la misma interpretación musical puede ser hecha para cuando la voz acentúa el tiempo 5.
 
 A continuación, presento varios ejemplos de interpretaciones de cortes en tiempo 5 que tienen sensaciones diferentes en orden de impacto visual (subjetivo):
 
@@ -52,20 +52,17 @@ https://user-images.githubusercontent.com/10092275/223548350-418faec6-4fcb-4f15-
 
 Referencia: [Fronteo Pinto Picasso (feat. sP Polanco) | Daniel y Tom Bachata Demo](https://youtu.be/QPff2vfyN04?t=73)
 
-
 - Sensación: cambio de diagonales desde posición cerrada.
 
 https://user-images.githubusercontent.com/10092275/226453525-4fddc6c4-4146-42b4-b717-d5683f19466d.mov
 
 Referencia: [Kewin Cosmos - Sin Censura | Bachata Cover | Donatas & Laura | Plovdiv Bachata Sensual Weekend](https://youtu.be/AH-zC3dV6E4?t=91)
 
-
 - Sensación: cambio de diagonales desde posición cerrada con más impulso.
 
 https://user-images.githubusercontent.com/10092275/226454696-45695593-de8d-4680-9d70-4ebcfc0f19cf.mov
 
 Referencia: [Mike Bahía & Greeicy - Esta Noche | Bachata Cover | Donatas & Laura | Lithuania | Vilnius](https://youtu.be/t56YAzXnnpo?t=39)
-
 
 - Sensación: jalón frontal con desvió de miradas.
 
@@ -78,7 +75,6 @@ Referencia: [ATACA & LA ALEMANA Bachata Demo At TSR TYSONS](https://youtu.be/Win
 https://user-images.githubusercontent.com/10092275/223606958-05f1f8ca-e516-4937-b8fc-1224b850b66c.mov
 
 Referencia: [OFIR & OFRI | BACHATA DANCE | Soraya & Dani J - Te Quiero A Ti](https://youtu.be/MBcUrsWSMKk?t=89)
-
 
 - Sensación: giro en 2 tiempos con desvio de miradas.
 
@@ -98,20 +94,17 @@ https://user-images.githubusercontent.com/10092275/226452530-fbf88ed9-77d0-4572-
 
 Referencia: [Romeo Santos - Sobredosis ft. Ozuna | Bachata Cover | Donatas & Andzelika | Vilnius | Lithuania](https://youtu.be/TWY6H874Tt0?t=10)
 
-
 - Sensación: giro en tiempo 3 con final en cambré. Sirve para cuando hay preparación (bongós, güira, etc.) en tiempo 3 y 4.
 
 https://user-images.githubusercontent.com/10092275/223553297-091bda8e-f00b-4d98-a0f3-8b5b756a75c8.mov
 
 Referencia: [OFIR & OFRI | BACHATA DANCE | Romeo Santos - R.I.P.](https://youtu.be/Vw2vUu-P9jc?t=68)
 
-
 - Sensación: Movimiento de onda lateral con giro de follow en 2 tiempos. Sirve para cuando hay preparación por voz en tiempo 3 y 4 o cuando está en el derecho.
 
 https://user-images.githubusercontent.com/10092275/226761960-6fc5e09d-4c1d-43d5-b549-de60f33286c2.mov
 
 Referencia: [Toby Love - Lejos | Donatas & Laura | Bachata Cover | Lithuania | Vilnius](https://youtu.be/ww1YrZfPnJw?t=23)
-
 
 - Sensación: caminata de preparación en 1, 2, 3 y 4 con giro rápido y cambio de mano al 5 y terminar lado a lado con buena separación. Sirve para cuando el corte vaya después de un majao sin mucha preparación de instrumentos.
 
@@ -132,7 +125,6 @@ Referencia: [Gero & Migle | Bachata | Jr - Salvaje](https://youtu.be/xZaRrsaUZj0
 - Bachata - Kay One, Cristobal ([0:35](https://youtu.be/C1m64RYBUFw?t=34), [0:52](https://youtu.be/C1m64RYBUFw?t=52), [1:07](https://youtu.be/C1m64RYBUFw?t=67), [1:23](https://youtu.be/C1m64RYBUFw?t=83))
 
 - Te extraño (Bachata version) - Xtreme ([1:04](https://youtu.be/Gw-14MK4NWU?t=64), [2:21](https://youtu.be/Gw-14MK4NWU?t=141), [2:26](https://youtu.be/Gw-14MK4NWU?t=146), [3:07](https://youtu.be/Gw-14MK4NWU?t=187), [3:21](https://youtu.be/Gw-14MK4NWU?t=201))
-
 
 ## Canciones recomendadas para practicar por acentuaciones de la voz en tiempo 5
 

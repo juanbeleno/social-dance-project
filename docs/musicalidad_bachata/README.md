@@ -60,6 +60,8 @@ Voy a estructurar el aprendizaje de interpretación musical usando principalment
 
 2. [Majao](./MAJAO.md): Como expliqué anteriormente, el majao es la parte de la canción donde la güira y el bongó se alinean para tocar todos los tiempos (1 2 3 4 5 6 7 8). Estos son los instrumentos que vamos a interpretar musicalmente.
 
+3. [Interpretación de voz alargada del tiempo 5 al 8](./VOZ_ALARGADA_5_8.md): Existen momentos donde el/la cantante alarga la voz. Esto ocurre frecuentemente en los tiempos del 5 al 8.
+
 Golpes secos (Staccato): Movimientos rápidos que se acaban
 
 Golpes extendidos (Guitarra o Voz): Movimiento extendidos
