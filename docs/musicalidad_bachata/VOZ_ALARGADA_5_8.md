@@ -1,11 +1,88 @@
 # Voz alargada en los tiempos del 5 al 8
 
-Es común que el cantante alargué la voz al final de las frases en algunas partes de la canción. Ese alargamiento de la voz frecuentemente coincide con los tiempos del 5 al 8.
+Es común que el cantante alargué la voz al final de las frases en algunas partes de la canción. Ese alargamiento de la voz, frecuentemente coincide con los tiempos del 5 al 8.
 
 A continuación, presento varios ejemplos de interpretaciones de alargamiento de voz en los tiempos del 5 al 8 que tienen sensaciones diferentes en orden de impacto visual (subjetivo):
 
-- Sensación: Jalón lateral con cambio de posición.
+- Sensación: Jalón frontal con peinada al follow.
 
-https://user-images.githubusercontent.com/10092275/224145276-74083566-03f6-47a9-ab2b-a7cee2824050.mov
+https://user-images.githubusercontent.com/10092275/227332830-47ac1496-2c99-471e-96ea-1c61df7690cd.mov
 
-Referencia: [Jr - Salvaje | Bachata Dance | Magda & Valeria](https://youtu.be/_cyTqKo8z6w?t=90)
+Referencia: [Tu Me Delatas - DJ Tony Pecino | Anastasia & Jovanny @ BIG Houston 2022 | Bachata Sensual Dance](https://youtu.be/9zrozbMD6Vk?t=41)
+
+
+- Sensación: Giro en 6 desde un madrid.
+
+https://user-images.githubusercontent.com/10092275/227334695-12aa8e99-2481-40ae-aaee-c2134564bcf9.mov
+
+Referencia: [Mike Bahía & Greeicy - Esta Noche | Bachata Cover | Donatas & Laura | Lithuania | Vilnius](https://youtu.be/t56YAzXnnpo?t=57)
+
+
+- Sensación: Movimiento circular de torso.
+
+https://user-images.githubusercontent.com/10092275/227335556-b4cc0484-0c05-4308-83d5-7e12cc3a409a.mov
+
+Referencia: [Tu Me Delatas - DJ Tony Pecino | Anastasia & Jovanny @ BIG Houston 2022 | Bachata Sensual Dance](https://youtu.be/9zrozbMD6Vk?t=95)
+
+
+- Sensación: Desde posición de sombra, medio círculo de cintura y onda lateral.
+
+https://user-images.githubusercontent.com/10092275/227339055-437f0e91-23a7-40df-a322-531459a252e4.mov
+
+Referencia: [Juan Luis Guerra - Burbujas De Amor | Kike y Nahir | Sensual Dance](https://youtu.be/BxffiVw1i1g?t=61)
+
+
+- Sensación: Caída perpendicular desde posición de pretzel.
+
+https://user-images.githubusercontent.com/10092275/227341338-539f8677-25ba-4266-9f05-273abca35d5e.mov
+
+Referencia: [OFIR & OFRI | BACHATA DANCE | Dani J - Tu Juguete](https://youtu.be/zYtcDMnu-AY?t=45)
+
+
+- Sensación: Cambré de lado a lado.
+
+https://user-images.githubusercontent.com/10092275/227343628-78f87518-b773-4292-b87a-27be3ee737d9.mov
+
+Referencia: [Carlos & Paz - Bachata social dancing | Summer Sensual Days 2022 (Rovinj)](https://youtu.be/rGlw62XlyRo?t=125)
+
+
+- Sensación: Giro invertido del líder desde un madrid.
+
+https://user-images.githubusercontent.com/10092275/227344943-f6fc0946-25fb-40ff-b4b8-40c64836aefd.mov
+
+Referencia: [Romeo Santos - Carmín ft. Juan Luis Guerra | Donatas & Andzelika Bachata Cover | Prague](https://youtu.be/HnEfIrGiJws?t=88)
+
+
+- Sensación: Headroll.
+
+https://user-images.githubusercontent.com/10092275/227351010-758d11f3-09ee-4ee2-a3a5-378e9ec82d8c.mov
+
+Referencia: [Miguel y Sunsi Bachata - Romeo Santos - Solo Conmigo](https://youtu.be/VuZSTF5jbIk?t=163)
+
+
+- Sensación: Headroll al líder.
+
+https://user-images.githubusercontent.com/10092275/227362963-ed589fb5-4579-42bb-85b2-c34b3b95dd87.mov
+
+Referencia: [Mike Bahía & Greeicy - Esta Noche | Bachata Cover | Donatas & Laura | Lithuania | Vilnius](https://youtu.be/t56YAzXnnpo?t=4)
+
+
+- Sensación: Giro en 2 tiempos y onda de vuelta en 2 tiempos.
+
+https://user-images.githubusercontent.com/10092275/227364488-95736a88-6e6b-40e6-8cf1-941f3d96987c.mov
+
+Referencia: [OFIR & OFRI | BACHATA DANCE | DJ Clau - Convenceme](https://youtu.be/0KCEpelo-zs?t=97)
+
+
+- Sensación: Giro desde el cuello con descolgada y onda.
+
+https://user-images.githubusercontent.com/10092275/227367927-f1cf2adb-47d1-40dc-aa0f-26453dd5429b.mov
+
+Referencia: [Juan Luis Guerra - Burbujas De Amor | Kike y Nahir | Sensual Dance](https://youtu.be/BxffiVw1i1g?t=42)
+
+
+- Sensación: Giro con cambré.
+
+https://user-images.githubusercontent.com/10092275/227371445-bb153d08-2ea1-4959-a214-270fbcd2a42f.mov
+
+Referencia: [Miguel y Sunsi Bachata - Sin tu Amor - Johnny Sky](https://youtu.be/C-TsyWSbGfQ?t=66)
