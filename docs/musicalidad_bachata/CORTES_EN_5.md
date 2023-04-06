@@ -94,6 +94,21 @@ https://user-images.githubusercontent.com/10092275/226452530-fbf88ed9-77d0-4572-
 
 Referencia: [Romeo Santos - Sobredosis ft. Ozuna | Bachata Cover | Donatas & Andzelika | Vilnius | Lithuania](https://youtu.be/TWY6H874Tt0?t=10)
 
+
+- Sensación: flick con preparación de bongós en un tiempo.
+
+https://user-images.githubusercontent.com/10092275/230443398-eb6d7bfa-64c5-4509-a01a-0d6d045c3d38.mov
+
+Referencia: [Tonio & Ana / Necio - Romeo Santos feat Carlos Santana / Bachata Sensual / Sensual Dance / Bachata](https://youtu.be/uDpuTQQWh6c?t=222)
+
+
+- Sensación: giro en 2 tiempos con caída hacía atrás.
+
+https://user-images.githubusercontent.com/10092275/230441799-3f852665-9f6b-44dc-981a-b0fc2632db2d.mp4
+
+Referencia: [Melvin & Gatica | Nada Es Igual - Pinto Picasso | Bachata Geneva Festival 2022](https://youtu.be/-UqD47JDHEs?t=20)
+
+
 - Sensación: giro en tiempo 3 con final en cambré. Sirve para cuando hay preparación (bongós, güira, etc.) en tiempo 3 y 4.
 
 https://user-images.githubusercontent.com/10092275/223553297-091bda8e-f00b-4d98-a0f3-8b5b756a75c8.mov
