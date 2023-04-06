@@ -36,13 +36,11 @@ https://user-images.githubusercontent.com/10092275/224150863-a04f8135-6e8e-494d-
 
 Referencia: [Corazon Sin Cara New Version! Prince Royce | Daniel y Tom Bachata Dance [Bachata Explosion]](https://youtu.be/PWWwwHaRUAo?t=197)
 
-
 - Sensación: Posición de titanic.
 
 https://user-images.githubusercontent.com/10092275/226456235-45fdc219-a486-483b-aa66-add618c9f385.mov
 
 Referencia: [Kewin Cosmos - Sin Censura | Bachata Cover | Donatas & Laura | Plovdiv Bachata Sensual Weekend](https://youtu.be/AH-zC3dV6E4?t=133)
-
 
 - Sensación: Jalón frontal con estilo después de un par de giros. Puede aplicarse cuando hay preparación de 4 (o 2) tiempos de bongó, güira, voz o guitarra.
 
@@ -82,4 +80,4 @@ Referencia: [Corazon Sin Cara New Version! Prince Royce | Daniel y Tom Bachata D
 
 - Corazon Sin Cara - Prince Royce ([1:30](https://youtu.be/XNGWDH-6yv8?t=90))
 
-- Te extraño (Bachata version) - Xtreme ([0:18](https://youtu.be/Gw-14MK4NWU?t=18), [0:34](https://youtu.be/Gw-14MK4NWU?t=34), [1:36](https://youtu.be/Gw-14MK4NWU?t=96), [1:52](https://youtu.be/Gw-14MK4NWU?t=112))
+- Hookah & Sheridan's - Mr.Don Ft: Dj Khalid (Versión Bachata) ([0:45](https://youtu.be/vmbaZSTSxB4?t=45), [1:31](https://youtu.be/vmbaZSTSxB4?t=91), [2:42](https://youtu.be/vmbaZSTSxB4?t=162), [3:20](https://youtu.be/vmbaZSTSxB4?t=200))

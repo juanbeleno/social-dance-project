@@ -124,7 +124,7 @@ Referencia: [Gero & Migle | Bachata | Jr - Salvaje](https://youtu.be/xZaRrsaUZj0
 
 - Bachata - Kay One, Cristobal ([0:35](https://youtu.be/C1m64RYBUFw?t=34), [0:52](https://youtu.be/C1m64RYBUFw?t=52), [1:07](https://youtu.be/C1m64RYBUFw?t=67), [1:23](https://youtu.be/C1m64RYBUFw?t=83))
 
-- Te extraño (Bachata version) - Xtreme ([1:04](https://youtu.be/Gw-14MK4NWU?t=64), [2:21](https://youtu.be/Gw-14MK4NWU?t=141), [2:26](https://youtu.be/Gw-14MK4NWU?t=146), [3:07](https://youtu.be/Gw-14MK4NWU?t=187), [3:21](https://youtu.be/Gw-14MK4NWU?t=201))
+- Necio - Romeo Santos ([1:09](https://youtu.be/DXiXPhvYuNU?t=69), [1:27](https://youtu.be/DXiXPhvYuNU?t=87), [2:38](https://youtu.be/DXiXPhvYuNU?t=158), [2:54](https://youtu.be/DXiXPhvYuNU?t=174), [3:43](https://youtu.be/DXiXPhvYuNU?t=223), [4:00](https://youtu.be/DXiXPhvYuNU?t=240))
 
 ## Canciones recomendadas para practicar por acentuaciones de la voz en tiempo 5
 
