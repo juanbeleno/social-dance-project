@@ -18,6 +18,13 @@ https://user-images.githubusercontent.com/10092275/227334695-12aa8e99-2481-40ae-
 Referencia: [Mike Bahía & Greeicy - Esta Noche | Bachata Cover | Donatas & Laura | Lithuania | Vilnius](https://youtu.be/t56YAzXnnpo?t=57)
 
 
+- Sensación: Movimiento de cintura.
+
+https://user-images.githubusercontent.com/10092275/230449671-03b49447-68da-4b03-8310-15af2459c168.mp4
+
+Referencia: [Tonio & Ysenah / No Tiene La Culpa - Romeo Santos / Bachata Sensual / Social Dancing /Bachata Addict](https://youtu.be/fDuckPb3Gws?t=119)
+
+
 - Sensación: Movimiento circular de torso.
 
 https://user-images.githubusercontent.com/10092275/227335556-b4cc0484-0c05-4308-83d5-7e12cc3a409a.mov
@@ -46,6 +53,13 @@ https://user-images.githubusercontent.com/10092275/227343628-78f87518-b773-4292-
 Referencia: [Carlos & Paz - Bachata social dancing | Summer Sensual Days 2022 (Rovinj)](https://youtu.be/rGlw62XlyRo?t=125)
 
 
+- Sensación: Cambré de lado a lado desde madrid.
+
+https://user-images.githubusercontent.com/10092275/230449154-7b666bcd-f2ca-4b04-be15-381b2239523a.mov
+
+Referencia: [Tonio & Ysenah / No Tiene La Culpa - Romeo Santos / Bachata Sensual / Social Dancing /Bachata Addict](https://youtu.be/fDuckPb3Gws?t=111)
+
+
 - Sensación: Giro invertido del líder desde un madrid.
 
 https://user-images.githubusercontent.com/10092275/227344943-f6fc0946-25fb-40ff-b4b8-40c64836aefd.mov
@@ -65,6 +79,13 @@ Referencia: [Miguel y Sunsi Bachata - Romeo Santos - Solo Conmigo](https://youtu
 https://user-images.githubusercontent.com/10092275/227362963-ed589fb5-4579-42bb-85b2-c34b3b95dd87.mov
 
 Referencia: [Mike Bahía & Greeicy - Esta Noche | Bachata Cover | Donatas & Laura | Lithuania | Vilnius](https://youtu.be/t56YAzXnnpo?t=4)
+
+
+- Sensación: Cambré lado a lado marcado desde el antebrazo.
+
+https://user-images.githubusercontent.com/10092275/230453588-0a5bdfff-5e0b-44f9-abd7-b066c433f8d8.mp4
+
+Referencia: [OFIR & OFRI | BACHATA DANCE | Romeo Santos, ROSALÍA - El Pañuelo](https://youtu.be/7ONtSMpPtpU?t=115)
 
 
 - Sensación: Giro en 2 tiempos y onda de vuelta en 2 tiempos.
