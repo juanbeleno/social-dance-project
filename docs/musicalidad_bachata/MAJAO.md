@@ -25,6 +25,13 @@ https://user-images.githubusercontent.com/10092275/225433225-502f957d-47f7-4c29-
 Referencia: [Daniel & Anais - Bachata social dancing | Summer Sensual Days 2022 (Rovinj)](https://youtu.be/a6CsAkCtQM8?t=134)
 
 
+- Sensación: Movimiento arriba y abajo de hombros.
+
+https://user-images.githubusercontent.com/10092275/230445915-365e9adc-3b6e-4fa0-a222-164a893f32bb.mov
+
+Referencia: [Jérémy & Ysenah / Lo Dice La Gente - Daniel Santacruz / Bachata Sensual /Latina Dance/Bachata Addict](https://youtu.be/7l7WJliavLQ?t=76)
+
+
 - Sensación: Movimientos laterales y frontales desde posición de sombra.
 
 https://user-images.githubusercontent.com/10092275/225427226-e696c199-6ee1-468e-9ade-54ec42587897.mov
