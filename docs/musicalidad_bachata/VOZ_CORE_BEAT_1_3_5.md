@@ -6,4 +6,6 @@ A continuación, presento varios ejemplos de interpretaciones musicales de la ac
 
 - Sensación: tres ondas desde posición de pretzel.
 
+https://user-images.githubusercontent.com/10092275/234638022-a366acd9-73a0-446d-9100-554f3477268a.mp4
+
 Referencia: [OFIR & OFRI | BACHATA DANCE | DJ Clau - Convenceme](https://youtu.be/0KCEpelo-zs?t=62)
