@@ -62,6 +62,8 @@ Voy a estructurar el aprendizaje de interpretación musical usando principalment
 
 3. [Interpretación de voz alargada del tiempo 5 al 8](./VOZ_ALARGADA_5_8.md): Existen momentos donde el/la cantante alarga la voz. Esto ocurre frecuentemente en los tiempos del 5 al 8.
 
+4. [Interpretación de voz acentuando el core beat (1,3 y 5)](./VOZ_CORE_BEAT_1_3_5.md): Existen momentos donde el/la cantante acentúa la voz en el core beat (1,3, 5 y 7). Esto ocurre frecuentemente acentuando solo los tiempos 1, 3 y 5.
+
 Golpes secos (Staccato): Movimientos rápidos que se acaban
 
 Golpes extendidos (Guitarra o Voz): Movimiento extendidos
