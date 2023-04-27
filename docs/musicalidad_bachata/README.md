@@ -4,7 +4,7 @@
 
 La bachata está compuesta principalmente por 3 ritmos: derecho (también llamado "caminando"), majao y mambo. En canciones modernas, también hay un ritmo adicional donde es más instrumental (o vocal) usada en el intro de la canción, en transiciones y/o al final de la canción.
 
-Derecho: El trinche de la güira la golpea de lado a doble tiempo (& 1 & 2 & 3 & 4 & 5 & 6 & 7 & 8) sin raspar. Este ritmo tiene la menor energía en la bachata tradicional. Deberiamos enfocarnos en pasos en posición cerrada y con poca energía. Aquí podemos enfocarnos en interpretar instrumentos diferentes a la güira y bongó como la voz.
+Derecho: El trinche de la güira la golpea de lado en tiempo sincopado (& 1 & 2 & 3 & 4 & 5 & 6 & 7 & 8) sin raspar. Este ritmo tiene la menor energía en la bachata tradicional. Deberiamos enfocarnos en pasos en posición cerrada y con poca energía. Aquí podemos enfocarnos en interpretar instrumentos diferentes a la güira y bongó como la voz.
 
 Majao: La güira y el bongó se alinean para tocar a tiempo (1 2 3 4 5 6 7 8). Este ritmo tiene la segunda mayor energía en la bachata tradicional. Deberiamos enfocarnos en movimientos fraccionados (interpretando la güira y el bongó) a tiempo (no más de 8 movimientos seguidos) y pasos con un poco más de energía. Aquí ya podemos hacer varios pasos en posición abierta.
 
