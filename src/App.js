@@ -39,6 +39,9 @@ function App() {
     ]
   });
 
+  // Save in localStorage
+  localStorage.setItem("bookmarks", JSON.stringify(allValues.bookmarks))
+
   // Define the number of elements to load
   const numContentElements = 10;
 
@@ -185,7 +188,7 @@ function App() {
       const filteredContent = sampleSize(rawContent, numContentElements)
 
       // Load bookmarks
-      const bookmarks = JSON.parse(localStorage.getItem("bookmarks")) || allValues.bookmarks;
+      const bookmarks = JSON.parse(localStorage.getItem("bookmarks")) || [];
 
       // Update the state with the new values
       setAllValues( prevValues => {
