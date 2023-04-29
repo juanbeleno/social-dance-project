@@ -34,7 +34,8 @@ function App() {
       '914252e', '1618d52', '7946897', '76bcd4e', '1c9b87f',
       '5fb6c7d', '563398d', 'f2fa10c', '3aee1d7', '7048e3e',
       '163e819', '439b0b0', 'a6046b1', 'f779180', '42d0e2c',
-      '1385378', 'baabf3f', 'aa7ef97'
+      '1385378', 'baabf3f', 'aa7ef97', 'd9a21ba', '26ee386',
+      '6463c4f', 'e62a43e', '12dbc32', '276cd62', 'f97f357'
     ]
   });
 
@@ -184,7 +185,7 @@ function App() {
       const filteredContent = sampleSize(rawContent, numContentElements)
 
       // Load bookmarks
-      const bookmarks = JSON.parse(localStorage.getItem("bookmarks")) || [];
+      const bookmarks = JSON.parse(localStorage.getItem("bookmarks")) || allValues.bookmarks;
 
       // Update the state with the new values
       setAllValues( prevValues => {
