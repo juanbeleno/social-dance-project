@@ -143,6 +143,8 @@ Referencia: [Gero & Migle | Bachata | Jr - Salvaje](https://youtu.be/xZaRrsaUZj0
 
 - Soberbio - Romeo Santos ([1:05](https://youtu.be/JBlTChrXAy4?t=65), [1:21](https://youtu.be/JBlTChrXAy4?t=81), [1:54](https://youtu.be/JBlTChrXAy4?t=114), [2:10](https://youtu.be/JBlTChrXAy4?t=130), [2:26](https://youtu.be/JBlTChrXAy4?t=146), [3:00*](https://youtu.be/JBlTChrXAy4?t=180), [3:15](https://youtu.be/JBlTChrXAy4?t=195), [3:36](https://youtu.be/JBlTChrXAy4?t=216))
 
+- La Vecina - Kewin Cosmos ([0:43](https://youtu.be/S50Vs_y1W2A?t=43), [0:57](https://youtu.be/S50Vs_y1W2A?t=57), [1:12](https://youtu.be/S50Vs_y1W2A?t=72), [1:20](https://youtu.be/S50Vs_y1W2A?t=80), [1:27](https://youtu.be/S50Vs_y1W2A?t=87), [1:42](https://youtu.be/S50Vs_y1W2A?t=102), [1:57](https://youtu.be/S50Vs_y1W2A?t=117))
+
 ## Canciones recomendadas para practicar por acentuaciones de la voz en tiempo 5
 
 - R.I.P - Romeo Santos ([0:36](https://youtu.be/Uzt3PBzObl4?t=36), [0:51](https://youtu.be/Uzt3PBzObl4?t=51), [1:50](https://youtu.be/Uzt3PBzObl4?t=110), [2:04](https://youtu.be/Uzt3PBzObl4?t=124), [2:49](https://youtu.be/Uzt3PBzObl4?t=169), [3:03](https://youtu.be/Uzt3PBzObl4?t=183))
