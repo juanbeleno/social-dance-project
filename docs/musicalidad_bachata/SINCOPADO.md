@@ -37,3 +37,15 @@ Referencia: [Tonio & Ysenah / No Tiene La Culpa - Romeo Santos / Bachata Sensual
 https://user-images.githubusercontent.com/10092275/234744564-51ed3f94-f18b-4dce-befe-27c8fe667af0.mp4
 
 Referencia: [Tonio & Ysenah / No Tiene La Culpa - Romeo Santos / Bachata Sensual / Social Dancing /Bachata Addict](https://youtu.be/fDuckPb3Gws?t=229)
+
+## Canciones recomendadas para practicar sincopados
+
+- Enseñame a olvidar - Aventura ([0:50](https://youtu.be/uPCZm2Tvjpo?t=50), [1:04](https://youtu.be/uPCZm2Tvjpo?t=64), [2:07](https://youtu.be/uPCZm2Tvjpo?t=127), [2:38*](https://youtu.be/uPCZm2Tvjpo?t=158), [2:46](https://youtu.be/uPCZm2Tvjpo?t=166), [3:31](https://youtu.be/uPCZm2Tvjpo?t=211), [3:48](https://youtu.be/uPCZm2Tvjpo?t=228))
+
+- Bésame - Dani J, Sanco, Dj Husky ([0:05](https://youtu.be/sYJJxSqDdVM?t=5), [0:09](https://youtu.be/sYJJxSqDdVM?t=9), [0:13](https://youtu.be/sYJJxSqDdVM?t=13), [0:16](https://youtu.be/sYJJxSqDdVM?t=16), [1:19](https://youtu.be/sYJJxSqDdVM?t=79), [1:22](https://youtu.be/sYJJxSqDdVM?t=82), [1:26](https://youtu.be/sYJJxSqDdVM?t=86), [1:30](https://youtu.be/sYJJxSqDdVM?t=90), [1:34](https://youtu.be/sYJJxSqDdVM?t=94), [1:38](https://youtu.be/sYJJxSqDdVM?t=98), [1:41](https://youtu.be/sYJJxSqDdVM?t=101), [1:44](https://youtu.be/sYJJxSqDdVM?t=104), [3:02](https://youtu.be/sYJJxSqDdVM?t=182), [3:06](https://youtu.be/sYJJxSqDdVM?t=186), [3:10](https://youtu.be/sYJJxSqDdVM?t=190), [3:14](https://youtu.be/sYJJxSqDdVM?t=194), [3:17](https://youtu.be/sYJJxSqDdVM?t=197), [3:20](https://youtu.be/sYJJxSqDdVM?t=200), [3:24](https://youtu.be/sYJJxSqDdVM?t=204), [3:28](https://youtu.be/sYJJxSqDdVM?t=208))
+
+- Antes del lunes - El torito ([0:57](https://youtu.be/dXjxxZVyAQk?t=57), [1:59](https://youtu.be/dXjxxZVyAQk?t=119), [2:54](https://youtu.be/dXjxxZVyAQk?t=174))
+
+- Corazón con candado - Raulín Rodriguez ([0:49](https://youtu.be/TZdV0BvZW6o?t=49), [2:46](https://youtu.be/TZdV0BvZW6o?t=166))
+
+- Ciudadana - Romeo Santos ([0:35](https://youtu.be/Plq4dTFS4Pc?t=35), [2:12](https://youtu.be/Plq4dTFS4Pc?t=132))
