@@ -1,8 +1,8 @@
-# Voz acentuada en el core beat (1 ~ 3 ~ 5)
+# Voz acentuada en el core beat (1 ~ 3 ~ 5 ~ 7)
 
-Una de las herramientas que usa el cantante en la bachata es acentuar la voz en el core beat (1, 3, 5 y 7). En ocaciones, la acentuación puede demorar más de una octava, pero uno de los patrones más frecuentes que encontré es la acentuación en el 1, 3 y 5 (sin el 7).
+Una de las herramientas que usa el cantante en la bachata es acentuar la voz en el core beat (1, 3, 5 y 7). En ocaciones, la acentuación puede demorar más de una octava, pero uno de los patrones más frecuentes que encontré es la acentuación en el 1, 3 y 5 (sin el 7). Este tipo de musicalidad parece ser más fácil de percibir en los coros, pero tambien aparece en [otras partes de las canciones](https://youtu.be/Uzt3PBzObl4?t=23).
 
-A continuación, presento varios ejemplos de interpretaciones musicales de la acentuación en 1, 3 y 5 que tienen sensaciones diferentes en orden de impacto visual (subjetivo):
+A continuación, presento varios ejemplos de interpretaciones musicales de la acentuación en 1, 3, 5 y 7 que tienen sensaciones diferentes en orden de impacto visual (subjetivo):
 
 - Sensación: tres ondas desde posición de pretzel.
 
@@ -49,3 +49,11 @@ Referencia: [Abdel & Lety - Bachata Flow | Summer Sensual Days 2022 (Opatija)](h
 ## Canciones recomendadas para practicar
 
 - Frio - Jensen ([0:39](https://youtu.be/8NhQZLW-4C0?t=39), [0:47](https://youtu.be/8NhQZLW-4C0?t=47), [0:55](https://youtu.be/8NhQZLW-4C0?t=55), [1:20*](https://youtu.be/8NhQZLW-4C0?t=80), [2:00](https://youtu.be/8NhQZLW-4C0?t=120), [2:09](https://youtu.be/8NhQZLW-4C0?t=129), [2:17](https://youtu.be/8NhQZLW-4C0?t=137), [3:30](https://youtu.be/8NhQZLW-4C0?t=210), [3:39](https://youtu.be/8NhQZLW-4C0?t=219), [3:46](https://youtu.be/8NhQZLW-4C0?t=226))
+
+- Otra vez - Prince Royce ([0:54](https://youtu.be/6RENya8IoT4?t=54), [1:01](https://youtu.be/6RENya8IoT4?t=61), [1:56](https://youtu.be/6RENya8IoT4?t=116), [2:04](https://youtu.be/6RENya8IoT4?t=124), [2:43](https://youtu.be/6RENya8IoT4?t=163), [2:51](https://youtu.be/6RENya8IoT4?t=171))
+
+- Bésame ahora - Jr ([1:11](https://youtu.be/xr1MXo5lvxw?t=71), [1:19](https://youtu.be/xr1MXo5lvxw?t=79), [1:26](https://youtu.be/xr1MXo5lvxw?t=86), [1:33](https://youtu.be/xr1MXo5lvxw?t=93), [2:29](https://youtu.be/xr1MXo5lvxw?t=149), [2:37](https://youtu.be/xr1MXo5lvxw?t=157), [2:44](https://youtu.be/xr1MXo5lvxw?t=164), [2:51](https://youtu.be/xr1MXo5lvxw?t=171), [3:14](https://youtu.be/xr1MXo5lvxw?t=194), [3:21](https://youtu.be/xr1MXo5lvxw?t=201), [3:29](https://youtu.be/xr1MXo5lvxw?t=209), [3:36](https://youtu.be/xr1MXo5lvxw?t=216))
+
+- Adicta - Dama, Mayinbito ([0:36](https://youtu.be/qvljMACH_PA?t=36), [0:41](https://youtu.be/qvljMACH_PA?t=41), [0:47](https://youtu.be/qvljMACH_PA?t=47), [0:52](https://youtu.be/qvljMACH_PA?t=52), [0:56](https://youtu.be/qvljMACH_PA?t=56), [1:03](https://youtu.be/qvljMACH_PA?t=63), [1:37](https://youtu.be/qvljMACH_PA?t=97), [1:41](https://youtu.be/qvljMACH_PA?t=101), [1:48](https://youtu.be/qvljMACH_PA?t=108), [1:52](https://youtu.be/qvljMACH_PA?t=112), [1:56](https://youtu.be/qvljMACH_PA?t=116), [2:03](https://youtu.be/qvljMACH_PA?t=123), [2:38](https://youtu.be/qvljMACH_PA?t=158), [2:41](https://youtu.be/qvljMACH_PA?t=161), [2:49](https://youtu.be/qvljMACH_PA?t=169), [2:53](https://youtu.be/qvljMACH_PA?t=173), [2:56](https://youtu.be/qvljMACH_PA?t=176), [3:04](https://youtu.be/qvljMACH_PA?t=184))
+
+- X amada - Jr ([0:32](https://youtu.be/MkPqcY_C8mU?t=32), [0:40](https://youtu.be/MkPqcY_C8mU?t=40), [0:47](https://youtu.be/MkPqcY_C8mU?t=47), [1:03](https://youtu.be/MkPqcY_C8mU?t=48), [1:07](https://youtu.be/MkPqcY_C8mU?t=67), [1:18](https://youtu.be/MkPqcY_C8mU?t=78), [1:22](https://youtu.be/MkPqcY_C8mU?t=82), [2:02](https://youtu.be/MkPqcY_C8mU?t=82), [2:07](https://youtu.be/MkPqcY_C8mU?t=82), [2:18](https://youtu.be/MkPqcY_C8mU?t=138), [2:21](https://youtu.be/MkPqcY_C8mU?t=141), [3:23](https://youtu.be/MkPqcY_C8mU?t=203), [3:28](https://youtu.be/MkPqcY_C8mU?t=208), [3:36](https://youtu.be/MkPqcY_C8mU?t=216), [3:45](https://youtu.be/MkPqcY_C8mU?t=225))
