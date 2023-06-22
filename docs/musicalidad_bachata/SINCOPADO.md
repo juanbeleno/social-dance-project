@@ -11,11 +11,39 @@ https://user-images.githubusercontent.com/10092275/234742042-a36632ec-2dc7-4c34-
 Referencia: [OFIR & OFRI | BACHATA DANCE | Romeo Santos - Propuesta Indecente](https://youtu.be/RCLvL4tjQf4?t=70)
 
 
+- Sensación: caminada rápida en círculos. (5 5+ 6 6+ 7 7+ 8)
+
+https://github.com/juanbeleno/social-dance-project/assets/10092275/159d81b0-2960-401c-8b76-3f11c0db1b03.mp4
+
+Referencia: [OFIR & OFRI | BACHATA DANCE | Romeo Santos - R.I.P.](https://youtu.be/cNqZMvT0ErE?t=137)
+
+
+- Sensación: caminada rápida de la chica de espaldas. (5 5+ 6 6+ 7 7+ 8)
+
+https://github.com/juanbeleno/social-dance-project/assets/10092275/7fefd02e-310e-428b-9ea8-b5045e60d539.mp4
+
+Referencia: [OFIR & OFRI | BACHATA DANCE | Romeo Santos - R.I.P.](https://youtu.be/Vw2vUu-P9jc?t=62)
+
+
+- Sensación: giros. (5 5+ 6 6+ 7 7+ 8)
+
+https://github.com/juanbeleno/social-dance-project/assets/10092275/38dd8f76-3ae2-4c08-9527-25af7e2ebf59.mp4
+
+Referencia: [OFIR & OFRI | BACHATA DANCE | Dani J - Tu Juguete](https://youtu.be/zYtcDMnu-AY?t=77)
+
+
 - Sensación: brinquitos en el lugar. (1 1+ 2 2+ 3 3+ 4 5)
 
 https://user-images.githubusercontent.com/10092275/234743017-e8aa17b5-d032-4d22-8188-608a92ea7b20.mp4
 
 Referencia: [Tonio & Ysenah / No Tiene La Culpa - Romeo Santos / Bachata Sensual / Social Dancing /Bachata Addict](https://youtu.be/fDuckPb3Gws?t=93)
+
+
+- Sensación: movimiento de torso desde posición de sombra. (1 1+ 2 2+ 3 3+ 4 5)
+
+https://github.com/juanbeleno/social-dance-project/assets/10092275/793d5bd8-11e4-48ed-9bde-481e2a3171f5.mp4
+
+Referencia: [Tonio & Ysenah / No Tiene La Culpa - Romeo Santos / Bachata Sensual / Social Dancing /Bachata Addict](https://youtu.be/fDuckPb3Gws?t=12)
 
 
 - Sensación: pàs de bourée? (5 5+ 6 6+ 7 7+ 8)
