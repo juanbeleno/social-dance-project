@@ -60,13 +60,21 @@ https://user-images.githubusercontent.com/10092275/224156365-a0f7e73e-8d97-47ca-
 
 Referencia: [OFIR & OFRI | BACHATA DANCE | Soraya & Dani J - Te Quiero A Ti](https://youtu.be/MBcUrsWSMKk?t=184)
 
-- Sensación: Caída luego de movimientos sensuales rápidos.
+
+- Sensación: Caída hacia atrás luego de movimientos rápidos.
+
+https://github.com/juanbeleno/social-dance-project/assets/10092275/50f59e22-40f4-4547-90ff-920920069615.mp4
+
+Referencia: [Salvaje - Ronald y Alba (Jr)](https://youtu.be/aiRp5Yt-q0A?t=112)
+
+
+- Sensación: Caída lateral luego de movimientos sensuales rápidos.
 
 https://user-images.githubusercontent.com/10092275/224156987-4c29ca40-90c2-462a-a634-a286072aac94.mov
 
 Referencia: [Miguel y Sunsi Bachata - Falso Amor - Solo 2](https://youtu.be/trwfDyna_Ik?t=82)
 
-- Sensación: Caída luego de movimientos sensuales lentos.
+- Sensación: Caída lateral luego de movimientos sensuales lentos.
 
 https://user-images.githubusercontent.com/10092275/224157963-394a1ec6-cc7a-4bc4-b2d1-82426af3ad8a.mov
 
