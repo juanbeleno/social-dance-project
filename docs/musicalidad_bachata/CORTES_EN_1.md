@@ -89,3 +89,7 @@ Referencia: [Corazon Sin Cara New Version! Prince Royce | Daniel y Tom Bachata D
 - Corazon Sin Cara - Prince Royce ([1:30](https://youtu.be/XNGWDH-6yv8?t=90))
 
 - Hookah & Sheridan's - Mr.Don Ft: Dj Khalid (Versión Bachata) ([0:45](https://youtu.be/vmbaZSTSxB4?t=45), [1:31](https://youtu.be/vmbaZSTSxB4?t=91), [2:42](https://youtu.be/vmbaZSTSxB4?t=162), [3:20](https://youtu.be/vmbaZSTSxB4?t=200))
+
+- Sin Censura - Kewin Cosmos ([1:02](https://youtu.be/K_Nv3wvpZhk?t=62), [2:16](https://youtu.be/K_Nv3wvpZhk?t=136), [3:02](https://youtu.be/K_Nv3wvpZhk?t=182))
+
+EL delincuente - It's Will ([0:49](https://youtu.be/4bYxbDCmfRQ?t=49), [1:44](https://youtu.be/4bYxbDCmfRQ?t=104), [2:47](https://youtu.be/4bYxbDCmfRQ?t=167), [3:03](https://youtu.be/4bYxbDCmfRQ?t=183))
