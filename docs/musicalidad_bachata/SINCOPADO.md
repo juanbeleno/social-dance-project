@@ -25,6 +25,27 @@ https://github.com/juanbeleno/social-dance-project/assets/10092275/7fefd02e-310e
 Referencia: [OFIR & OFRI | BACHATA DANCE | Romeo Santos - R.I.P.](https://youtu.be/Vw2vUu-P9jc?t=62)
 
 
+- Sensación: caminada frente atrás. (1 1+ 2 2+ 3 3+ 4)
+
+https://github.com/juanbeleno/social-dance-project/assets/10092275/1fa91e2b-bda6-420a-aa1f-27c74a363103.mp4
+
+Referencia: [Sin Casarme - Jr (Marco Ungaro & Paola)](https://youtu.be/t7fRPu4MY-A?t=97)
+
+
+- Sensación: desbaratación. (1 1+ 2 2+ 3 3+ 4)
+
+https://github.com/juanbeleno/social-dance-project/assets/10092275/2939eb6a-6419-4f41-bd14-fbb19898358f.mp4
+
+Referencia: [Jr. – Sin Casarme | Vasily & Maria](https://youtu.be/tqZBIjIkPSk?t=34)
+
+
+- Sensación: Movimiento de torso diagonal desde el frame. (5 5+ 6 6+ 7 7+ 8)
+
+https://github.com/juanbeleno/social-dance-project/assets/10092275/5db923e3-1f4f-4bbc-ab41-3dfdad168524.mp4
+
+Referencia: [El malo - Aventura - ALFREDO Y ANDREA](https://www.instagram.com/p/Cty2ly7tEQt/)
+
+
 - Sensación: giros. (5 5+ 6 6+ 7 7+ 8)
 
 https://github.com/juanbeleno/social-dance-project/assets/10092275/38dd8f76-3ae2-4c08-9527-25af7e2ebf59.mp4
