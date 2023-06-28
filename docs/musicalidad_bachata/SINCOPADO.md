@@ -76,9 +76,9 @@ Referencia: [Melvin & Gatica - Ateo - C. Tangana, Nathy Peluso](https://youtu.be
 
 - Sensación: circulos de torso y avanzar con los pies. (5 5+ 6 6+ 7 7+ 8)
 
-https://user-images.githubusercontent.com/10092275/234743921-b060ea51-b5fb-4f3f-a758-5b61cba83144.mp4
+https://github.com/juanbeleno/social-dance-project/assets/10092275/52db5ec2-9916-4a19-b5d7-062f196570f3.mp4
 
-Referencia: [Tonio & Ysenah / No Tiene La Culpa - Romeo Santos / Bachata Sensual / Social Dancing /Bachata Addict](https://youtu.be/fDuckPb3Gws?t=222)
+Referencia: [Marley & Leo / 🎵 Know You No More / Only Bachata Festival : Hoy Se Bebe](https://youtu.be/8iyZPavuqnY?t=113)
 
 
 - Sensación: ondas de brazos. (5 5+ 6 6+ 7 7+ 8)
