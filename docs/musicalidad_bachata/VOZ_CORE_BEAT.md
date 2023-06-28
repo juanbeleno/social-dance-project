@@ -39,6 +39,27 @@ https://user-images.githubusercontent.com/10092275/234662155-f00b3cd4-dbcd-4875-
 Referencia: [RIP Romeo Santos | Bachata Group Show By Daniel y Tom 🔥](https://youtu.be/NpbH5VpIpuw?t=118)
 
 
+- Sensación: push, pull y dip.
+
+https://github.com/juanbeleno/social-dance-project/assets/10092275/0b8d5e63-d571-4987-9de4-26ee419e8dc6.mp4
+
+Referencia: [OTRA VEZ - Prince Royce 🔱 Riccardo & Silvia @ Abruzzo Summer Light 2023 🔱](https://youtu.be/8GQVYo90_kA?t=53)
+
+
+- Sensación: cruce de zouk.
+
+https://github.com/juanbeleno/social-dance-project/assets/10092275/6664f334-533a-494d-8bd0-96cca21e21ff.mp4
+
+Referencia: [Prince Royce - Otra Vez | Irene & Tomás](https://www.youtube.com/shorts/7aM1EOEQVOM)
+
+
+- Sensación: ondas desde posición de sombra.
+- 
+https://github.com/juanbeleno/social-dance-project/assets/10092275/30caeb61-266e-498f-a780-2265db6c3a45.mp4
+
+Referencia: [Gero & Raquel | Bachata Sensual | Jr. - Bésame ahora](https://youtu.be/uHlpnRcgtAo?t=192)
+
+
 - Sensación: caminada diagonal en paralelo.
 
 https://user-images.githubusercontent.com/10092275/234665707-f3e55173-3dd9-45d7-abb2-977c909428c7.mp4
