@@ -54,7 +54,7 @@ Referencia: [Prince Royce - Otra Vez | Irene & Tomás](https://www.youtube.com/s
 
 
 - Sensación: ondas desde posición de sombra.
-- 
+
 https://github.com/juanbeleno/social-dance-project/assets/10092275/30caeb61-266e-498f-a780-2265db6c3a45.mp4
 
 Referencia: [Gero & Raquel | Bachata Sensual | Jr. - Bésame ahora](https://youtu.be/uHlpnRcgtAo?t=192)
