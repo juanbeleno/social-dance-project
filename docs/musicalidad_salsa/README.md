@@ -67,8 +67,41 @@ La clave se mantiene constante sonando, pero cuando cambia el tiempo porque el a
 - [Cuando tus PIES y la CLAVE se VOLTEAN - Musicalidad para bailadores Joaquin Arteaga](https://youtu.be/oGtfyUWFl2A)
 
 **Canciones para practicar:**
-- Te provoca - Tromboranga([0:52](https://youtu.be/3spiqtdmviQ?t=52), [1:16](https://youtu.be/3spiqtdmviQ?t=76), [1:36](https://youtu.be/3spiqtdmviQ?t=96), [1:49](https://youtu.be/3spiqtdmviQ?t=109), [3:01](https://youtu.be/3spiqtdmviQ?t=181), [6:00](https://youtu.be/3spiqtdmviQ?t=360))
+- Te provoca - Tromboranga ([0:52](https://youtu.be/3spiqtdmviQ?t=52), [1:16](https://youtu.be/3spiqtdmviQ?t=76), [1:36](https://youtu.be/3spiqtdmviQ?t=96), [1:49](https://youtu.be/3spiqtdmviQ?t=109), [3:01](https://youtu.be/3spiqtdmviQ?t=181), [6:00](https://youtu.be/3spiqtdmviQ?t=360))
 
 **Referencias:**
 
 - [MUSICALIDAD para BAILADORES: Estructura básica de un tema de salsa - Joaquin Arteaga](https://youtu.be/z3hR7BHe2iY)
+
+## Diferencias entre Chachachá, Son Montuno, Guajiras y Guaracha
+
+**Guajira:** Instrumentos: guitarra, tres cubano, laud. Percusión:  congas o bongos, maracas  y clave. La percusión no determina si es una guajira. Las letras de la guajira son nostalgicas o melancolicas. El tempo en la guajira es lento a medio. Originalmente, se cantaban en Decimas. Las guajiras son más lentas que los Cha Cha Chá.
+
+- [Ese Es Mi Orgullo - Celina y Reutilio](https://youtu.be/vblultTYaDk)
+- [Guajiro Monte Adentro - Hermenegildo Cárdenas](https://youtu.be/jrzsxgv3EYI)
+- [Quitate Tu (Yo Soy La Salsa) - Fania All Stars ft Oscar D'Leon, Milly Quezada, El Canario and others](https://youtu.be/LuqGyeJgT6E)
+
+**Cha cha chá:** Percusión: güiro, timbal (con cencerro o campanita de cha cha chá), una conga. Originalmente, no se usaba bongó o maracas. Armonicos: piano, bajo, violines, flauta, voz y coros. Celula ritmica: conga, campanita de cha cha chá y el güiro, más el piano y el bajo. Es originalmente tocado por orquestas de Charanga. La velocidad es media y no puede ser tan lento. Nació del Danzón.
+
+- [El Bodeguero - JOSE FAJARDO y sus ESTRELLAS](https://youtu.be/0LrjK8lxiNY)
+- [Rico Vacilón - Orquesta América](https://youtu.be/2WwYqzVCwXw)
+- [Oye Como Va - Tito Puente](https://youtu.be/BpAXzTpANNw)
+
+**Son cubano:** Percusión: maracas, clave y bongós. Guitarra, tres, marimbula o botija (para hacer de bajo). Originalmente, el son no lleva conga. Voz y coros. Clave de son. Este genero lo desarrollaron los sextetos y si agregaban una trompeta se convertian en septetos. Importante la sección "coro-pregón" (después llamada "Montuno"). Sensación de cabalgao (caminao). Tempo/pulso en el son varia mucho, pero es de medio a rápido (Aunque hay lentos). Aveces pueden ser guajiras-son. Las letras del son son un poco más alegres que las guajiras.
+
+- [Frutas del Caney - Trío Matamoros](https://youtu.be/AulJltHbNOo)
+- [Rosa, Que Linda Eres - Sexteto Habanero](https://youtu.be/U59mWDhAbq4)
+- [Suavecito - Septeto Nacional de Ignacio Piñeiro](https://youtu.be/xAVJcC3MG8A)
+
+**Son montuno:** Creador: Arsenio Rodríguez. Incluyen conga, piano y segunda trompeta. Así nacieron los conjuntos. El son montuno le da más fuerza a la síncopa en el  tiempo 4 y 8 con la conga. Percusión: Bongo, Conga, Clave, Maracas (No se usaba timbal). Tres, piano, bajo, 2 o más trompetas y voz y coros. El tempo es medio o lento. El son y son montuno tienen una manera tradicional de bailarse. El son montuno se puede confundir con una guajira o con un cha cha chá porque el tempo es similar y además se puede tocar un son montuno con los instrumentos de cha cha chá
+
+- [Papá Upa - Arsenio Rodríguez](https://youtu.be/FHazR_q16B4)
+- [Canallón · Conjunto Chappottin](https://youtu.be/15GSdiOxTEs)
+- [Te Están Buscando - Rubén Blades & Willie Colón](https://youtu.be/hfwx2sfhZHY)
+
+**Guaracha:** Es un concepto músical, no un genero o ritmo, de hecho puede usarse en otros generos y lo que determina si es una guaracha es si la letra habla de chistes, cómicos, picarescos, doble sentidos, bromas, burlas, etc. Una guaracha no puede ser triste por lo que no podría ser una guajira. Guarachas son adoptadas por sextetos, septetos y conjuntos que tocan son y son montuno. EL tiempo/pulso es medio o rápido.
+
+**Pachangas:** Tocadas por orquestas de Charanga.
+
+**Referencias:**
+- [Diferencias entre Chachachá, Son Montuno, Guajiras y Guaracha. Musicalidad para bailadores salsa](https://youtu.be/pI7c4sQJPNI)
