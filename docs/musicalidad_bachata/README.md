@@ -69,6 +69,8 @@ Voy a estructurar el aprendizaje de interpretación musical usando principalment
 
 8. Cortes en tiempo 7: Son poco comunes por lo que solo voy a dar [un ejemplo](https://youtu.be/PWWwwHaRUAo?t=73)
 
+9. [Interpretación de significado](./INTERPRETACION_DE_SIGNIFICADO.md): En algunos casos podemos dejar de interpretar los sonidos producidos por los instrumentos y enfocarnos en el significado (especialmente asociado a la letra).
+
 Golpes secos (Staccato): Movimientos rápidos que se acaban
 
 Golpes extendidos (Guitarra o Voz): Movimiento extendidos
