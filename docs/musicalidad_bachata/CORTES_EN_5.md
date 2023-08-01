@@ -151,6 +151,8 @@ Referencia: [Gero & Migle | Bachata | Jr - Salvaje](https://youtu.be/xZaRrsaUZj0
 
 - La Vecina - Kewin Cosmos ([0:43](https://youtu.be/S50Vs_y1W2A?t=43), [0:57](https://youtu.be/S50Vs_y1W2A?t=57), [1:12](https://youtu.be/S50Vs_y1W2A?t=72), [1:20](https://youtu.be/S50Vs_y1W2A?t=80), [1:27](https://youtu.be/S50Vs_y1W2A?t=87), [1:42](https://youtu.be/S50Vs_y1W2A?t=102), [1:57](https://youtu.be/S50Vs_y1W2A?t=117))
 
+- Fronteo - Pinto Picasso ([0:23](https://youtu.be/Mtxl49ndeBM?t=23), [0:40](https://youtu.be/Mtxl49ndeBM?t=40), [0:57](https://youtu.be/Mtxl49ndeBM?t=57), [1:14](https://youtu.be/Mtxl49ndeBM?t=74), [1:48](https://youtu.be/Mtxl49ndeBM?t=108), [2:05](https://youtu.be/Mtxl49ndeBM?t=125))
+
 ## Canciones recomendadas para practicar por acentuaciones de la voz en tiempo 5
 
 - R.I.P - Romeo Santos ([0:36](https://youtu.be/Uzt3PBzObl4?t=36), [0:51](https://youtu.be/Uzt3PBzObl4?t=51), [1:50](https://youtu.be/Uzt3PBzObl4?t=110), [2:04](https://youtu.be/Uzt3PBzObl4?t=124), [2:49](https://youtu.be/Uzt3PBzObl4?t=169), [3:03](https://youtu.be/Uzt3PBzObl4?t=183))
