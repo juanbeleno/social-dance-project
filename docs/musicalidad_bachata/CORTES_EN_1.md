@@ -82,6 +82,8 @@ Referencia: [Corazon Sin Cara New Version! Prince Royce | Daniel y Tom Bachata D
 
 ## Canciones recomendadas para practicar
 
+- Solo Conmigo - Romeo Santos ([1:38](https://youtu.be/69ppp5Ipook?t=98), [3:03](https://youtu.be/69ppp5Ipook?t=183), [3:54](https://youtu.be/69ppp5Ipook?t=234))
+
 - Salvaje - Jr ([1:00](https://youtu.be/77DRRRv6asQ?t=60), [1:55](https://youtu.be/77DRRRv6asQ?t=115), [2:27\*](https://youtu.be/77DRRRv6asQ?t=147))
 
 - R.I.P - Romeo Santos ([0:28](https://youtu.be/Uzt3PBzObl4?t=28))
