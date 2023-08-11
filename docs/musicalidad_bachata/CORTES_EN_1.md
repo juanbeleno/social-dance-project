@@ -82,6 +82,8 @@ Referencia: [Corazon Sin Cara New Version! Prince Royce | Daniel y Tom Bachata D
 
 ## Canciones recomendadas para practicar
 
+- Tu regalo favorito - Prince Royce ([0:47](https://youtu.be/fIJc4XZ8okc?t=47), [1:32](https://youtu.be/fIJc4XZ8okc?t=92), [2:17](https://youtu.be/fIJc4XZ8okc?t=137), [3:45](https://youtu.be/fIJc4XZ8okc?t=225))
+
 - Solo Conmigo - Romeo Santos ([1:38](https://youtu.be/69ppp5Ipook?t=98), [3:03](https://youtu.be/69ppp5Ipook?t=183), [3:54](https://youtu.be/69ppp5Ipook?t=234))
 
 - Salvaje - Jr ([1:00](https://youtu.be/77DRRRv6asQ?t=60), [1:55](https://youtu.be/77DRRRv6asQ?t=115), [2:27\*](https://youtu.be/77DRRRv6asQ?t=147))
