@@ -67,6 +67,20 @@ https://user-images.githubusercontent.com/10092275/234665707-f3e55173-3dd9-45d7-
 Referencia: [Abdel & Lety - Bachata Flow | Summer Sensual Days 2022 (Opatija)](https://youtu.be/hoXS0HM8sL8?t=98)
 
 
+- Sensación: adornos de brazos.
+
+https://github.com/juanbeleno/social-dance-project/assets/10092275/349429a9-a72a-4c5c-a28c-0fe918e43180.mp4
+
+Referencia: [Romeo Santos - R.I.P. / Tonio & Melani / Alpes Bachata Congress](https://youtu.be/4j6ZtCzsKoc?t=32)
+
+
+- Sensación: adornos de brazos.
+
+https://github.com/juanbeleno/social-dance-project/assets/10092275/64ed4ff4-f92c-4bf8-b04f-82917e32688c.mp4
+
+Referencia: [Romeo Santos - R.I.P. / Tonio & Melani / Alpes Bachata Congress](https://youtu.be/4j6ZtCzsKoc?t=39)
+
+
 ## Canciones recomendadas para practicar
 
 - Frio - Jensen ([0:39](https://youtu.be/8NhQZLW-4C0?t=39), [0:47](https://youtu.be/8NhQZLW-4C0?t=47), [0:55](https://youtu.be/8NhQZLW-4C0?t=55), [1:20*](https://youtu.be/8NhQZLW-4C0?t=80), [2:00](https://youtu.be/8NhQZLW-4C0?t=120), [2:09](https://youtu.be/8NhQZLW-4C0?t=129), [2:17](https://youtu.be/8NhQZLW-4C0?t=137), [3:30](https://youtu.be/8NhQZLW-4C0?t=210), [3:39](https://youtu.be/8NhQZLW-4C0?t=219), [3:46](https://youtu.be/8NhQZLW-4C0?t=226))
