@@ -39,25 +39,32 @@ https://github.com/juanbeleno/social-dance-project/assets/10092275/38dd8f76-3ae2
 Referencia: [OFIR & OFRI | BACHATA DANCE | Dani J - Tu Juguete](https://youtu.be/zYtcDMnu-AY?t=77)
 
 
-- Sensación: pàs de bourée? (5 5+ 6 6+ 7 7+ 8)
+- Sensación: pàs de bourée?
 
 https://user-images.githubusercontent.com/10092275/234745841-a1999a12-e4ef-421f-8228-860a8364e864.mp4
 
 Referencia: [Melvin & Gatica - Ateo - C. Tangana, Nathy Peluso](https://youtu.be/H84LH59JjZk?t=198)
 
 
-- Sensación: circulos de torso y avanzar con los pies. (5 5+ 6 6+ 7 7+ 8)
+- Sensación: circulos de torso y avanzar con los pies.
 
 https://github.com/juanbeleno/social-dance-project/assets/10092275/52db5ec2-9916-4a19-b5d7-062f196570f3.mp4
 
 Referencia: [Marley & Leo / 🎵 Know You No More / Only Bachata Festival : Hoy Se Bebe](https://youtu.be/8iyZPavuqnY?t=113)
 
 
-- Sensación: ondas de brazos. (5 5+ 6 6+ 7 7+ 8)
+- Sensación: ondas de brazos.
 
 https://user-images.githubusercontent.com/10092275/234744564-51ed3f94-f18b-4dce-befe-27c8fe667af0.mp4
 
 Referencia: [Tonio & Ysenah / No Tiene La Culpa - Romeo Santos / Bachata Sensual / Social Dancing /Bachata Addict](https://youtu.be/fDuckPb3Gws?t=229)
+
+
+- Sensación: Movimiento de torso desde posición de sombra
+
+https://github.com/juanbeleno/social-dance-project/assets/10092275/2261f501-d094-40a4-b1bb-b9fbce370daf.mp4
+
+Referencia: [MarceloyBelen Copenhaguen Workshop](https://youtu.be/xpOeKtgM7a8?t=220)
 
 ## Canciones recomendadas para practicar sincopados
 
