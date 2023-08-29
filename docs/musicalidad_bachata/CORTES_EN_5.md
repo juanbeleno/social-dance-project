@@ -153,6 +153,8 @@ Referencia: [Gero & Migle | Bachata | Jr - Salvaje](https://youtu.be/xZaRrsaUZj0
 
 - Fronteo - Pinto Picasso ([0:23](https://youtu.be/Mtxl49ndeBM?t=23), [0:40](https://youtu.be/Mtxl49ndeBM?t=40), [0:57](https://youtu.be/Mtxl49ndeBM?t=57), [1:14](https://youtu.be/Mtxl49ndeBM?t=74), [1:48](https://youtu.be/Mtxl49ndeBM?t=108), [2:05](https://youtu.be/Mtxl49ndeBM?t=125))
 
+- Te robaré - Prince Royce ([1:00*](https://youtu.be/nDhedsK5qwU?t=60), [1:34](https://youtu.be/nDhedsK5qwU?t=94), [1:37](https://youtu.be/nDhedsK5qwU?t=97), [1:42](https://youtu.be/nDhedsK5qwU?t=102), [1:45](https://youtu.be/nDhedsK5qwU?t=105), [2:01*](https://youtu.be/nDhedsK5qwU?t=121), [2:30*](https://youtu.be/nDhedsK5qwU?t=150))
+
 ## Canciones recomendadas para practicar por acentuaciones de la voz en tiempo 5
 
 - R.I.P - Romeo Santos ([0:36](https://youtu.be/Uzt3PBzObl4?t=36), [0:51](https://youtu.be/Uzt3PBzObl4?t=51), [1:50](https://youtu.be/Uzt3PBzObl4?t=110), [2:04](https://youtu.be/Uzt3PBzObl4?t=124), [2:49](https://youtu.be/Uzt3PBzObl4?t=169), [3:03](https://youtu.be/Uzt3PBzObl4?t=183))
