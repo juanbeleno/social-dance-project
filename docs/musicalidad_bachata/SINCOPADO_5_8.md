@@ -77,3 +77,5 @@ Referencia: [MarceloyBelen Copenhaguen Workshop](https://youtu.be/xpOeKtgM7a8?t=
 - Corazón con candado - Raulín Rodriguez ([0:49](https://youtu.be/TZdV0BvZW6o?t=49), [2:46](https://youtu.be/TZdV0BvZW6o?t=166))
 
 - Ciudadana - Romeo Santos ([0:35](https://youtu.be/Plq4dTFS4Pc?t=35), [2:12](https://youtu.be/Plq4dTFS4Pc?t=132))
+
+- Burbujas de amor - Juan Luis Guerra ([0:11](https://youtu.be/v0ckuv1xBm0?t=11), [0:26](https://youtu.be/v0ckuv1xBm0?t=26), [1:28](https://youtu.be/v0ckuv1xBm0?t=88), [1:43](https://youtu.be/v0ckuv1xBm0?si=HqI1eqYWYtMw3bfV&t=103))
