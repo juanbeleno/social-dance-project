@@ -60,7 +60,7 @@ Referencia: [Samuel Funflow & Daniel Maiorano - Salsa Social Dance - LGTBailamos
 
 - Sensación: Dos giros y cambré.
 
-https://github.com/juanbeleno/social-dance-project/assets/10092275/ff315ada-8eb6-4c52-9cc0-f5286be93086.mp4
+https://github.com/juanbeleno/social-dance-project/assets/10092275/677823e9-66e0-469c-b2f2-3e29fde2d106.mp4
 
 Referencia: [Terry SalsAlianza & Rita - social dancing @ IX Son Latinos Festival Gijon](https://youtu.be/KzmAIXlc1Hc?t=130)
 
