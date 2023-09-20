@@ -95,6 +95,13 @@ https://github.com/juanbeleno/social-dance-project/assets/10092275/c956871a-5605
 Referencia: [RIP Romeo Santos | Bachata Group Show By Daniel y Tom 🔥](https://youtu.be/NpbH5VpIpuw?t=25)
 
 
+- Sensación: zapateo cruzado.
+
+https://github.com/juanbeleno/social-dance-project/assets/10092275/949e8206-a169-47e3-8de2-a91a4e314ea8.mp4
+
+Referencia: [Gero & Migle | Bachata | Evidencias - Kewin Cosmos](https://youtu.be/kHetxLtjNPs?si=f7ogFUOZZ-9_TfbC&t=102)
+
+
 ## Canciones recomendadas para practicar
 
 - Frio - Jensen ([0:39](https://youtu.be/8NhQZLW-4C0?t=39), [0:47](https://youtu.be/8NhQZLW-4C0?t=47), [0:55](https://youtu.be/8NhQZLW-4C0?t=55), [1:20*](https://youtu.be/8NhQZLW-4C0?t=80), [2:00](https://youtu.be/8NhQZLW-4C0?t=120), [2:09](https://youtu.be/8NhQZLW-4C0?t=129), [2:17](https://youtu.be/8NhQZLW-4C0?t=137), [3:30](https://youtu.be/8NhQZLW-4C0?t=210), [3:39](https://youtu.be/8NhQZLW-4C0?t=219), [3:46](https://youtu.be/8NhQZLW-4C0?t=226))
