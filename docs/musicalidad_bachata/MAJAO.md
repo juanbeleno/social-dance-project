@@ -86,3 +86,8 @@ Referencia: [Miguel y Sunsi Bachata - Kewin Cosmos](https://youtu.be/O6O1VP05UwE
 https://user-images.githubusercontent.com/10092275/225498294-a9a18713-bd4e-4f3d-b21c-57c18c1f4f58.mov
 
 Referencia: [Miguel y Sunsi Bachata - Falso Amor - Solo 2](https://youtu.be/trwfDyna_Ik?t=40)
+
+
+## Canciones recomendadas para practicar sincopados
+
+- [La estrella - JR](https://youtu.be/tnoQaVucafg?si=84SYZvTU45pvBSds)
