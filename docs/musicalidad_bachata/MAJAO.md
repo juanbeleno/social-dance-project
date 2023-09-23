@@ -88,6 +88,6 @@ https://user-images.githubusercontent.com/10092275/225498294-a9a18713-bd4e-4f3d-
 Referencia: [Miguel y Sunsi Bachata - Falso Amor - Solo 2](https://youtu.be/trwfDyna_Ik?t=40)
 
 
-## Canciones recomendadas para practicar sincopados
+## Canciones recomendadas para practicar
 
 - [La estrella - JR](https://youtu.be/tnoQaVucafg?si=84SYZvTU45pvBSds)
