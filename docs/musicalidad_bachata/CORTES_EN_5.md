@@ -133,6 +133,14 @@ https://user-images.githubusercontent.com/10092275/223554406-a5c3e101-14fe-4be1-
 
 Referencia: [OFIR & OFRI | BACHATA DANCE | Soraya & Dani J - Te Quiero A Ti](https://youtu.be/MBcUrsWSMKk?t=122)
 
+
+- Sensación: giro desde hammerlock
+
+https://github.com/juanbeleno/social-dance-project/assets/10092275/63a08eec-e2b5-4780-b642-6d9a2cade19f.mp4
+
+Referencia: [PUNTO - Roman 🏵️ Gero y Migle @ Everybody Salsa Cyprus Festival 2023 🌺](https://youtu.be/HxvOGfQg97k?si=_fhzablAFcu3MFSV&t=98)
+
+
 - Sensación: giro en 4 tiempos con terminación en cuarta de la chica. Sirve para cuando el corte viene luego de una preparación de 4 tiempos de los instrumentos (bongó, güira, guitarra, voz, etc.)
 
 https://user-images.githubusercontent.com/10092275/223555384-7150b6ff-6209-43e3-ba87-326e61011a8b.mov
@@ -154,6 +162,8 @@ Referencia: [Gero & Migle | Bachata | Jr - Salvaje](https://youtu.be/xZaRrsaUZj0
 - Fronteo - Pinto Picasso ([0:23](https://youtu.be/Mtxl49ndeBM?t=23), [0:40](https://youtu.be/Mtxl49ndeBM?t=40), [0:57](https://youtu.be/Mtxl49ndeBM?t=57), [1:14](https://youtu.be/Mtxl49ndeBM?t=74), [1:48](https://youtu.be/Mtxl49ndeBM?t=108), [2:05](https://youtu.be/Mtxl49ndeBM?t=125))
 
 - Te robaré - Prince Royce ([1:00*](https://youtu.be/nDhedsK5qwU?t=60), [1:34](https://youtu.be/nDhedsK5qwU?t=94), [1:37](https://youtu.be/nDhedsK5qwU?t=97), [1:42](https://youtu.be/nDhedsK5qwU?t=102), [1:45](https://youtu.be/nDhedsK5qwU?t=105), [2:01*](https://youtu.be/nDhedsK5qwU?t=121), [2:30*](https://youtu.be/nDhedsK5qwU?t=150))
+
+- Incondicional - Prince Royce ([0:23](https://youtu.be/IGJRVLyB8G4?si=tckhKXXL8S4BPM9j&t=23), [0:48](https://youtu.be/IGJRVLyB8G4?si=5g9t5MZ5jicNzoJK&t=48), [1:18](https://youtu.be/IGJRVLyB8G4?si=TmGOa57hQs158IOh&t=78), [1:37](https://youtu.be/IGJRVLyB8G4?si=UvOm_rYVX143dtn3&t=97), [2:03*](https://youtu.be/IGJRVLyB8G4?si=jpnP5EvLOhor8rFF&t=123), [2:18](https://youtu.be/IGJRVLyB8G4?si=9FBa223_kdItR2LO&t=138), [2:48](https://youtu.be/IGJRVLyB8G4?si=k-FehNK3nSiSQBk6&t=168), [3:17](https://youtu.be/IGJRVLyB8G4?si=oAVy6tCaHKre5Ouz&t=197))
 
 ## Canciones recomendadas para practicar por acentuaciones de la voz en tiempo 5
 
