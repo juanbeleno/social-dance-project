@@ -80,6 +80,14 @@ https://user-images.githubusercontent.com/10092275/224157963-394a1ec6-cc7a-4bc4-
 
 Referencia: [Corazon Sin Cara New Version! Prince Royce | Daniel y Tom Bachata Dance [Bachata Explosion]](https://youtu.be/PWWwwHaRUAo?t=89)
 
+
+- Sensación: Slide.
+
+https://github.com/juanbeleno/social-dance-project/assets/10092275/86b7729b-8837-444d-84a8-fb74e9bf7838.mp4
+
+Referencia: [Willy & Lauriane - Social dancing | Albania Afro Latin Festival 2023](https://youtu.be/p3ztWA7d8Ig?si=fyyaNamtfx-DFJc1&t=2)
+
+
 ## Canciones recomendadas para practicar
 
 - Tu regalo favorito - Prince Royce ([0:47](https://youtu.be/fIJc4XZ8okc?t=47), [1:32](https://youtu.be/fIJc4XZ8okc?t=92), [2:17](https://youtu.be/fIJc4XZ8okc?t=137), [3:45](https://youtu.be/fIJc4XZ8okc?t=225))
