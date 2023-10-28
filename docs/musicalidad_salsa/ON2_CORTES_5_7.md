@@ -9,6 +9,13 @@ https://github.com/juanbeleno/social-dance-project/assets/10092275/32409c5c-c22b
 Referencia: [Fadi Fusion & Alicia Velasco - Salsa social dancing | 4th World Stars Salsa Festival](https://youtu.be/UtpQjmXoJlg?t=14)
 
 
+- Sensación: enrrollar a la chica.
+
+https://github.com/juanbeleno/social-dance-project/assets/10092275/19a4597a-c600-4dac-be5c-ecc2fe8c1891.mp4
+
+Referencia: [Mahmoud Derouiche & Irina - Salsa social dancing | Croatian Summer Salsa Festival 2023](https://youtu.be/2D5p18_zRFE?si=7QrN1WXu6TsG5x09&t=53)
+
+
 - Sensación: hammerlock y resolver.
 
 https://github.com/juanbeleno/social-dance-project/assets/10092275/7076b649-443e-4fe4-88d4-abe730e3b41f.mp4
