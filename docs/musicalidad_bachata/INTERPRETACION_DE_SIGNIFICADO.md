@@ -85,3 +85,10 @@ https://github.com/juanbeleno/social-dance-project/assets/10092275/d87427d1-159f
 
 Referencia: [Canalla - Romeo Santos ft El Chaval De La Bachata - Alfredo y Andrea Bachata Pasión](https://youtu.be/YxPUDqjT6is?t=22)
 
+
+- "Subimos, bajamos"
+
+https://github.com/juanbeleno/social-dance-project/assets/10092275/b95f14c3-44cb-49ab-bd46-7a874c8305d0.mp4
+
+Referencia: [David y Laura](https://www.instagram.com/davidylauradancers/)
+
