@@ -81,3 +81,5 @@ Referencia: [MarceloyBelen Copenhaguen Workshop](https://youtu.be/xpOeKtgM7a8?t=
 - Burbujas de amor - Juan Luis Guerra ([0:11](https://youtu.be/v0ckuv1xBm0?t=11), [0:26](https://youtu.be/v0ckuv1xBm0?t=26), [1:28](https://youtu.be/v0ckuv1xBm0?t=88), [1:43](https://youtu.be/v0ckuv1xBm0?si=HqI1eqYWYtMw3bfV&t=103))
 
 - Solo conmigo - Romeo Santos ([0:47](https://youtu.be/XEUCbvCEjc8?si=aSJSDT6v6YOm6elr&t=47), [1:03](https://youtu.be/XEUCbvCEjc8?si=OpLC4qGglKMjYP_3&t=63), [2:29](https://youtu.be/XEUCbvCEjc8?si=KOBkg_n4V5XEf3kn&t=149), [2:44](https://youtu.be/XEUCbvCEjc8?si=4OV_jc6pSYHzDS03&t=164))
+
+- 7 pecados - Dani J ([1:18](https://youtu.be/fCMaW1gQBjU?si=kxkYk7BDpeKDEm7_&t=78), [1:25](https://youtu.be/fCMaW1gQBjU?si=lb1rf37KNnsVFSPA&t=85), []())
