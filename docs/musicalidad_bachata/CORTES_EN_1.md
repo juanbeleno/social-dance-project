@@ -109,3 +109,6 @@ Referencia: [Willy & Lauriane - Social dancing | Albania Afro Latin Festival 202
 - El delincuente - It's Will ([0:49](https://youtu.be/4bYxbDCmfRQ?t=49), [1:44](https://youtu.be/4bYxbDCmfRQ?t=104), [2:47](https://youtu.be/4bYxbDCmfRQ?t=167), [3:03](https://youtu.be/4bYxbDCmfRQ?t=183))
 
 - 100 x hora - Kewin Cosmos ([0:57](https://youtu.be/mw_nxlF1wmc?si=z543JZxwyMOmO3XU&t=57))
+
+### Patrón de repetición
+- Mia - Romeo Santos ([0:54*](https://youtu.be/8iPcqtHoR3U?si=Uynd-0a2378xtOP0&t=54), [2:05](https://youtu.be/8iPcqtHoR3U?si=sHSvdO8p9A4gz_1f&t=125), [3:17](https://youtu.be/8iPcqtHoR3U?si=cYA3yejcbj6ppHOY&t=197), [4:47](https://youtu.be/8iPcqtHoR3U?si=DMAiOfbkQBwbnqtT&t=287))
