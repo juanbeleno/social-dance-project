@@ -52,6 +52,12 @@ https://github.com/juanbeleno/social-dance-project/assets/10092275/150ffc12-ba79
 
 Referencia: [Panagiotis Aglamisis & Myrto Misyri - Salsa social dancing on Quarantine (June, 2020)](https://youtu.be/qdzE2k0mXms?t=120)
 
+- Sensación: Patadas
+
+https://github.com/juanbeleno/social-dance-project/assets/10092275/af914cf2-9f6a-447c-bdc9-4ab820ec6e6b.mp4
+
+Referencia: [Eddie Torres Jr & Veronica Lopez - social dancing @ Cologne Salsa Congress 2017](https://youtu.be/DIgFUComRK8?si=9NVblyZSOLsw_kxO&t=163)
+
 
 ## Canciones recomendadas para practicar
 
