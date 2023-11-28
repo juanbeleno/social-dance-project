@@ -91,3 +91,4 @@ Referencia: [Miguel y Sunsi Bachata - Falso Amor - Solo 2](https://youtu.be/trwf
 ## Canciones recomendadas para practicar
 
 - [La estrella - JR](https://youtu.be/tnoQaVucafg?si=84SYZvTU45pvBSds)
+- [Hello - Daniel Santacruz](https://www.youtube.com/watch?v=ykxUSZDVohc)
