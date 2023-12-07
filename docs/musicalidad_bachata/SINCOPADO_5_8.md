@@ -66,6 +66,14 @@ https://github.com/juanbeleno/social-dance-project/assets/10092275/2261f501-d094
 
 Referencia: [MarceloyBelen Copenhaguen Workshop](https://youtu.be/xpOeKtgM7a8?t=220)
 
+
+- Sensación: Movimiento de torso y cadera
+
+https://github.com/juanbeleno/social-dance-project/assets/10092275/076413d7-52c4-4e32-9b3a-a60980055056
+
+Referencia: [Anastasia & Jovanny - Bachata Social Dancing | Latin Beach Fest DR 2022 (Punta Cana)](https://youtu.be/mcZnE9UQNLg?si=fWOJQfBk5fa2nwO8&t=102)
+
+
 ## Canciones recomendadas para practicar sincopados
 
 - Amigo - Romeo Santos ([1:12](https://youtu.be/2p_eRTj5s5M?t=72), [1:26](https://youtu.be/2p_eRTj5s5M?t=86), [2:08*](https://youtu.be/2p_eRTj5s5M?t=128), [2:36](https://youtu.be/2p_eRTj5s5M?t=156), [2:51](https://youtu.be/2p_eRTj5s5M?t=171))
