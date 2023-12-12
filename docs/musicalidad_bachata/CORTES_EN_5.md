@@ -165,6 +165,12 @@ Referencia: [Gero & Migle | Bachata | Jr - Salvaje](https://youtu.be/xZaRrsaUZj0
 
 - Incondicional - Prince Royce ([0:23](https://youtu.be/IGJRVLyB8G4?si=tckhKXXL8S4BPM9j&t=23), [0:48](https://youtu.be/IGJRVLyB8G4?si=5g9t5MZ5jicNzoJK&t=48), [1:18](https://youtu.be/IGJRVLyB8G4?si=TmGOa57hQs158IOh&t=78), [1:37](https://youtu.be/IGJRVLyB8G4?si=UvOm_rYVX143dtn3&t=97), [2:03*](https://youtu.be/IGJRVLyB8G4?si=jpnP5EvLOhor8rFF&t=123), [2:18](https://youtu.be/IGJRVLyB8G4?si=9FBa223_kdItR2LO&t=138), [2:48](https://youtu.be/IGJRVLyB8G4?si=k-FehNK3nSiSQBk6&t=168), [3:17](https://youtu.be/IGJRVLyB8G4?si=oAVy6tCaHKre5Ouz&t=197))
 
+- Esencia - Pinto Picasso ft. Marco y Sara ([0:20](https://youtu.be/8ToZrR1m5ss?si=i0KwZvCuPHwlM7W4&t=20), [0:53](https://youtu.be/8ToZrR1m5ss?si=nDQ2tjJXycUmZtf9&t=53), [1:08](https://youtu.be/8ToZrR1m5ss?si=NKk_Yz1rDorIyMrA&t=68), [1:17](https://youtu.be/8ToZrR1m5ss?si=-roPR7aCXQOt4O1G&t=77), [1:24](https://youtu.be/8ToZrR1m5ss?si=HWkuHWkhzJHSibea&t=84), [1:39](https://youtu.be/8ToZrR1m5ss?si=V11w32PLB9bru4Vi&t=99), [3:12](https://youtu.be/8ToZrR1m5ss?si=PkYqG0OFEobfy4dZ&t=192))
+
+## Canciones con patrón de repetición
+
+- Gitana - Dani J ft Luis & Andrea ([0:58](https://youtu.be/l0bPbxWDwO8?si=29QXBwXWz-k5TQsw&t=58), [1:12](https://youtu.be/l0bPbxWDwO8?si=7abEtr9i6YccplLj&t=72), [2:09](https://youtu.be/l0bPbxWDwO8?si=7NuMjNYaTVCtjhRD&t=129), [2:23](https://youtu.be/l0bPbxWDwO8?si=UTuVAB9ACu3dzb3I&t=143))
+
 ## Canciones recomendadas para practicar por acentuaciones de la voz en tiempo 5
 
 - R.I.P - Romeo Santos ([0:36](https://youtu.be/Uzt3PBzObl4?t=36), [0:51](https://youtu.be/Uzt3PBzObl4?t=51), [1:50](https://youtu.be/Uzt3PBzObl4?t=110), [2:04](https://youtu.be/Uzt3PBzObl4?t=124), [2:49](https://youtu.be/Uzt3PBzObl4?t=169), [3:03](https://youtu.be/Uzt3PBzObl4?t=183))
