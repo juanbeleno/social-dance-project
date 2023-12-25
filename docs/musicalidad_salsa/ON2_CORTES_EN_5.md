@@ -79,6 +79,13 @@ https://github.com/juanbeleno/social-dance-project/assets/10092275/e0b9ced4-d2d5
 Referencia: [Samuel Funflow & Sissi Mei - Salsa partnerwork impro (Italy) | No hace falta - Victor Manuelle](https://youtu.be/6p8e9l8SBN0?t=1)
 
 
+- Sensación: Desenredar un pretzel.
+
+https://github.com/juanbeleno/social-dance-project/assets/10092275/62bc7238-0d5f-4796-9c9a-8ad4d145a9bb.mp4
+
+Referencia: [Fadi & Veronica - Social dancing | World Stars Salsa Festival 2022 (Albena, Bulgaria)](https://youtu.be/y3vtEAEp6aI?si=dgjJkkpSkqlFBSqB?t=1)
+
+
 ## Canciones recomendadas para practicar
 
 - Víctor Manuelle - He Tratado (Cover Audio Video) ([1:10](https://youtu.be/7wpVJvRIKYQ?t=70), [1:22](https://youtu.be/7wpVJvRIKYQ?t=82), [2:07](https://youtu.be/7wpVJvRIKYQ?t=127), [2:18](https://youtu.be/7wpVJvRIKYQ?t=138))
