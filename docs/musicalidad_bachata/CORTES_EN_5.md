@@ -147,6 +147,14 @@ https://user-images.githubusercontent.com/10092275/223555384-7150b6ff-6209-43e3-
 
 Referencia: [Gero & Migle | Bachata | Jr - Salvaje](https://youtu.be/xZaRrsaUZj0?t=34)
 
+
+- Sensación: Tabla.
+
+https://github.com/juanbeleno/social-dance-project/assets/10092275/def27ea6-5891-4b0d-87a6-a3870c42f8d3.mov
+
+Referencia: [Carlos & Idaira - Social dancing | World Latin Congress 2023 (Madrid, Spain)](https://youtu.be/PfJUDTIstgw?si=TeMl8udvaFdeOKLN&t=67)
+
+
 ## Canciones recomendadas para practicar por cortes en 5
 
 - R.I.P - Romeo Santos ([0:58](https://youtu.be/Uzt3PBzObl4?t=58), [1:13](https://youtu.be/Uzt3PBzObl4?t=73), [1:28](https://youtu.be/Uzt3PBzObl4?t=88), [1:43](https://youtu.be/Uzt3PBzObl4?t=103), [2:11](https://youtu.be/Uzt3PBzObl4?t=131), [2:42](https://youtu.be/Uzt3PBzObl4?t=162), [3:12](https://youtu.be/Uzt3PBzObl4?t=192))
