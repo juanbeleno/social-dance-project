@@ -115,6 +115,12 @@ https://github.com/juanbeleno/social-dance-project/assets/10092275/48fd2fee-c624
 
 Referencia: [Dario & Sara - Social Dancing | BCN dance Family 2023 (Barcelona, Spain)](https://youtu.be/js80cS_QPLk?si=82LBcYhnvGoIbXy9&t=70)
 
+- Sensación: lado a lado
+
+https://github.com/juanbeleno/social-dance-project/assets/10092275/27e2c555-09b3-4e10-b00d-77ddd1a0618d.mp4
+
+Referencia: [Prohíbido de Yerin](https://www.instagram.com/reel/C1QKvchxKrM/?utm_source=ig_web_copy_link)
+
 
 ## Canciones recomendadas para practicar
 
