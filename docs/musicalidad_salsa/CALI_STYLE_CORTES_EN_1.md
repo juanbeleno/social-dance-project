@@ -39,13 +39,6 @@ https://github.com/juanbeleno/social-dance-project/assets/10092275/2f276d87-e67b
 Referencia: [N°3 Profesional pareja Salsa Estilo Caleño, En Mundial de Salsa 2019 Cali-Valle](https://www.youtube.com/watch?v=35ccWNTKzFA&t=20s)
 
 
-- Sensación: Borracho desde una correa. **Adición:** Podemos hacer un borracho desde dinos.
-
-https://github.com/juanbeleno/social-dance-project/assets/10092275/3a30a756-1f91-42c3-9233-8d43935bd0c1.mp4
-
-Referencia: [***Desafío Salsero en La Topa Tolondra, evento organizado por la Revista Salsa y Andres JoyDance #Po](https://www.youtube.com/watch?v=zcL_j4y4PVY&t=121s)
-
-
 - Sensación: Caida de salsa cubana.
 
 https://github.com/juanbeleno/social-dance-project/assets/10092275/026ac9f4-9cb0-421d-95be-42f6243475c7.mp4
@@ -61,6 +54,13 @@ Referencia: [Final Con Orquesta, Pareja Seis Elite Cabaret, En el Festival Mundi
 
 
 ## Pasos con un poco más de dificultad que toca que el follow lo haya hecho antes porque sino puede pasar un desastre.
+
+- Sensación: Borracho desde una correa. **Adición:** Podemos hacer un borracho desde dinos.
+
+https://github.com/juanbeleno/social-dance-project/assets/10092275/3a30a756-1f91-42c3-9233-8d43935bd0c1.mp4
+
+Referencia: [***Desafío Salsero en La Topa Tolondra, evento organizado por la Revista Salsa y Andres JoyDance #Po](https://www.youtube.com/watch?v=zcL_j4y4PVY&t=121s)
+
 
 - Sensación: Caida del hombre guindando de la follow.
 
