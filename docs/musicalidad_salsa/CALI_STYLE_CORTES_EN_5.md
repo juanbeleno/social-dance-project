@@ -20,7 +20,7 @@ https://github.com/juanbeleno/social-dance-project/assets/10092275/36e3e04c-7a13
 Referencia: [Julian & Helen Festival Mundial de SALSA 2018](https://www.youtube.com/watch?v=6Fcq6gOJEpY&t=76s)
 
 
-- Sensación: Patada pa' un lado. Se puede usar parcialmente para cortes en 1.
+- Sensación: Patada pa' un lado. Se puede usar parcialmente para cortes en 1. **Adición:** Patada también se usa en columpio con frisby o en ventana + patada + salir por debajo pa' continuar en ventana.
 
 https://github.com/juanbeleno/social-dance-project/assets/10092275/70577158-d764-44d0-a966-d5a85f784170.mp4
 
