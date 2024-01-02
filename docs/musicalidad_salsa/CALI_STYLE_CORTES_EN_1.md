@@ -50,7 +50,7 @@ Referencia: [Final Con Orquesta, Pareja Seis Elite Cabaret, En el Festival Mundi
 
 https://github.com/juanbeleno/social-dance-project/assets/10092275/daf95b5c-2d9f-49d3-9661-e26e575d18c0.mp4
 
-Referencia: [Final Con Orquesta, Pareja Seis Elite Cabaret, En el Festival Mundial de Salsa Cali 2023.](https://www.youtube.com/watch?v=n7mDCg1IezI&t=38s)
+Referencia: [Pareja Elite Estilo Caleño, Daniela Jesus y Jhon Jairo, Festival mundial de Salsa Cali 2023.](https://www.youtube.com/watch?v=bwL4HauBBzE&t=38s)
 
 
 ## Pasos con un poco más de dificultad que toca que el follow lo haya hecho antes porque sino puede pasar un desastre.
