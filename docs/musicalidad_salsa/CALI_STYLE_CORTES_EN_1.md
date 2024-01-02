@@ -46,7 +46,7 @@ https://github.com/juanbeleno/social-dance-project/assets/10092275/026ac9f4-9cb0
 Referencia: [Final Con Orquesta, Pareja Seis Elite Cabaret, En el Festival Mundial de Salsa Cali 2023.](https://www.youtube.com/watch?v=n7mDCg1IezI&t=99s)
 
 
-- Sensación: Caida lateral con piernas estiradas. **Modificación:** Usarlo después de un Carabalí y arreglar las manos.
+- Sensación: Caida lateral con piernas estiradas. **Modificación:** Usarlo después de un Carabalí y arreglar las manos o desde una ventana.
 
 https://github.com/juanbeleno/social-dance-project/assets/10092275/daf95b5c-2d9f-49d3-9661-e26e575d18c0.mp4
 
