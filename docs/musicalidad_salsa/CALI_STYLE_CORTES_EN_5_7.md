@@ -21,7 +21,7 @@ https://github.com/juanbeleno/social-dance-project/assets/10092275/4aab7a78-2e24
 Referencia: [Final Con Orquesta, Pareja Seis Elite Cabaret, En el Festival Mundial de Salsa Cali 2023.](https://www.youtube.com/watch?v=n7mDCg1IezI&t=59s)
 
 
-- Sensación: Dos patadas al aire. **Modificación:** Hacerlo después de un resolución con visaje de miguelito.
+- Sensación: Dos patadas al aire. **Modificación:** Hacerlo después de un resolución con visaje de miguelito. También se puede hacer desde básico marcando 3 y 4 en tap o cruzando como en Sebastián.
 
 https://github.com/juanbeleno/social-dance-project/assets/10092275/33de6ddf-b4ea-4b30-a254-e40ab1ade270.mp4
 
