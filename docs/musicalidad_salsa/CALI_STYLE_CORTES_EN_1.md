@@ -79,3 +79,4 @@ Referencia: [Final Con Orquesta, Pareja Cinco Elite Cabaret, En el Festival Mund
 ## Canciones recomendadas para practicar
 
 - A las seis - Joe Cuba ([0:16](https://youtu.be/_nNf-Kv5HpE?si=p8oAX9YZMGP-UaRF&t=16))
+- Malanga Brava - Joe Cuba ([2:42](https://youtu.be/cuGhwQgvQ0Y?si=n9UQShosZx1Zs1Zr&t=162), [3:35](https://youtu.be/cuGhwQgvQ0Y?si=NuWcDeAXa-w530fB&t=215))
