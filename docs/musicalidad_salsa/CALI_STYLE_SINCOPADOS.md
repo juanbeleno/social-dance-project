@@ -47,6 +47,11 @@ https://github.com/juanbeleno/social-dance-project/assets/10092275/d3d72e21-75bd
 Referencia: [Ronald Marin y Ana Saoco improvisacion de Baile Social](https://www.youtube.com/watch?v=f1uhOt_FsG4&t=130s)
 
 
+- Tap y variaciones
+- Cuatros complicados
+- Trenzas
+
+
 ## Pasos con un poco más de dificultad que toca que el follow lo haya hecho antes porque sino puede pasar un desastre.
 
 - Sensación: Levantar a la chica mientras ella mueve los piecitos.
