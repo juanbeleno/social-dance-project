@@ -50,6 +50,7 @@ Referencia: [Ronald Marin y Ana Saoco improvisacion de Baile Social](https://www
 - Tap y variaciones
 - Cuatros complicados
 - Trenzas
+- Pás de Bourée
 
 
 ## Pasos con un poco más de dificultad que toca que el follow lo haya hecho antes porque sino puede pasar un desastre.
