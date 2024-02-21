@@ -155,6 +155,13 @@ https://github.com/juanbeleno/social-dance-project/assets/10092275/def27ea6-5891
 Referencia: [Carlos & Idaira - Social dancing | World Latin Congress 2023 (Madrid, Spain)](https://youtu.be/PfJUDTIstgw?si=TeMl8udvaFdeOKLN&t=67)
 
 
+- Sensación: El hombre queda de espaldas. Sirve para cortes en 1.
+
+https://github.com/juanbeleno/social-dance-project/assets/10092275/66a47ec4-53d9-4491-9a0a-162587a02b69.mp4
+
+Referencia: [Otra Vez - Prince Royce | Daniel y Tom Bachata Groove](https://youtu.be/qTBFuW67A10?si=bcctG9uY5-q1kqy7&t=119)
+
+
 ## Canciones recomendadas para practicar por cortes en 5
 
 - R.I.P - Romeo Santos ([0:58](https://youtu.be/Uzt3PBzObl4?t=58), [1:13](https://youtu.be/Uzt3PBzObl4?t=73), [1:28](https://youtu.be/Uzt3PBzObl4?t=88), [1:43](https://youtu.be/Uzt3PBzObl4?t=103), [2:11](https://youtu.be/Uzt3PBzObl4?t=131), [2:42](https://youtu.be/Uzt3PBzObl4?t=162), [3:12](https://youtu.be/Uzt3PBzObl4?t=192))
