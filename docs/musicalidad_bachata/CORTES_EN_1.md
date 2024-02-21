@@ -87,6 +87,12 @@ https://github.com/juanbeleno/social-dance-project/assets/10092275/86b7729b-8837
 
 Referencia: [Willy & Lauriane - Social dancing | Albania Afro Latin Festival 2023](https://youtu.be/p3ztWA7d8Ig?si=fyyaNamtfx-DFJc1&t=2)
 
+- Sensación: Empujón hacia el frente.
+
+https://github.com/juanbeleno/social-dance-project/assets/10092275/bb7f78c3-7d49-4a10-abd7-621f877da030.mp4
+
+Referencia: [DJ York & Estefania - Bachata social dancing | Summer Sensual Days 2023 (Rovinj)](https://youtu.be/EDq8EvYuH40?t=49)
+
 
 ## Canciones recomendadas para practicar
 
