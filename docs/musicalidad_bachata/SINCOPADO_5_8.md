@@ -74,11 +74,11 @@ https://github.com/juanbeleno/social-dance-project/assets/10092275/076413d7-52c4
 Referencia: [Anastasia & Jovanny - Bachata Social Dancing | Latin Beach Fest DR 2022 (Punta Cana)](https://youtu.be/mcZnE9UQNLg?si=fWOJQfBk5fa2nwO8&t=102)
 
 
+- Sensación: giro 360 juntos con preparación de rompe.
+
 ## Canciones recomendadas para practicar sincopados
 
 - Amigo - Romeo Santos ([1:12](https://youtu.be/2p_eRTj5s5M?t=72), [1:26](https://youtu.be/2p_eRTj5s5M?t=86), [2:08*](https://youtu.be/2p_eRTj5s5M?t=128), [2:36](https://youtu.be/2p_eRTj5s5M?t=156), [2:51](https://youtu.be/2p_eRTj5s5M?t=171))
-
-- Enseñame a olvidar - Aventura ([0:50](https://youtu.be/uPCZm2Tvjpo?t=50), [1:04](https://youtu.be/uPCZm2Tvjpo?t=64), [2:07](https://youtu.be/uPCZm2Tvjpo?t=127), [2:38*](https://youtu.be/uPCZm2Tvjpo?t=158), [2:46](https://youtu.be/uPCZm2Tvjpo?t=166), [3:31](https://youtu.be/uPCZm2Tvjpo?t=211), [3:48](https://youtu.be/uPCZm2Tvjpo?t=228))
 
 - Antes del lunes - El torito ([0:57](https://youtu.be/dXjxxZVyAQk?t=57), [1:59](https://youtu.be/dXjxxZVyAQk?t=119), [2:54](https://youtu.be/dXjxxZVyAQk?t=174))
 
@@ -86,8 +86,20 @@ Referencia: [Anastasia & Jovanny - Bachata Social Dancing | Latin Beach Fest DR 
 
 - Ciudadana - Romeo Santos ([0:35](https://youtu.be/Plq4dTFS4Pc?t=35), [2:12](https://youtu.be/Plq4dTFS4Pc?t=132))
 
-- Burbujas de amor - Juan Luis Guerra ([0:11](https://youtu.be/v0ckuv1xBm0?t=11), [0:26](https://youtu.be/v0ckuv1xBm0?t=26), [1:28](https://youtu.be/v0ckuv1xBm0?t=88), [1:43](https://youtu.be/v0ckuv1xBm0?si=HqI1eqYWYtMw3bfV&t=103))
-
 - Solo conmigo - Romeo Santos ([0:47](https://youtu.be/XEUCbvCEjc8?si=aSJSDT6v6YOm6elr&t=47), [1:03](https://youtu.be/XEUCbvCEjc8?si=OpLC4qGglKMjYP_3&t=63), [2:29](https://youtu.be/XEUCbvCEjc8?si=KOBkg_n4V5XEf3kn&t=149), [2:44](https://youtu.be/XEUCbvCEjc8?si=4OV_jc6pSYHzDS03&t=164))
 
 - 7 pecados - Dani J ([1:18](https://youtu.be/fCMaW1gQBjU?si=kxkYk7BDpeKDEm7_&t=78), [1:25](https://youtu.be/fCMaW1gQBjU?si=lb1rf37KNnsVFSPA&t=85), []())
+
+
+## Canciones con patrón de cada 4 octavas
+
+- Burbujas de amor - Juan Luis Guerra ([0:11](https://youtu.be/v0ckuv1xBm0?t=11), [0:26](https://youtu.be/v0ckuv1xBm0?t=26), [1:28](https://youtu.be/v0ckuv1xBm0?t=88), [1:43](https://youtu.be/v0ckuv1xBm0?si=HqI1eqYWYtMw3bfV&t=103))
+
+- Enseñame a olvidar - Aventura ([0:50](https://youtu.be/uPCZm2Tvjpo?t=50), [1:04](https://youtu.be/uPCZm2Tvjpo?t=64), [2:07](https://youtu.be/uPCZm2Tvjpo?t=127), [2:38*](https://youtu.be/uPCZm2Tvjpo?t=158), [2:46](https://youtu.be/uPCZm2Tvjpo?t=166), [3:31](https://youtu.be/uPCZm2Tvjpo?t=211), [3:48](https://youtu.be/uPCZm2Tvjpo?t=228))
+
+- El papel part 2 - Romeo Santos ([0:32](https://youtu.be/Px3s5DbDYxY?si=ufch_9Y8cSHwHRMU&t=32), [0:47](https://youtu.be/Px3s5DbDYxY?si=YiydBsGvBrd0qiJT&t=47), [1:02](https://youtu.be/Px3s5DbDYxY?si=f6dwaogTjzjFae-8&t=62), [1:41](https://youtu.be/Px3s5DbDYxY?si=-shT3dmIVvdf59aK&t=101), [1:57](https://youtu.be/Px3s5DbDYxY?si=3jPmi7s5l-4cbw0k&t=117), [2:44](https://youtu.be/Px3s5DbDYxY?si=glr975fGSzpb7xHz&t=164), [3:16](https://youtu.be/Px3s5DbDYxY?si=ZhWDwUM-OCYFXdUG&t=196), [4:11](https://youtu.be/Px3s5DbDYxY?si=1UuMWWsxEICzzXYp&t=251))
+
+## Canciones con sincopados usando la voz
+
+- Disparo Al Corazón - Dani J - Cada 2 octavas ([0:44](https://youtu.be/0_jqCc8RDnk?si=y_nvuCQr-l3MVmcU&t=44), [0:52](https://youtu.be/0_jqCc8RDnk?si=Xc4HGlRCFxAXb26J&t=52), [0:59](https://youtu.be/0_jqCc8RDnk?si=F91N0dikIL3WmLMv&t=59), [1:06](https://youtu.be/0_jqCc8RDnk?si=OWVKvWF9bB4RuV7u&t=66), [1:14](https://youtu.be/0_jqCc8RDnk?si=PSL5VHxSEGY_ZvD4&t=74), [1:18](https://youtu.be/0_jqCc8RDnk?si=CEN_xV2Ur3t5cWmr&t=78), [1:43](https://youtu.be/0_jqCc8RDnk?si=xZQLrBldmMdhXbvO&t=103), [1:51](https://youtu.be/0_jqCc8RDnk?si=-ZdZxeJznJ7k6fpM&t=111), [1:58](https://youtu.be/0_jqCc8RDnk?si=ZW8EHNJgcyZscj7W&t=118), [2:06](https://youtu.be/0_jqCc8RDnk?si=ETlGLtKGXEENb7tD&t=126), [2:13](https://youtu.be/0_jqCc8RDnk?si=9nqJN7D7sS4H4CB8&t=133), [2:38](https://youtu.be/0_jqCc8RDnk?si=m3gse15JRjvjag0U&t=158), [2:46](https://youtu.be/0_jqCc8RDnk?si=PPO-8YrKcRH1UAlv&t=166), [2:54](https://youtu.be/0_jqCc8RDnk?si=m2JC8OA7yVY0wvpZ&t=174), [3:01](https://youtu.be/0_jqCc8RDnk?si=7uSqRaNZdl3QBrnc&t=181))
+
