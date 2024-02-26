@@ -139,3 +139,6 @@ Referencia: [Prohíbido de Yerin](https://www.instagram.com/reel/C1QKvchxKrM/?ut
 ## Canciones con patrón de coro con descanso de una octava
 - Evidencias - Kewin Cosmos ([0:33](https://youtu.be/LbPIatqWm2M?si=XCw4w1AmpJlFtSu4&t=33), [0:41](https://youtu.be/LbPIatqWm2M?si=QNWJiyma6TVlpNSS&t=41), [0:48](https://youtu.be/LbPIatqWm2M?si=LxdKJKLOgLNnQDzu&t=48), [0:56](https://youtu.be/LbPIatqWm2M?si=YanHHzZVY27dvzNw&t=56), [1:34](https://youtu.be/LbPIatqWm2M?si=-hyPJRPNXtrVQOwi&t=94), [1:41](https://youtu.be/LbPIatqWm2M?si=NrB5g0OC1Kt5z7O6&t=101), [1:48](https://youtu.be/LbPIatqWm2M?si=FqJ5hkmwh0vCqk38&t=108), [1:56](https://youtu.be/LbPIatqWm2M?si=H09FEbPeL1vQw-w2&t=116), [2:03](https://youtu.be/LbPIatqWm2M?si=VnxET1LEJ9HnD74Z&t=123), [2:10](https://youtu.be/LbPIatqWm2M?si=aF5uSkB5wpt0Cb-6&t=130))
 
+## Canciones con patrón de cada 4 octavas
+
+- El malo - Aventura ([0:49](https://youtu.be/GzMGKJF09AI?si=zcblK-VVPSVBMw-4&t=49), [1:04](https://youtu.be/GzMGKJF09AI?si=PJ7RrDzHIEJbjx2e&t=64), [1:19](https://youtu.be/GzMGKJF09AI?si=dsYg6ifaxTMLcVLR&t=79), [2:33](https://youtu.be/GzMGKJF09AI?si=OeKHXE1-Q4TWlEqW&t=153), [2:49](https://youtu.be/GzMGKJF09AI?si=BEmK1SARyPEx3CVP&t=169), [3:04](https://youtu.be/GzMGKJF09AI?si=14eickUEbGW0pWaC&t=184))
