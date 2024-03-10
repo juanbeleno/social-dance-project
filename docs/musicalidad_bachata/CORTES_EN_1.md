@@ -118,3 +118,5 @@ Referencia: [DJ York & Estefania - Bachata social dancing | Summer Sensual Days 
 
 ### Patrón de repetición
 - Mia - Romeo Santos ([0:54*](https://youtu.be/8iPcqtHoR3U?si=Uynd-0a2378xtOP0&t=54), [2:05](https://youtu.be/8iPcqtHoR3U?si=sHSvdO8p9A4gz_1f&t=125), [3:17](https://youtu.be/8iPcqtHoR3U?si=cYA3yejcbj6ppHOY&t=197), [4:47](https://youtu.be/8iPcqtHoR3U?si=DMAiOfbkQBwbnqtT&t=287))
+
+- No te vayas - Prince Royce ([0:56](https://youtu.be/mAVsR2Esenk?si=9l96gfIakZQVV6TJ&t=56), [1:04](https://youtu.be/mAVsR2Esenk?si=dRaCmHsBkIhTOhFI&t=64), [1:41](https://youtu.be/mAVsR2Esenk?si=dRaCmHsBkIhTOhFI&t=64), [1:48](https://youtu.be/mAVsR2Esenk?si=vXgrjLDIYhqLk2rd&t=108), [1:56](https://youtu.be/mAVsR2Esenk?si=HNde9tAT-TGMHeUL&t=116), [2:04](https://youtu.be/mAVsR2Esenk?si=q0apF8qVzF9X96FJ&t=124))
