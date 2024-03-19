@@ -90,6 +90,7 @@ Referencia: [Anastasia & Jovanny - Bachata Social Dancing | Latin Beach Fest DR 
 
 - 7 pecados - Dani J ([1:18](https://youtu.be/fCMaW1gQBjU?si=kxkYk7BDpeKDEm7_&t=78), [1:25](https://youtu.be/fCMaW1gQBjU?si=lb1rf37KNnsVFSPA&t=85), []())
 
+- Carmín - Romeo Santos ft. Juan Luis Guerra ([0:21](https://youtu.be/D35n4kgX0e0?si=7i_cwFexLcXip_8_&t=21), [1:32](https://youtu.be/D35n4kgX0e0?si=o8SIwygSvrVxfiOz&t=92), [2:04*](https://youtu.be/D35n4kgX0e0?si=du5k3T_jWprLvfNp&t=124), [2:36*](https://youtu.be/D35n4kgX0e0?si=NUbTDBReesWgnpL9&t=156))
 
 ## Canciones con patrón de cada 4 octavas
 
@@ -102,4 +103,8 @@ Referencia: [Anastasia & Jovanny - Bachata Social Dancing | Latin Beach Fest DR 
 ## Canciones con sincopados usando la voz
 
 - Disparo Al Corazón - Dani J - Cada 2 octavas ([0:44](https://youtu.be/0_jqCc8RDnk?si=y_nvuCQr-l3MVmcU&t=44), [0:52](https://youtu.be/0_jqCc8RDnk?si=Xc4HGlRCFxAXb26J&t=52), [0:59](https://youtu.be/0_jqCc8RDnk?si=F91N0dikIL3WmLMv&t=59), [1:06](https://youtu.be/0_jqCc8RDnk?si=OWVKvWF9bB4RuV7u&t=66), [1:14](https://youtu.be/0_jqCc8RDnk?si=PSL5VHxSEGY_ZvD4&t=74), [1:18](https://youtu.be/0_jqCc8RDnk?si=CEN_xV2Ur3t5cWmr&t=78), [1:43](https://youtu.be/0_jqCc8RDnk?si=xZQLrBldmMdhXbvO&t=103), [1:51](https://youtu.be/0_jqCc8RDnk?si=-ZdZxeJznJ7k6fpM&t=111), [1:58](https://youtu.be/0_jqCc8RDnk?si=ZW8EHNJgcyZscj7W&t=118), [2:06](https://youtu.be/0_jqCc8RDnk?si=ETlGLtKGXEENb7tD&t=126), [2:13](https://youtu.be/0_jqCc8RDnk?si=9nqJN7D7sS4H4CB8&t=133), [2:38](https://youtu.be/0_jqCc8RDnk?si=m3gse15JRjvjag0U&t=158), [2:46](https://youtu.be/0_jqCc8RDnk?si=PPO-8YrKcRH1UAlv&t=166), [2:54](https://youtu.be/0_jqCc8RDnk?si=m2JC8OA7yVY0wvpZ&t=174), [3:01](https://youtu.be/0_jqCc8RDnk?si=7uSqRaNZdl3QBrnc&t=181))
+
+## Patrones de repetición diferentes
+
+- Solo quise quererte - Kewin Cosmos (Cada octava) ([1:38](https://youtu.be/EHo5EDUxpac?si=5jXUVOwZfjSxIPQo&t=98), [1:46](https://youtu.be/EHo5EDUxpac?si=7Yw7xm0E2nftAQJV&t=106), [1:50*](https://youtu.be/EHo5EDUxpac?si=DF7yhX_6Esr5Twvb&t=110), [1:54*](https://youtu.be/EHo5EDUxpac?si=qlnrnKnbJ3lqKSFp&t=114), [1:56*](https://youtu.be/EHo5EDUxpac?si=g3R6ui3VJkG46aug&t=116), [2:34*](https://youtu.be/EHo5EDUxpac?si=dwVaKPxFjPnV1oEy&t=154), [2:38*](https://youtu.be/EHo5EDUxpac?si=MfSeCCcH8mnmz2h6&t=158), [3:23**](https://youtu.be/EHo5EDUxpac?si=8At7kUl73ePXTYYU&t=203))
 
