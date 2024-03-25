@@ -8,6 +8,13 @@ https://github.com/juanbeleno/social-dance-project/assets/10092275/05bf1e57-04f9
 
 Referencia: Clase en Ilé Danza - Andrés Leiton y Sandra Bermudez
 
+- Sensación: flick despues de 2 giros.
+
+https://github.com/juanbeleno/social-dance-project/assets/10092275/1f17690c-cce0-4ded-b04f-b0a5ffdb7d59.mp4
+
+Referencia: Clase en Ilé Danza - Christian Betancourt y Karyna Ruiz
+
+
 ## Canciones recomendadas para practicar
 
 - Adolescent's Orquesta - Persona Ideal (Letra Oficial) ([0:46](https://youtu.be/d9bRnGo2gjk?t=46), [1:03](https://youtu.be/d9bRnGo2gjk?t=63), [1:20](https://youtu.be/d9bRnGo2gjk?t=80), [1:51](https://youtu.be/d9bRnGo2gjk?t=111), [2:09](https://youtu.be/d9bRnGo2gjk?t=129), [2:26](https://youtu.be/d9bRnGo2gjk?t=146), [3:01](https://youtu.be/d9bRnGo2gjk?t=181), [3:23](https://youtu.be/d9bRnGo2gjk?t=203), [3:33](https://youtu.be/d9bRnGo2gjk?t=213))
@@ -27,4 +34,3 @@ Referencia: Clase en Ilé Danza - Andrés Leiton y Sandra Bermudez
 ## Repetición de la letra
 
 - Amores como el nuestro - Jerry Rivera ([0:59](https://youtu.be/sJqDmVekMWU?si=0m4zcy3mLHeX5h5g&t=59), [2:00](https://youtu.be/sJqDmVekMWU?si=gCaDsZYr7-5_0dOt&t=120), [2:32](https://youtu.be/sJqDmVekMWU?si=vUyVQ1GpDljbBQEC&t=152))
-- 
