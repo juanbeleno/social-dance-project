@@ -68,4 +68,12 @@ Referencia: [Terry & Busra](https://youtu.be/iWkij7FGFRg?t=106)
 
 - De mí enamorate - Tito Nieves ([0:45](https://youtu.be/7WHf2OjagQ4?t=45), [2:08](https://youtu.be/7WHf2OjagQ4?t=128))
 
+## Repetición cada 8 octavas
+
 - Me tengo que ir - Adolecent's Orquesta - cada 7 octavas? ([0:47](https://youtu.be/krA4QNOpFbU?si=rVGP3t0mEMharEh3&t=47), [1:04](https://youtu.be/krA4QNOpFbU?si=G2kWqEX1IMTIW5-n&t=64), [1:22](https://youtu.be/krA4QNOpFbU?si=m4XBVxOuSHeZW0wo&t=82), [1:52](https://youtu.be/krA4QNOpFbU?si=Apj4W25BXf-AOtdM&t=112), [2:09](https://youtu.be/krA4QNOpFbU?si=vFykw1FD-aJEPimC&t=129), [2:27](https://youtu.be/krA4QNOpFbU?si=ScmR6qUGiZvMAekW&t=147), [3:01](https://youtu.be/krA4QNOpFbU?si=4bbwv4l-_S8tewdo&t=181), [3:25](https://youtu.be/krA4QNOpFbU?si=frfIDsbCjLcMWAdD&t=205), [3:34](https://youtu.be/krA4QNOpFbU?si=vaR7amBvSG4zgzIu&t=214))
+
+- Que sorpresa - Alexander Abreu - cada 8 octavas ([2:19](https://youtu.be/8XSoQ3ue0Bo?si=vNO2-k5rjiuNkKOl&t=139), [2:41](https://youtu.be/8XSoQ3ue0Bo?si=J1tW1uYcI2898gNs&t=161), [3:25](https://youtu.be/8XSoQ3ue0Bo?si=EP0R2m23w7ZR2Mg6&t=205), [3:46](https://youtu.be/8XSoQ3ue0Bo?si=SgOAMcAyPQS7bc23&t=226), [4:09](https://youtu.be/8XSoQ3ue0Bo?si=w3pNyhewPnyty7Mq&t=249), [4:31](https://youtu.be/8XSoQ3ue0Bo?si=6VQ2QIJpPVXLnEpK&t=271), [4:52](https://youtu.be/8XSoQ3ue0Bo?si=wTwxdlFg2Pum_4Re&t=292), [5:04](https://youtu.be/8XSoQ3ue0Bo?si=vygjeS2B1AgqrznF&t=304), [5:25](https://youtu.be/8XSoQ3ue0Bo?si=kmPxAh22vBOzImp-&t=325))
+
+## Repetición de la letra
+
+- Amores como el nuestro - Jerry Rivera ([0:59](https://youtu.be/sJqDmVekMWU?si=0m4zcy3mLHeX5h5g&t=59), [2:00](https://youtu.be/sJqDmVekMWU?si=gCaDsZYr7-5_0dOt&t=120), [2:32](https://youtu.be/sJqDmVekMWU?si=vUyVQ1GpDljbBQEC&t=152))
