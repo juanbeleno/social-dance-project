@@ -15,6 +15,31 @@ https://github.com/juanbeleno/social-dance-project/assets/10092275/1f17690c-cce0
 Referencia: Clase en Ilé Danza - Christian Betancourt y Karyna Ruiz
 
 
+- Sensación: visaje de cubano. Versión  más complicada con giro del hombre hacia atrás.
+
+https://github.com/juanbeleno/social-dance-project/assets/10092275/899ab11f-9322-499d-9c63-d165a35bd761.mp4
+
+Referencia: [Willy Arey & Jessy Valentini - Social dancing | Salsa On Tour Festival 2023 (San Vincenzo, Italy)](https://youtu.be/cARF65rnDu8?si=IW-2k-QMNNFyXbJy&t=85)
+
+- Sensación: Adorno de corona. Está en 2 y originalmente es corte en 7.
+
+https://github.com/juanbeleno/social-dance-project/assets/10092275/3b0ff4d2-db4a-4506-9e8a-fd9e611aca3e.mp4
+
+Referencia: [Terry SalsAlianza & Luisa Epp ~ social dancing @ Cologne Salsa Congress](https://youtu.be/2VXhxf2F5yM?si=VzkbISm7ZLTsKpkk&t=234)
+
+- Sensación: Desenrrollar desde posición de pretzel. Originalmente, está en 2 y el corte es en 7
+
+https://github.com/juanbeleno/social-dance-project/assets/10092275/a6a7aaf1-5b75-4008-9e9d-c7e6f475b73c.mp4
+
+Referencia: [Jose Diaz & Ines Effoti - Salsa social dancing | Amsterdam International Salsa Festival 2019](https://youtu.be/wHEGEhcvrD4?si=6484VELKroBLZIga&t=109)
+
+- Sensación: flick de las 2 manos despues de unos adornos de corona
+
+- Sensación: flick después de un giro para enredar las manos
+
+- Sensación: Dar tres giros a la chica en 5 7 y 1 pararla en seco y hacer shines
+
+
 ## Canciones recomendadas para practicar
 
 - De mí enamorate - Tito Nieves ([0:45](https://youtu.be/7WHf2OjagQ4?t=45), [2:08](https://youtu.be/7WHf2OjagQ4?t=128))
