@@ -6,7 +6,7 @@ A continuación, presento varios ejemplos de interpretaciones de cortes en tiemp
 
 - Sensación: 3 giros.
 
-https://github.com/juanbeleno/social-dance-project/assets/10092275/e57cc764-0bbb-498c-9ab2-e39f5d83a7cd.mp4
+https://github.com/juanbeleno/social-dance-project/assets/10092275/f61ab54d-471a-40ea-b005-54cea35edeca.mp4
 
 Referencia: @bachateamepapa y @mariianadoreley
 
