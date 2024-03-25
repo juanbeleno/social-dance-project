@@ -8,11 +8,20 @@ https://github.com/juanbeleno/social-dance-project/assets/10092275/de3f0173-e746
 
 Referencia: Clase en Ilé - Andrés Leiton y Daniela Peña
 
+
 - Sensación: giro hacia atrás con ronde de jambé.
 
 https://github.com/juanbeleno/social-dance-project/assets/10092275/b79ceeb4-911c-47b8-b900-c786570c35fd.mp4
 
 Referencia: Clase en Ilé - Andrés Leiton y Daniela Peña
+
+
+- Sensación: 360 por delante con ronde de jambé del hombre de adorno.
+
+https://github.com/juanbeleno/social-dance-project/assets/10092275/3ad00f7e-5a74-46ee-8375-0bfd815ca024.mp4
+
+Referencia: Clase en Ilé - Christian Betancourt y Karyna Ruiz
+
 
 ## Canciones recomendadas para practicar
 
