@@ -6,7 +6,13 @@ A continuación, presento varios ejemplos de interpretaciones de sonidos alargad
 
 https://github.com/juanbeleno/social-dance-project/assets/10092275/de3f0173-e746-48a9-a6fe-36113b476393.mp4
 
-Referencia: [Clase en Ilé - Andrés Leiton y Daniela Peña](https://youtu.be/wt7f_Bu2OE8?t=188)
+Referencia: Clase en Ilé - Andrés Leiton y Daniela Peña
+
+- Sensación: giro hacia atrás con ronde de jambé.
+
+https://github.com/juanbeleno/social-dance-project/assets/10092275/b79ceeb4-911c-47b8-b900-c786570c35fd.mp4
+
+Referencia: Clase en Ilé - Andrés Leiton y Daniela Peña
 
 ## Canciones recomendadas para practicar
 
