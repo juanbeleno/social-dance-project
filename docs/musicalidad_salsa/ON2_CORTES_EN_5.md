@@ -90,7 +90,7 @@ Referencia: [Fadi & Veronica - Social dancing | World Stars Salsa Festival 2022 
 
 - Víctor Manuelle - He Tratado (Cover Audio Video) ([1:10](https://youtu.be/7wpVJvRIKYQ?t=70), [1:22](https://youtu.be/7wpVJvRIKYQ?t=82), [2:07](https://youtu.be/7wpVJvRIKYQ?t=127), [2:18](https://youtu.be/7wpVJvRIKYQ?t=138))
 
-- Tu Con El - Frankie Ruíz ([0:24](https://youtu.be/u1PpVX5Ym3Y?t=24), [1:53](https://youtu.be/u1PpVX5Ym3Y?t=113), [1:58](https://youtu.be/u1PpVX5Ym3Y?t=118), [2:13](https://youtu.be/u1PpVX5Ym3Y?t=133), [3:15](https://youtu.be/u1PpVX5Ym3Y?t=195), [3:20](https://youtu.be/u1PpVX5Ym3Y?t=200), [4:30](https://youtu.be/u1PpVX5Ym3Y?t=270))
+- Tu Con El - Frankie Ruíz ([0:24](https://youtu.be/KIC4fVmzUwI?t=24), [1:53](https://youtu.be/KIC4fVmzUwI?t=113), [1:58](https://youtu.be/KIC4fVmzUwI?t=118), [2:13](https://youtu.be/KIC4fVmzUwI?t=133), [3:15](https://youtu.be/KIC4fVmzUwI?t=195), [3:20](https://youtu.be/KIC4fVmzUwI?t=200), [4:30](https://youtu.be/KIC4fVmzUwI?t=270))
 
 - Amor De Una Noche (Remix Version) - N'Klabe ft Julio Voltio ([0:47](https://youtu.be/CJrhKAxv1x8?t=47), [1:37](https://youtu.be/CJrhKAxv1x8?t=96), [3:51](https://youtu.be/CJrhKAxv1x8?t=231))
 
