@@ -2,17 +2,15 @@
 
 A continuación, presento varios ejemplos de interpretaciones de cortes en tiempo 1 que tienen sensaciones diferentes en orden de impacto visual (subjetivo):
 
-- Sensación: flick desde el codo.
 
-https://github.com/juanbeleno/social-dance-project/assets/10092275/05bf1e57-04f9-4df4-8e5f-4d4fcb9cdfff.mp4
+- Sensación: Dar tres giros a la chica en 5 7 y 1. Finalizando con parada en seco.
 
-Referencia: Clase en Ilé Danza - Andrés Leiton y Sandra Bermudez
+https://github.com/juanbeleno/social-dance-project/assets/10092275/6b0f8818-9475-43c5-b854-da377814a7f3.mp4
 
-- Sensación: flick despues de 2 giros.
 
-https://github.com/juanbeleno/social-dance-project/assets/10092275/1f17690c-cce0-4ded-b04f-b0a5ffdb7d59.mp4
+- Sensación: flick.
 
-Referencia: Clase en Ilé Danza - Christian Betancourt y Karyna Ruiz
+https://github.com/juanbeleno/social-dance-project/assets/10092275/0a6bf582-ffd3-4737-b328-f9c80e7c157f.mp4
 
 
 - Sensación: visaje de cubano. Versión  más complicada con giro del hombre hacia atrás.
@@ -21,23 +19,15 @@ https://github.com/juanbeleno/social-dance-project/assets/10092275/899ab11f-9322
 
 Referencia: [Willy Arey & Jessy Valentini - Social dancing | Salsa On Tour Festival 2023 (San Vincenzo, Italy)](https://youtu.be/cARF65rnDu8?si=IW-2k-QMNNFyXbJy&t=85)
 
-- Sensación: Adorno de corona. Está en 2 y originalmente es corte en 7.
+- Sensación: visaje de cubano v2.
 
-https://github.com/juanbeleno/social-dance-project/assets/10092275/3b0ff4d2-db4a-4506-9e8a-fd9e611aca3e.mp4
+https://github.com/juanbeleno/social-dance-project/assets/10092275/a1744c05-900f-4046-b1d7-294aeb395f08.mp4
 
-Referencia: [Terry SalsAlianza & Luisa Epp ~ social dancing @ Cologne Salsa Congress](https://youtu.be/2VXhxf2F5yM?si=VzkbISm7ZLTsKpkk&t=234)
+Referencia: [Fernando Sosa & Tatiana Bonaguro - Social Dancing | The Original Latin Dance Congress 2019 (Bangkok)](https://youtu.be/hCpS5V_Bnkg?si=yoqadkJ8EHp6dmj6&t=209)
 
-- Sensación: Desenrrollar desde posición de pretzel. Originalmente, está en 2 y el corte es en 7
+- Sensación: Desenrrollar desde posición de pretzel.
 
-https://github.com/juanbeleno/social-dance-project/assets/10092275/a6a7aaf1-5b75-4008-9e9d-c7e6f475b73c.mp4
-
-Referencia: [Jose Diaz & Ines Effoti - Salsa social dancing | Amsterdam International Salsa Festival 2019](https://youtu.be/wHEGEhcvrD4?si=6484VELKroBLZIga&t=109)
-
-- Sensación: flick de las 2 manos despues de unos adornos de corona
-
-- Sensación: flick después de un giro para enredar las manos
-
-- Sensación: Dar tres giros a la chica en 5 7 y 1 pararla en seco y hacer shines
+https://github.com/juanbeleno/social-dance-project/assets/10092275/b1d93976-71cc-41ad-96b8-7e0525467f87.mp4
 
 
 ## Canciones recomendadas para practicar
