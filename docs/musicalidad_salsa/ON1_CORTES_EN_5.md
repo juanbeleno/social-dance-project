@@ -2,11 +2,18 @@
 
 A continuación, presento varios ejemplos de interpretaciones de cortes en tiempo 5 que tienen sensaciones diferentes en orden de impacto visual (subjetivo):
 
-- Sensación: Patada desde posiciòn de pretzel.
+- Sensación: Patada desde posición de pretzel.
 
 https://github.com/juanbeleno/social-dance-project/assets/10092275/95858675-4952-41e8-ae7e-24f5eb1e4015.mp4
 
-Referencia: Clase en Ilè Danza - Andrés Leiton y Daniela Peña
+Referencia: Clase en Ilé Danza - Andrés Leiton y Daniela Peña
+
+
+- Sensación: flick.
+
+https://github.com/juanbeleno/social-dance-project/assets/10092275/19838924-e923-46b4-9711-51cc09a1c511.mp4
+
+Referencia: Clase en Step Dance - Guasa y Evelyn
 
 ## Canciones recomendadas para practicar
 
