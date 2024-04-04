@@ -127,6 +127,8 @@ Referencia: [Azael Bachata Fever](https://www.instagram.com/p/C4fYagCiHcu/?hl=es
 
 - Te invito - Aventura ([0:16](https://youtu.be/v6aicYYG59I?si=G7jP-oL9E6BB7oYQ&t=16), [0:55](https://youtu.be/v6aicYYG59I?si=M0OZ6hj2YSE0FFqx&t=55), [1:27](https://youtu.be/v6aicYYG59I?si=akujLH-iNKYO9Ici&t=87), [2:29](https://youtu.be/v6aicYYG59I?si=YT1ne4bZs9zGQ721&t=149))
 
+- Mírame - Prince Royce ([0:54](https://youtu.be/1JXupj4_yYw?si=CoJpXtEE_aiN1GpR&t=54), [2:33](https://youtu.be/1JXupj4_yYw?si=qyKfFOYDv6dKr40A&t=153))
+
 ### Patrón de repetición
 - Mia - Romeo Santos ([0:54*](https://youtu.be/8iPcqtHoR3U?si=Uynd-0a2378xtOP0&t=54), [2:05](https://youtu.be/8iPcqtHoR3U?si=sHSvdO8p9A4gz_1f&t=125), [3:17](https://youtu.be/8iPcqtHoR3U?si=cYA3yejcbj6ppHOY&t=197), [4:47](https://youtu.be/8iPcqtHoR3U?si=DMAiOfbkQBwbnqtT&t=287))
 
