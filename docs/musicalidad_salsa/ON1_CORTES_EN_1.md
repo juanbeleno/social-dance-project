@@ -39,6 +39,7 @@ https://github.com/juanbeleno/social-dance-project/assets/10092275/b1d93976-71cc
 
 - Hay gente pa' to - Yuniel Jimenez ([0:12*](https://youtu.be/k6pUUC52X0E?t=12), [0:20](https://youtu.be/k6pUUC52X0E?t=20), [0:34*](https://youtu.be/k6pUUC52X0E?t=34), [0:41](https://youtu.be/k6pUUC52X0E?t=41), [0:52*](https://youtu.be/k6pUUC52X0E?t=52), [1:35*](https://youtu.be/k6pUUC52X0E?t=95), [1:43](https://youtu.be/k6pUUC52X0E?t=103), [1:57*](https://youtu.be/k6pUUC52X0E?t=117), [2:04](https://youtu.be/k6pUUC52X0E?t=124), [2:14*](https://youtu.be/k6pUUC52X0E?t=134), [4:28*](https://youtu.be/k6pUUC52X0E?t=268))
 
+
 ## Repetición cada 8 octavas
 
 - Hasta que te conocí - Marc Anthony ([1:53](https://youtu.be/yiFj0jMKdIU?t=113), [2:15](https://youtu.be/yiFj0jMKdIU?t=135), [2:34](https://youtu.be/yiFj0jMKdIU?t=154), [2:57](https://youtu.be/yiFj0jMKdIU?t=177), [3:19](https://youtu.be/yiFj0jMKdIU?t=199), [3:38](https://youtu.be/yiFj0jMKdIU?t=218))
@@ -49,6 +50,12 @@ https://github.com/juanbeleno/social-dance-project/assets/10092275/b1d93976-71cc
 
 - Que sorpresa - Alexander Abreu - cada 8 octavas ([2:19](https://youtu.be/8XSoQ3ue0Bo?si=vNO2-k5rjiuNkKOl&t=139), [2:41](https://youtu.be/8XSoQ3ue0Bo?si=J1tW1uYcI2898gNs&t=161), [3:25](https://youtu.be/8XSoQ3ue0Bo?si=EP0R2m23w7ZR2Mg6&t=205), [3:46](https://youtu.be/8XSoQ3ue0Bo?si=SgOAMcAyPQS7bc23&t=226), [4:09](https://youtu.be/8XSoQ3ue0Bo?si=w3pNyhewPnyty7Mq&t=249), [4:31](https://youtu.be/8XSoQ3ue0Bo?si=6VQ2QIJpPVXLnEpK&t=271), [4:52](https://youtu.be/8XSoQ3ue0Bo?si=wTwxdlFg2Pum_4Re&t=292), [5:04](https://youtu.be/8XSoQ3ue0Bo?si=vygjeS2B1AgqrznF&t=304), [5:25](https://youtu.be/8XSoQ3ue0Bo?si=kmPxAh22vBOzImp-&t=325))
 
+- Las estrellas brillarán - Ray Rodríguez y su Orquesta ([0:34](https://youtu.be/fKKXn0JmdjI?si=EkTV5a6FxmdOMFyD&t=34), [0:53](https://youtu.be/fKKXn0JmdjI?si=M5PktAvwxyy9ivfc&t=53), [1:13](https://youtu.be/fKKXn0JmdjI?si=WU8qxkbjTTntT-7C&t=73), [1:33](https://youtu.be/fKKXn0JmdjI?si=w2w3sj1fPWI1d3nA&t=93))
+
 ## Repetición de la letra
 
 - Amores como el nuestro - Jerry Rivera ([0:59](https://youtu.be/sJqDmVekMWU?si=0m4zcy3mLHeX5h5g&t=59), [2:00](https://youtu.be/sJqDmVekMWU?si=gCaDsZYr7-5_0dOt&t=120), [2:32](https://youtu.be/sJqDmVekMWU?si=vUyVQ1GpDljbBQEC&t=152))
+
+### Patrones un poco más complejos
+
+- No quiere nada - Yembeke Cada 4, luego 8 octavas ([0:25](https://youtu.be/NyCt88P4b_c?si=pRAhJLJlICwWKwHA&t=25), [0:36](https://youtu.be/NyCt88P4b_c?si=_7CPxbCand5GXjPt&t=36), [1:00](https://youtu.be/NyCt88P4b_c?si=hTiI7Eu3YxkFDRvu&t=60), [1:11](https://youtu.be/NyCt88P4b_c?si=wglYEUIOMKrNT0_E&t=71), [1:34](https://youtu.be/NyCt88P4b_c?si=OSFh1qsyusVCRsze&t=94), [1:58](https://youtu.be/NyCt88P4b_c?si=RZuzdWCsijCRsCLQ&t=118), [3:25](https://youtu.be/NyCt88P4b_c?si=Bj71hiFo3oMteYxa&t=205), [4:15](https://youtu.be/NyCt88P4b_c?si=zR12W1dleKUwryPh&t=255))
