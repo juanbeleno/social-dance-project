@@ -52,6 +52,8 @@ https://github.com/juanbeleno/social-dance-project/assets/10092275/b1d93976-71cc
 
 - Las estrellas brillarán - Ray Rodríguez y su Orquesta ([0:34](https://youtu.be/fKKXn0JmdjI?si=EkTV5a6FxmdOMFyD&t=34), [0:53](https://youtu.be/fKKXn0JmdjI?si=M5PktAvwxyy9ivfc&t=53), [1:13](https://youtu.be/fKKXn0JmdjI?si=WU8qxkbjTTntT-7C&t=73), [1:33](https://youtu.be/fKKXn0JmdjI?si=w2w3sj1fPWI1d3nA&t=93))
 
+- Trampolín - El Gran Combo de Puerto Rico ([0:13](https://youtu.be/ktwLoiaCoMg?si=ijG8H2VXyOONs2ch&t=13), [0:34](https://youtu.be/ktwLoiaCoMg?si=JQu5ib2AXIrCwyub&t=34), [0:55](https://youtu.be/ktwLoiaCoMg?si=oBJ6czFjUm0sAziy&t=55), [1:36](https://youtu.be/ktwLoiaCoMg?si=aMnwe6Be99awTY_s&t=96), [3:10*](https://youtu.be/ktwLoiaCoMg?si=yuvnRad_WPfT-wdX&t=190), [3:21*](https://youtu.be/ktwLoiaCoMg?si=Dk5JhVWaTwMBqo9U&t=201), [3:31](https://youtu.be/ktwLoiaCoMg?si=ulnhrYH77k1K7E_n&t=211), [4:19](https://youtu.be/ktwLoiaCoMg?si=IHi_sfrvNpebp2Ke&t=259))
+
 ## Repetición de la letra
 
 - Amores como el nuestro - Jerry Rivera ([0:59](https://youtu.be/sJqDmVekMWU?si=0m4zcy3mLHeX5h5g&t=59), [2:00](https://youtu.be/sJqDmVekMWU?si=gCaDsZYr7-5_0dOt&t=120), [2:32](https://youtu.be/sJqDmVekMWU?si=vUyVQ1GpDljbBQEC&t=152))
