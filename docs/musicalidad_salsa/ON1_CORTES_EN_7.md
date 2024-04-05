@@ -7,3 +7,8 @@ A continuación, presento varios ejemplos de interpretaciones de cortes en tiemp
 https://github.com/juanbeleno/social-dance-project/assets/10092275/1859005c-2861-41de-a3a8-e823951f1ae3.mp4
 
 Referencia: Clase en Step Dance - Guasa y Evelyn
+
+
+### Letra
+
+- Que locura enamorarme de ti - Eddie Santiago (Se repite una vez después de 8 octavas) ([0:57](https://youtu.be/SqK_zXX-9k0?si=aCiUuPjRS4r2aFxJ&t=57), [1:17](https://youtu.be/SqK_zXX-9k0?si=bG1B0PIeKL6cjqkK&t=77), [2:01](https://youtu.be/SqK_zXX-9k0?si=fJcF-pjh0avb1AmW&t=121), [2:22](https://youtu.be/SqK_zXX-9k0?si=7_7nmBsiT_tYVQQG&t=142))
