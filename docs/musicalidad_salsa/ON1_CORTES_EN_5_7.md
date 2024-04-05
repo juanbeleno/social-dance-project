@@ -23,3 +23,7 @@ Referencia: [Fadi Fusion & Alicia Velasco - Salsa social dancing | 4th World Sta
 ### Letra
 
 - Que locura enamorarme de ti - Eddie Santiago (Se repite una vez después de 8 octavas) ([0:57](https://youtu.be/SqK_zXX-9k0?si=aCiUuPjRS4r2aFxJ&t=57), [1:17](https://youtu.be/SqK_zXX-9k0?si=bG1B0PIeKL6cjqkK&t=77), [2:01](https://youtu.be/SqK_zXX-9k0?si=fJcF-pjh0avb1AmW&t=121), [2:22](https://youtu.be/SqK_zXX-9k0?si=7_7nmBsiT_tYVQQG&t=142))
+
+### Otros patrones
+
+- La esencia del guaguancó - Johnny Pacheco (Octavas 4 - 3 - 3 - 4 - 2 - 4 - 3 - 3 - 4) ([0:10](https://youtu.be/G_cQrxL3v88?si=9YbjJXwFMUeV9Hrv&t=10), [0:18](https://youtu.be/G_cQrxL3v88?si=WiiESLd-2O-_whHP&t=18), [0:26](https://youtu.be/G_cQrxL3v88?si=a_NfZIRNNs2WMXof&t=26), [0:38](https://youtu.be/G_cQrxL3v88?si=AcSC3ZU4ONhkni-W&t=38), [0:43](https://youtu.be/G_cQrxL3v88?si=bRqYqsqOT02TninI&t=43), [0:54](https://youtu.be/G_cQrxL3v88?si=qpdwDulhJjRYcXWo&t=54), [1:02](https://youtu.be/G_cQrxL3v88?si=87H2HF1xR8y-Gotm&t=62), [1:11](https://youtu.be/G_cQrxL3v88?si=UF_BOk62j81aM6nT&t=71), [1:22](https://youtu.be/G_cQrxL3v88?si=IyOpZakHt7YWXw4X&t=82), [1:28](https://youtu.be/G_cQrxL3v88?si=_082VCF5id2Ri4NM&t=88))
