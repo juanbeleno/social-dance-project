@@ -27,7 +27,12 @@ Referencia: Clase en Ilé - Christian Betancourt y Karyna Ruiz
 
 - Dilema - Jhonny Ventura (Clave 3-2) ([0:08](https://youtu.be/vYNHgJ7Udcw?t=8), [0:21](https://youtu.be/vYNHgJ7Udcw?t=21), [0:26](https://youtu.be/vYNHgJ7Udcw?t=26), [1:55](https://youtu.be/vYNHgJ7Udcw?t=115), [2:17](https://youtu.be/vYNHgJ7Udcw?t=137), [3:57](https://youtu.be/vYNHgJ7Udcw?t=237), [4:00](https://youtu.be/vYNHgJ7Udcw?t=240), [4:02](https://youtu.be/vYNHgJ7Udcw?t=242), [4:04](https://youtu.be/vYNHgJ7Udcw?t=244), [4:06](https://youtu.be/vYNHgJ7Udcw?t=246), [4:09](https://youtu.be/vYNHgJ7Udcw?t=249), [4:12](https://youtu.be/vYNHgJ7Udcw?t=252), [4:14](https://youtu.be/vYNHgJ7Udcw?t=254), [5:08](https://youtu.be/vYNHgJ7Udcw?t=308))
 
-## Cada octava
+
+### Cada 4 octavas
+ A Maina - Willie Rosario ([1:49](https://youtu.be/bmUXA7aILc0?si=h-k5pKzH_AXhqpmf&t=109), [1:59](https://youtu.be/bmUXA7aILc0?si=GCXEBEGuLa-uudQX&t=119), [2:09](https://youtu.be/bmUXA7aILc0?si=v_NDJ39Y6vXqNXzz&t=129), [2:20](https://youtu.be/bmUXA7aILc0?si=ezkl0ak9AvwTxdnD&t=140), [3:02](https://youtu.be/bmUXA7aILc0?si=j2KYn16X0VbJbvb4&t=182), [3:13](https://youtu.be/bmUXA7aILc0?si=HjS5Fz-DPGruddBZ&t=193), [3:23](https://youtu.be/bmUXA7aILc0?si=6PcsBhI1-wQWB9RC&t=203), [3:34](https://youtu.be/bmUXA7aILc0?si=G-aLTfTyDrDJ66yK&t=214), [3:59](https://youtu.be/bmUXA7aILc0?si=XPkcYVH_FeIZEjOg&t=239), [4:10](https://youtu.be/bmUXA7aILc0?si=YY1UxEnrFN5YUeb8&t=250), [4:20](https://youtu.be/bmUXA7aILc0?si=zriQBWgIvKlX0ioR&t=260))
+
+
+### Cada octava
 
 - Guararé - Ray Barreto ([3:12](https://youtu.be/1G8SL5pGt80?si=doTWl-yYWDuT1y3S&t=192), [3:14](https://youtu.be/1G8SL5pGt80?si=6NwdvWlwY3EH0_Vt&t=194), [3:17](https://youtu.be/1G8SL5pGt80?si=zK-73fxaabJ7G-JZ&t=197), [3:19](https://youtu.be/1G8SL5pGt80?si=ei1_FScn7cbHIOJD&t=199), [4:17](https://youtu.be/1G8SL5pGt80?si=NZNy7RB-aPZmpzxH&t=257), [4:20](https://youtu.be/1G8SL5pGt80?si=iZHPW-3preQi0_pg&t=260), [4:23](https://youtu.be/1G8SL5pGt80?si=ectWNy3PciNUaXBS&t=263), [4:25](https://youtu.be/1G8SL5pGt80?si=td8qGgAevLPmEQxz&t=265))
 
