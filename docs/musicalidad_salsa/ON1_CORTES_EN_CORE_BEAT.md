@@ -16,7 +16,13 @@ https://github.com/juanbeleno/social-dance-project/assets/10092275/7efed88a-a730
 Referencia: Clase en Step Dance - Guasa y Evelyn
 
 
-## Aprederselo de memoria
+## Canciones para practicar
+
+### Cada octava
+
+- Achilipú - El Gran Combo de Puerto Rico ([0:23](https://youtu.be/87LR5r8WYX4?si=e3ZEPjkJXvHsUs6w&t=23), [0:27](https://youtu.be/87LR5r8WYX4?si=IGFl6QPNpXhQG6kx&t=27), [0:30](https://youtu.be/87LR5r8WYX4?si=7mNa5o23vnmRbZ0-&t=30), [1:07](https://youtu.be/87LR5r8WYX4?si=t9SmHVJSDqoO7HUH&t=67), [1:10](https://youtu.be/87LR5r8WYX4?si=OY_NYDprLOSuPRny&t=70), [1:13](https://youtu.be/87LR5r8WYX4?si=RVkAjxc_HMm7pDHT&t=73), [1:49](https://youtu.be/87LR5r8WYX4?si=LlIBPk3gQkpXrFer&t=109), [1:53](https://youtu.be/87LR5r8WYX4?si=2ORvfAANBBym6E4s&t=113), [1:55](https://youtu.be/87LR5r8WYX4?si=6Suh8SvlS4wfP1Cc&t=115))
+
+### Aprederselo de memoria
 
 - Chan Chan - Aymée Nuviola - Cada 4 octavas ([3:12](https://youtu.be/uJwotH7-9lQ?si=5sy3SRPAZSjg64Se&t=192), [3:23](https://youtu.be/uJwotH7-9lQ?si=5oKC4_zzk_wbCFNj&t=203), [3:46](https://youtu.be/uJwotH7-9lQ?si=5Jh4sYNmCLeWuJC7&t=226), [3:52](https://youtu.be/uJwotH7-9lQ?si=1MGEMNpjvHRCtqoR&t=232), [3:57](https://youtu.be/uJwotH7-9lQ?si=N-C0dbyhlyTYr8SI&t=237), [4:03](https://youtu.be/uJwotH7-9lQ?si=G5CEa_-hzAZmeqpT&t=243), [4:08](https://youtu.be/uJwotH7-9lQ?si=d2fQPpW-IxXPtlHk&t=248))
 
