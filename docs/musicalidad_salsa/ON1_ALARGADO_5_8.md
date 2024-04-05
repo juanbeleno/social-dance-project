@@ -30,3 +30,5 @@ Referencia: Clase en Ilé - Christian Betancourt y Karyna Ruiz
 ## Cada octava
 
 - Guararé - Ray Barreto ([3:12](https://youtu.be/1G8SL5pGt80?si=doTWl-yYWDuT1y3S&t=192), [3:14](https://youtu.be/1G8SL5pGt80?si=6NwdvWlwY3EH0_Vt&t=194), [3:17](https://youtu.be/1G8SL5pGt80?si=zK-73fxaabJ7G-JZ&t=197), [3:19](https://youtu.be/1G8SL5pGt80?si=ei1_FScn7cbHIOJD&t=199), [4:17](https://youtu.be/1G8SL5pGt80?si=NZNy7RB-aPZmpzxH&t=257), [4:20](https://youtu.be/1G8SL5pGt80?si=iZHPW-3preQi0_pg&t=260), [4:23](https://youtu.be/1G8SL5pGt80?si=ectWNy3PciNUaXBS&t=263), [4:25](https://youtu.be/1G8SL5pGt80?si=td8qGgAevLPmEQxz&t=265))
+
+- Gota de lluvia - Gran Combo de Puerto Rico ([2:27](https://youtu.be/b45njL9y8pU?si=ds5vY2OZr_eAM0PG&t=147), [2:29](https://youtu.be/b45njL9y8pU?si=lb9aJVbR2bP5n2kk&t=149), [2:32](https://youtu.be/b45njL9y8pU?si=t_-dQmujkAPMPBm4&t=152), [2:35](https://youtu.be/b45njL9y8pU?si=vh6O4FrY8GVdLPri&t=155), [2:38](https://youtu.be/b45njL9y8pU?si=wxtMqz06DUtBfg0F&t=158), [2:41](https://youtu.be/b45njL9y8pU?si=1UKqF6cbiJMTpjAG&t=161))
