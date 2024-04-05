@@ -23,3 +23,5 @@ Referencia: @bachateamepapa y @mariianadoreley
 ### Cada 2 octavas
 - El plato roto - Miguel Quintana (también podríamos usar los coros) ([2:10](https://youtu.be/YZ2YDy9v4Nw?si=5Gh7Jpo1nEH04HU2&t=130), [2:15](https://youtu.be/YZ2YDy9v4Nw?si=CkHjgfpauFH2_Ish&t=135), [2:20](https://youtu.be/YZ2YDy9v4Nw?si=blPrHzNFMbDYR0KK&t=140), [2:25](https://youtu.be/YZ2YDy9v4Nw?si=sgmq-ouYk9DEXpcC&t=145))
 
+- Bochinchosa - Los Hermanos Moreno ([2:36](https://youtu.be/0FJ85dWShKo?si=mtawovU28vQ3Izmv&t=156), [2:41](https://youtu.be/0FJ85dWShKo?si=ji5UGuA7Eammf06k&t=161), [2:46](https://youtu.be/0FJ85dWShKo?si=37wotEvtK0CLJVTL&t=166), [2:51](https://youtu.be/0FJ85dWShKo?si=lmp8cMhqNRIIrWgq&t=171), [2:57](https://youtu.be/0FJ85dWShKo?si=IshstSgMSR0CqBrO&t=177), [3:02](https://youtu.be/0FJ85dWShKo?si=avbdnR08XvLFZq-n&t=182))
+
