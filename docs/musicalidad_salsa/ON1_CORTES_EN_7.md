@@ -8,6 +8,11 @@ https://github.com/juanbeleno/social-dance-project/assets/10092275/1859005c-2861
 
 Referencia: Clase en Step Dance - Guasa y Evelyn
 
+## Canciones para practicar
+
+### Cada 2 octavas
+
+- La esencia del guaguancó - Johnny Pacheco ([2:29](https://youtu.be/G_cQrxL3v88?si=HmlpgTfFJT9pJJ0a&t=149), [2:34](https://youtu.be/G_cQrxL3v88?si=U9YOsi8QUUgfoT3g&t=154), [2:40](https://youtu.be/G_cQrxL3v88?si=RJfoK5E2tOuhFKFs&t=160), [2:45](https://youtu.be/G_cQrxL3v88?si=G5UkLoGZzyTBm9wU&t=165)) 
 
 ### Letra
 
