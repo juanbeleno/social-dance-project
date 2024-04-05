@@ -46,3 +46,5 @@ Referencia: Clase en Step Dance - Guasa y Evelyn
 ### Cada octava
 
 - Disculpeme señora - José Alberto "El Canario" ([2:55](https://youtu.be/BTj4-mvTc48?si=AbiTCRPLn-1wZLzp&t=175), [2:57](https://youtu.be/BTj4-mvTc48?si=WqxkpANwcqtWCxuN&t=177), [2:59](https://youtu.be/BTj4-mvTc48?si=ZBwiPUfGNO7ns8Lz&t=179), [3:01](https://youtu.be/BTj4-mvTc48?si=6wRpWSRCcWNbZVRt&t=181), [3:13](https://youtu.be/BTj4-mvTc48?si=iM7fp0AkXuMZ-iR-&t=193), [3:15](https://youtu.be/BTj4-mvTc48?si=MakahpssSCXNKAZC&t=195), [3:18](https://youtu.be/BTj4-mvTc48?si=cRTN-OULUubYcBaH&t=198), [3:20](https://youtu.be/BTj4-mvTc48?si=lSzzGiAwutbttBk3&t=200))
+
+- Guararé - Ray Barreto ([4:43](https://youtu.be/1G8SL5pGt80?si=2Nw-S7tNgIfsFcM1&t=283), [4:45](https://youtu.be/1G8SL5pGt80?si=NXCAnvsRKGGmRiGt&t=285), [4:48](https://youtu.be/1G8SL5pGt80?si=5WGKGWLe3bNXop4t&t=288), [4:50](https://youtu.be/1G8SL5pGt80?si=KUEWMb30WSWOabmT&t=290), [4:53](https://youtu.be/1G8SL5pGt80?si=rF1H1AtLCMN0EkEy&t=293), [4:56](https://youtu.be/1G8SL5pGt80?si=AIz_hwnjTHbnpUPC&t=296), [4:58](https://youtu.be/1G8SL5pGt80?si=mlNJ3ZGsTZlYxb6B&t=298), [5:01](https://youtu.be/1G8SL5pGt80?si=QhSQCIQLLcBDKTAh&t=301))
