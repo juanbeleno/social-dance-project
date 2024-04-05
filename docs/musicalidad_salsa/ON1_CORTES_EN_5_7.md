@@ -19,4 +19,7 @@ Referencia: [Fadi Fusion & Alicia Velasco - Salsa social dancing | 4th World Sta
 - Fuego en el 23 - Sonora Ponceña ([2:26](https://youtu.be/5404tYDaTfk?si=15owsZlDhAMYRZOv&t=146), [2:31](https://youtu.be/5404tYDaTfk?si=RdrudHm_IhwrMQ4Q&t=151), [2:36](https://youtu.be/5404tYDaTfk?si=XsBS8kHUO-MevpHy&t=156), [2:42](https://youtu.be/5404tYDaTfk?si=9JbEfHyLlSMUqcDI&t=162))
 
 - El plato roto - Miguel Quintana ([3:30](https://youtu.be/YZ2YDy9v4Nw?si=o_gw6puLIlTDfOTr&t=210), [3:35](https://youtu.be/YZ2YDy9v4Nw?si=RkcLkLhYXp7YzZ54&t=215), [3:40](https://youtu.be/YZ2YDy9v4Nw?si=hgJumBqh9d4PKMPZ&t=220), [3:45](https://youtu.be/YZ2YDy9v4Nw?si=Nz4CEMxlF77OEWzj&t=225))
- 
+
+### Letra
+
+- Que locura enamorarme de ti - Eddie Santiago (Se repite una vez después de 8 octavas) ([0:57](https://youtu.be/SqK_zXX-9k0?si=aCiUuPjRS4r2aFxJ&t=57), [1:17](https://youtu.be/SqK_zXX-9k0?si=bG1B0PIeKL6cjqkK&t=77), [2:01](https://youtu.be/SqK_zXX-9k0?si=fJcF-pjh0avb1AmW&t=121), [2:22](https://youtu.be/SqK_zXX-9k0?si=7_7nmBsiT_tYVQQG&t=142))
