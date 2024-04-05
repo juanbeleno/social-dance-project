@@ -26,3 +26,7 @@ Referencia: Clase en Ilé - Christian Betancourt y Karyna Ruiz
 ## Canciones recomendadas para practicar
 
 - Dilema - Jhonny Ventura (Clave 3-2) ([0:08](https://youtu.be/vYNHgJ7Udcw?t=8), [0:21](https://youtu.be/vYNHgJ7Udcw?t=21), [0:26](https://youtu.be/vYNHgJ7Udcw?t=26), [1:55](https://youtu.be/vYNHgJ7Udcw?t=115), [2:17](https://youtu.be/vYNHgJ7Udcw?t=137), [3:57](https://youtu.be/vYNHgJ7Udcw?t=237), [4:00](https://youtu.be/vYNHgJ7Udcw?t=240), [4:02](https://youtu.be/vYNHgJ7Udcw?t=242), [4:04](https://youtu.be/vYNHgJ7Udcw?t=244), [4:06](https://youtu.be/vYNHgJ7Udcw?t=246), [4:09](https://youtu.be/vYNHgJ7Udcw?t=249), [4:12](https://youtu.be/vYNHgJ7Udcw?t=252), [4:14](https://youtu.be/vYNHgJ7Udcw?t=254), [5:08](https://youtu.be/vYNHgJ7Udcw?t=308))
+
+## Cada octava
+
+- Guararé - Ray Barreto ([3:12](https://youtu.be/1G8SL5pGt80?si=doTWl-yYWDuT1y3S&t=192), [3:14](https://youtu.be/1G8SL5pGt80?si=6NwdvWlwY3EH0_Vt&t=194), [3:17](https://youtu.be/1G8SL5pGt80?si=zK-73fxaabJ7G-JZ&t=197), [3:19](https://youtu.be/1G8SL5pGt80?si=ei1_FScn7cbHIOJD&t=199), [4:17](https://youtu.be/1G8SL5pGt80?si=NZNy7RB-aPZmpzxH&t=257), [4:20](https://youtu.be/1G8SL5pGt80?si=iZHPW-3preQi0_pg&t=260), [4:23](https://youtu.be/1G8SL5pGt80?si=ectWNy3PciNUaXBS&t=263), [4:25](https://youtu.be/1G8SL5pGt80?si=td8qGgAevLPmEQxz&t=265))
