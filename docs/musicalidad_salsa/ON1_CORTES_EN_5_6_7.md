@@ -20,3 +20,6 @@ Referencia: @bachateamepapa y @mariianadoreley
 
 - Te vas a acordar de mi - Orquesta La Libertad ([2:22](https://youtu.be/n5iS3TFlQFM?t=142), [2:26](https://youtu.be/n5iS3TFlQFM?t=146), [2:31](https://youtu.be/n5iS3TFlQFM?t=151), [3:36](https://youtu.be/n5iS3TFlQFM?t=216), [3:42](https://youtu.be/n5iS3TFlQFM?t=222), [3:46](https://youtu.be/n5iS3TFlQFM?t=226))
 
+### Cada 2 octavas
+- El plato roto - Miguel Quintana (también podríamos usar los coros) ([2:10](https://youtu.be/YZ2YDy9v4Nw?si=5Gh7Jpo1nEH04HU2&t=130), [2:15](https://youtu.be/YZ2YDy9v4Nw?si=CkHjgfpauFH2_Ish&t=135), [2:20](https://youtu.be/YZ2YDy9v4Nw?si=blPrHzNFMbDYR0KK&t=140), [2:25](https://youtu.be/YZ2YDy9v4Nw?si=sgmq-ouYk9DEXpcC&t=145))
+
