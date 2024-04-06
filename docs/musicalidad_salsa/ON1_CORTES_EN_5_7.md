@@ -2,11 +2,11 @@
 
 A continuación, presento varios ejemplos de interpretaciones de cortes en tiempo 5 y 7 que tienen sensaciones diferentes en orden de impacto visual (subjetivo):
 
-- Sensación: Halar y empujar.
+- Sensación: cambios de hammerlock. Este paso sirve para cortes en 5 y 7.
 
-https://github.com/juanbeleno/social-dance-project/assets/10092275/32409c5c-c22b-4e52-8e0e-084f6132f915.mp4
+https://github.com/juanbeleno/social-dance-project/assets/10092275/d8885c02-ebf5-402d-89b9-f6f5292fc7bb.mp4
 
-Referencia: [Fadi Fusion & Alicia Velasco - Salsa social dancing | 4th World Stars Salsa Festival](https://youtu.be/UtpQjmXoJlg?t=14)
+Referencia: Clase en Step Dance - Guasa y Evelyn
 
 ## Canciones recomendadas para practicar
 
