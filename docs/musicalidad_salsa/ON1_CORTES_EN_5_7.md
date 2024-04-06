@@ -16,6 +16,13 @@ https://github.com/juanbeleno/social-dance-project/assets/10092275/21bf44f7-6c16
 Referencia: Clase en Step Dance - Guasa y Evelyn
 
 
+- Sensación: Variación de cambios de frente.
+
+https://github.com/juanbeleno/social-dance-project/assets/10092275/d8d57b71-3510-4334-b51c-150a805a0c7f.mp4
+
+Referencia: Clase en Step Dance - Guasa y Evelyn
+
+
 ## Canciones recomendadas para practicar
 
 ### Cada 4 octavas
