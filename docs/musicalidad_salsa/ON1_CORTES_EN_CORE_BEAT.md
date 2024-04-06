@@ -25,6 +25,8 @@ Referencia: Clase en Step Dance - Guasa y Evelyn
 ### Cada 8 octavas
 - Calle luna, calle sol - Willie Colón ([1:01](https://youtu.be/Phy-i5oPJJ0?si=xV6FWymJdDzL2Cc7&t=61), [1:03](https://youtu.be/Phy-i5oPJJ0?si=HVx7cr909SjjW8dX&t=63), [1:28](https://youtu.be/Phy-i5oPJJ0?si=kvrgzBdXK5u42H_-&t=88), [1:30](https://youtu.be/Phy-i5oPJJ0?si=OsLIpFXr0Rc7gemM&t=90), [1:55](https://youtu.be/Phy-i5oPJJ0?si=Bp2L5RutPE3vLfbr&t=115), [1:58](https://youtu.be/Phy-i5oPJJ0?si=rSVd9H-4t7Uqvu0V&t=118))
 
+- Dilema - Johnny Ventura ([2:04](https://youtu.be/vYNHgJ7Udcw?si=59vNDTJli-sxXMjJ&t=124), [2:26](https://youtu.be/vYNHgJ7Udcw?si=t4OoIqe14_sIfElE&t=146))
+
 ### Aprederselo de memoria
 
 - Chan Chan - Aymée Nuviola - Cada 4 octavas ([3:12](https://youtu.be/uJwotH7-9lQ?si=5sy3SRPAZSjg64Se&t=192), [3:23](https://youtu.be/uJwotH7-9lQ?si=5oKC4_zzk_wbCFNj&t=203), [3:46](https://youtu.be/uJwotH7-9lQ?si=5Jh4sYNmCLeWuJC7&t=226), [3:52](https://youtu.be/uJwotH7-9lQ?si=1MGEMNpjvHRCtqoR&t=232), [3:57](https://youtu.be/uJwotH7-9lQ?si=N-C0dbyhlyTYr8SI&t=237), [4:03](https://youtu.be/uJwotH7-9lQ?si=G5CEa_-hzAZmeqpT&t=243), [4:08](https://youtu.be/uJwotH7-9lQ?si=d2fQPpW-IxXPtlHk&t=248))
