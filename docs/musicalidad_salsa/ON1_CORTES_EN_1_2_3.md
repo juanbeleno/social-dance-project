@@ -4,6 +4,12 @@ No todos los ejemplos que voy a presentar son en los tiempos exacto 1, 2 y 3, pe
 
 A continuación, presento varios ejemplos de interpretaciones de cortes en tiempo 1, 2 y 3 que tienen sensaciones diferentes en orden de impacto visual (subjetivo):
 
+- Sensación: juego de manos.
+
+https://github.com/juanbeleno/social-dance-project/assets/10092275/e91aff42-43aa-4de5-a6ab-0efa7a2c7ed3.mp4
+
+Referencia: Medellín On Fire 2023 - Rodrigo Cortazar y Asia
+
 
 ## Canciones recomendadas para practicar
 
