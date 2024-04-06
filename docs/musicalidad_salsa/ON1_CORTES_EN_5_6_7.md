@@ -10,6 +10,14 @@ https://github.com/juanbeleno/social-dance-project/assets/10092275/f61ab54d-471a
 
 Referencia: @bachateamepapa y @mariianadoreley
 
+- Sensación: juego de manos.
+
+https://github.com/juanbeleno/social-dance-project/assets/10092275/bb7161fd-3432-4777-8f86-6657d57d3519.mp4
+
+Referencia: clase en Step Dance - Guasa y Evelyn
+
+
+
 ## Canciones recomendadas para practicar
 
 - Guaripumpe (Live) - Poncho Sanchez ([0:20](https://youtu.be/bcWoBb82P-I?t=20), [0:42](https://youtu.be/bcWoBb82P-I?t=42), [1:01](https://youtu.be/bcWoBb82P-I?t=61), [1:21](https://youtu.be/bcWoBb82P-I?t=81), [3:11*](https://youtu.be/bcWoBb82P-I?t=191), [3:14*](https://youtu.be/bcWoBb82P-I?t=194), [3:16*](https://youtu.be/bcWoBb82P-I?t=196), [3:19*](https://youtu.be/bcWoBb82P-I?t=199), [3:31*](https://youtu.be/bcWoBb82P-I?t=211), [3:33*](https://youtu.be/bcWoBb82P-I?t=213), [3:35*](https://youtu.be/bcWoBb82P-I?t=215), [3:37*](https://youtu.be/bcWoBb82P-I?t=217), [3:49*](https://youtu.be/bcWoBb82P-I?t=229), [3:51*](https://youtu.be/bcWoBb82P-I?t=231), [3:54*](https://youtu.be/bcWoBb82P-I?t=234), [3:56*](https://youtu.be/bcWoBb82P-I?t=236), [4:07*](https://youtu.be/bcWoBb82P-I?t=247), [4:10*](https://youtu.be/bcWoBb82P-I?t=250), [4:12*](https://youtu.be/bcWoBb82P-I?t=252), [4:14*](https://youtu.be/bcWoBb82P-I?t=254))
