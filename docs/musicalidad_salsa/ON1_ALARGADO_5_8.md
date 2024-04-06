@@ -18,9 +18,14 @@ Referencia: Clase en Ilé - Andrés Leiton y Daniela Peña
 
 - Sensación: 360 por delante con ronde de jambé del hombre de adorno.
 
-https://github.com/juanbeleno/social-dance-project/assets/10092275/3ad00f7e-5a74-46ee-8375-0bfd815ca024.mp4
-
 Referencia: Clase en Ilé - Christian Betancourt y Karyna Ruiz
+
+
+- Sensación: giro de los 2.
+
+https://github.com/juanbeleno/social-dance-project/assets/10092275/d836b41e-87fd-49ff-b054-691318ad8e14.mp4
+
+Referencia: Clase en Step Dance - Brandón Macias y Stephanie Franco
 
 
 ## Canciones recomendadas para practicar
