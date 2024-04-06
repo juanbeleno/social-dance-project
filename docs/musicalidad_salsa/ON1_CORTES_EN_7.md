@@ -8,6 +8,12 @@ https://github.com/juanbeleno/social-dance-project/assets/10092275/1859005c-2861
 
 Referencia: Clase en Step Dance - Guasa y Evelyn
 
+- Sensación: flick.
+
+https://github.com/juanbeleno/social-dance-project/assets/10092275/0af0a8da-e429-4488-b436-33f1eaaf4881.mp4
+
+Referencia: Clase en Step Dance - Guasa y Evelyn
+
 ## Canciones para practicar
 
 ### Cada 2 octavas
