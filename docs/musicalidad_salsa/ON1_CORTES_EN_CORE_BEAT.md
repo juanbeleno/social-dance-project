@@ -22,6 +22,10 @@ Referencia: Clase en Step Dance - Guasa y Evelyn
 
 - Achilipú - El Gran Combo de Puerto Rico ([0:23](https://youtu.be/87LR5r8WYX4?si=e3ZEPjkJXvHsUs6w&t=23), [0:27](https://youtu.be/87LR5r8WYX4?si=IGFl6QPNpXhQG6kx&t=27), [0:30](https://youtu.be/87LR5r8WYX4?si=7mNa5o23vnmRbZ0-&t=30), [1:07](https://youtu.be/87LR5r8WYX4?si=t9SmHVJSDqoO7HUH&t=67), [1:10](https://youtu.be/87LR5r8WYX4?si=OY_NYDprLOSuPRny&t=70), [1:13](https://youtu.be/87LR5r8WYX4?si=RVkAjxc_HMm7pDHT&t=73), [1:49](https://youtu.be/87LR5r8WYX4?si=LlIBPk3gQkpXrFer&t=109), [1:53](https://youtu.be/87LR5r8WYX4?si=2ORvfAANBBym6E4s&t=113), [1:55](https://youtu.be/87LR5r8WYX4?si=6Suh8SvlS4wfP1Cc&t=115))
 
+### Cada 4 octavas
+
+- Mi negra mariana - Pete "Conde" Rodríguez ([1:09](https://youtu.be/RKf2AYtLvc8?si=yWRVn-qbit2-E2Zo&t=69), [1:21](https://youtu.be/RKf2AYtLvc8?si=m0wS6xRe1Lqi6CWb&t=81), [2:42](https://youtu.be/RKf2AYtLvc8?si=6xx67lwkCiucc0Vr&t=162))
+
 ### Cada 8 octavas
 - Calle luna, calle sol - Willie Colón ([1:01](https://youtu.be/Phy-i5oPJJ0?si=xV6FWymJdDzL2Cc7&t=61), [1:03](https://youtu.be/Phy-i5oPJJ0?si=HVx7cr909SjjW8dX&t=63), [1:28](https://youtu.be/Phy-i5oPJJ0?si=kvrgzBdXK5u42H_-&t=88), [1:30](https://youtu.be/Phy-i5oPJJ0?si=OsLIpFXr0Rc7gemM&t=90), [1:55](https://youtu.be/Phy-i5oPJJ0?si=Bp2L5RutPE3vLfbr&t=115), [1:58](https://youtu.be/Phy-i5oPJJ0?si=rSVd9H-4t7Uqvu0V&t=118))
 
