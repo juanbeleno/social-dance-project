@@ -8,6 +8,14 @@ https://github.com/juanbeleno/social-dance-project/assets/10092275/d8885c02-ebf5
 
 Referencia: Clase en Step Dance - Guasa y Evelyn
 
+
+- Sensación: cambio de frente y giro del hombre
+
+https://github.com/juanbeleno/social-dance-project/assets/10092275/21bf44f7-6c16-4a85-a793-481a39ccdb17.mp4
+
+Referencia: Clase en Step Dance - Guasa y Evelyn
+
+
 ## Canciones recomendadas para practicar
 
 ### Cada 4 octavas
