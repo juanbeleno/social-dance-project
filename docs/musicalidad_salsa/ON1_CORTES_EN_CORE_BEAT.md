@@ -11,7 +11,7 @@ Referencia: Clase en Ilé - Andrés Leiton
 
 - Sensación: cambios de hammerlock. Este paso sirve para cortes en 5 y 7.
 
-https://github.com/juanbeleno/social-dance-project/assets/10092275/7efed88a-a730-47dc-89be-09d3c5182f98.mp4
+https://github.com/juanbeleno/social-dance-project/assets/10092275/d8885c02-ebf5-402d-89b9-f6f5292fc7bb.mp4
 
 Referencia: Clase en Step Dance - Guasa y Evelyn
 
