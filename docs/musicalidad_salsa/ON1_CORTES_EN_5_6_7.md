@@ -19,7 +19,7 @@ Referencia: clase en Step Dance - Guasa y Evelyn
 
 - Sensación: vuelta clasica.
 
-https://github.com/juanbeleno/social-dance-project/assets/10092275/bb7161fd-3432-4777-8f86-6657d57d3519.mp4
+https://github.com/juanbeleno/social-dance-project/assets/10092275/28bd5830-6457-4dbe-88a5-b9ad3e4c9b16.mp4
 
 Referencia: Medellín On Fire 2023 - Rodrigo Cortazar y Asia
 
