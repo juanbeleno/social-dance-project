@@ -29,6 +29,13 @@ https://github.com/juanbeleno/social-dance-project/assets/10092275/f16632ff-38ca
 Referencia: Clase en Step Dance - Guasa y Evelyn
 
 
+- Sensación: peinada del chico.
+
+https://github.com/juanbeleno/social-dance-project/assets/10092275/3c41659e-a8ef-4dc3-b4e5-5bdce4951eb2.mp4
+
+Referencia: Clase en Step Dance - Guasa y Evelyn
+
+
 - Sensación: giro en 2 tiempos tomando impulso lateral en 5.
 
 
