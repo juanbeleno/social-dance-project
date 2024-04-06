@@ -12,7 +12,9 @@ Referencia: Clase en Step Dance - Guasa y Evelyn
 
 ### Cada 2 octavas
 
-- La esencia del guaguancó - Johnny Pacheco ([2:29](https://youtu.be/G_cQrxL3v88?si=HmlpgTfFJT9pJJ0a&t=149), [2:34](https://youtu.be/G_cQrxL3v88?si=U9YOsi8QUUgfoT3g&t=154), [2:40](https://youtu.be/G_cQrxL3v88?si=RJfoK5E2tOuhFKFs&t=160), [2:45](https://youtu.be/G_cQrxL3v88?si=G5UkLoGZzyTBm9wU&t=165)) 
+- La esencia del guaguancó - Johnny Pacheco ([2:29](https://youtu.be/G_cQrxL3v88?si=HmlpgTfFJT9pJJ0a&t=149), [2:34](https://youtu.be/G_cQrxL3v88?si=U9YOsi8QUUgfoT3g&t=154), [2:40](https://youtu.be/G_cQrxL3v88?si=RJfoK5E2tOuhFKFs&t=160), [2:45](https://youtu.be/G_cQrxL3v88?si=G5UkLoGZzyTBm9wU&t=165))
+
+- Amarilla se pone - Orquesta La Fuerza Mayor ([0:11](https://youtu.be/tEFbdoS7SGg?si=VIhEPJN5Uz7gQ2U-&t=11), [0:16](https://youtu.be/tEFbdoS7SGg?si=d10BE23rjaoFVKBQ&t=16), [0:22](https://youtu.be/tEFbdoS7SGg?si=kaqGn6YBcynPTywy&t=22), [0:27](https://youtu.be/tEFbdoS7SGg?si=Jo_elqz6O6os4asO&t=27), [0:33](https://youtu.be/tEFbdoS7SGg?si=lpDaUZNG_fSVCyOE&t=33), [1:41](https://youtu.be/tEFbdoS7SGg?si=kjLAQT0oMLqt2GNA&t=101), [2:04](https://youtu.be/tEFbdoS7SGg?si=rZYHHY5HQoxTnjbh&t=124), [2:10](https://youtu.be/tEFbdoS7SGg?si=KnAE8_4BhRmAPy7B&t=130), [4:04](https://youtu.be/tEFbdoS7SGg?si=TkkOnk3ionvQG3Qj&t=244))
 
 ### Letra
 
