@@ -44,6 +44,13 @@ https://github.com/juanbeleno/social-dance-project/assets/10092275/9b7b154d-b386
 Referencia: Clase en Step Dance - Guasa y Evelyn
 
 
+- Sensación: hammerlock.
+
+https://github.com/juanbeleno/social-dance-project/assets/10092275/a7653d97-a504-46e9-8e73-f3bfb91729ba.mp4
+
+Referencia: Clase en Step Dance - Guasa y Evelyn
+
+
 ## Canciones recomendadas para practicar
 
 - Víctor Manuelle - He Tratado (Cover Audio Video) ([1:10](https://youtu.be/7wpVJvRIKYQ?t=70), [1:22](https://youtu.be/7wpVJvRIKYQ?t=82), [2:07](https://youtu.be/7wpVJvRIKYQ?t=127), [2:18](https://youtu.be/7wpVJvRIKYQ?t=138))
