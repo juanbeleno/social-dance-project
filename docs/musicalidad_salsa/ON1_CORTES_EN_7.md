@@ -14,6 +14,16 @@ https://github.com/juanbeleno/social-dance-project/assets/10092275/0af0a8da-e429
 
 Referencia: Clase en Step Dance - Guasa y Evelyn
 
+
+- Sensación: giro.
+
+https://github.com/juanbeleno/social-dance-project/assets/10092275/60621e84-e900-4bb0-9b5b-c5a3b6f4a523.mp4
+
+Referencia: Clase en Step Dance - Guasa y Evelyn
+
+- Sensación: giro en 2 tiempos tomando impulso lateral en 5.
+
+
 ## Canciones para practicar
 
 ### Cada 2 octavas
