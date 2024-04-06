@@ -37,6 +37,13 @@ https://github.com/juanbeleno/social-dance-project/assets/10092275/21bf44f7-6c16
 Referencia: Clase en Step Dance - Guasa y Evelyn
 
 
+- Sensación: variación cambio de frente.
+
+https://github.com/juanbeleno/social-dance-project/assets/10092275/9b7b154d-b386-4667-8932-0911583e2c9b.mp4
+
+Referencia: Clase en Step Dance - Guasa y Evelyn
+
+
 ## Canciones recomendadas para practicar
 
 - Víctor Manuelle - He Tratado (Cover Audio Video) ([1:10](https://youtu.be/7wpVJvRIKYQ?t=70), [1:22](https://youtu.be/7wpVJvRIKYQ?t=82), [2:07](https://youtu.be/7wpVJvRIKYQ?t=127), [2:18](https://youtu.be/7wpVJvRIKYQ?t=138))
