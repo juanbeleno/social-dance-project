@@ -41,6 +41,8 @@ https://github.com/juanbeleno/social-dance-project/assets/10092275/b1d93976-71cc
 
 - La agarro bajando - Gilberto Santa Rosa (tiene cortes adicionales en 3 y 5 en una octava diferente) ([0:10](https://youtu.be/xWDsNex_VKA?si=t5bpa19q12fIdJIq&t=10), [0:22](https://youtu.be/xWDsNex_VKA?si=zBlqDt9r9xceV04c&t=22), [1:22](https://youtu.be/xWDsNex_VKA?si=YWGF-bMvkDTHYZeV&t=82))
 
+- Que te pasa a ti - Ismael Rivera y sus Cachimbos ([0:30](https://youtu.be/DQP6EB2o-pA?si=2yuH_yiQ9-U-zF-X&t=30), [0:41](https://youtu.be/DQP6EB2o-pA?si=8q2xmk6WB-SQudwC&t=41), [1:21](https://youtu.be/DQP6EB2o-pA?si=g_Hy6c9sy_UQmQZp&t=81), [1:31](https://youtu.be/DQP6EB2o-pA?si=G7YRLmCO3XlMBJlN&t=91), [1:41](https://youtu.be/DQP6EB2o-pA?si=0MYFPMeyW1uqSGN4&t=101))
+
 
 ## Repetición cada 8 octavas
 
