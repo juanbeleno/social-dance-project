@@ -32,6 +32,12 @@ Referencia: Clase en Step Dance - Guasa y Evelyn
 
 ## Canciones recomendadas para practicar
 
+
+### Cada 12 octavas
+
+- A El - La Crítica ([0:42](https://youtu.be/9wA5ONU9SGk?si=PDrDhJz_xkABh9_k&t=42), [1:14](https://youtu.be/9wA5ONU9SGk?si=viG7Nf97xmgErwSG&t=74), [1:46](https://youtu.be/9wA5ONU9SGk?si=9j8FEatwsUs02w3S&t=106))
+
+
 ### Cada 4 octavas
 
 - Anacaona - Cheo Feliciano (primer corte a la octava 6) ([0:13](https://youtu.be/pRhKY1jVJwE?si=dm4YHGcvP3YA2JIC&t=13), [0:25](https://youtu.be/pRhKY1jVJwE?si=l8lN3cABl11TjbTR&t=25), [0:36](https://youtu.be/pRhKY1jVJwE?si=9dI7rYjnQKR3ldzs&t=36), [1:01](https://youtu.be/pRhKY1jVJwE?si=2T07HuN11pb3z6jz&t=61), [1:11](https://youtu.be/pRhKY1jVJwE?si=z3vVMKfZCwiLFiwy&t=71), [1:21](https://youtu.be/pRhKY1jVJwE?si=5eE3VnQypNER2XNB&t=81), [2:36](https://youtu.be/pRhKY1jVJwE?si=R5QFgj1uCe4KEJ7O&t=156), [4:06](https://youtu.be/pRhKY1jVJwE?si=gLWpFvjZFXnfusTq&t=246))
