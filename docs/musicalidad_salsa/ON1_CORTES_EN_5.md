@@ -60,8 +60,6 @@ Referencia: Clase en Step Dance - Guasa y Evelyn
 
 ## Canciones recomendadas para practicar
 
-- Víctor Manuelle - He Tratado (Cover Audio Video) ([1:10](https://youtu.be/7wpVJvRIKYQ?t=70), [1:22](https://youtu.be/7wpVJvRIKYQ?t=82), [2:07](https://youtu.be/7wpVJvRIKYQ?t=127), [2:18](https://youtu.be/7wpVJvRIKYQ?t=138))
-
 - Tu Con El - Frankie Ruíz ([0:24](https://youtu.be/KIC4fVmzUwI?t=24), [1:53](https://youtu.be/KIC4fVmzUwI?t=113), [1:58](https://youtu.be/KIC4fVmzUwI?t=118), [2:13](https://youtu.be/KIC4fVmzUwI?t=133), [3:15](https://youtu.be/KIC4fVmzUwI?t=195), [3:20](https://youtu.be/KIC4fVmzUwI?t=200), [4:30](https://youtu.be/KIC4fVmzUwI?t=270))
 
 - Amor De Una Noche (Remix Version) - N'Klabe ft Julio Voltio ([0:47](https://youtu.be/CJrhKAxv1x8?t=47), [1:37](https://youtu.be/CJrhKAxv1x8?t=96), [3:51](https://youtu.be/CJrhKAxv1x8?t=231))
@@ -71,6 +69,8 @@ Referencia: Clase en Step Dance - Guasa y Evelyn
 - Consolación - Roberto Roena ([0:22](https://youtu.be/ODm6zUMKdEk?si=xBjRWn7DGL7B2efN&t=22), [1:21](https://youtu.be/ODm6zUMKdEk?si=KBLR2lVQjlliD7Mf&t=81), [2:07](https://youtu.be/ODm6zUMKdEk?si=7n7pi6jvg5a6yC_w&t=127), [2:50](https://youtu.be/ODm6zUMKdEk?si=d1uVpfXUz1BLcRtJ&t=170))
 
 ### Cada 4 octavas
+
+- Víctor Manuelle - He Tratado (Cover Audio Video) ([1:10](https://youtu.be/7wpVJvRIKYQ?t=70), [1:22](https://youtu.be/7wpVJvRIKYQ?t=82), [2:07](https://youtu.be/7wpVJvRIKYQ?t=127), [2:18](https://youtu.be/7wpVJvRIKYQ?t=138))
 
 - PLIS - Camilo y Evaluna ([1:16](https://youtu.be/VjfGWTeSWF0?si=_goPMPh88H4_cVS0&t=76), [1:28](https://youtu.be/VjfGWTeSWF0?si=8znI9Zyk1ufhyVzw&t=88), [2:33](https://youtu.be/VjfGWTeSWF0?si=pvL_x31YNAiaebst&t=153), [2:44](https://youtu.be/VjfGWTeSWF0?si=8f6_a2bxKYon8P_M&t=164), [3:18](https://youtu.be/VjfGWTeSWF0?si=l-DDJUlAqxKTl33p&t=198), [3:40](https://youtu.be/VjfGWTeSWF0?si=QwtpH5mukwxPaGVn&t=220))
 
