@@ -33,8 +33,6 @@ Referencia: Medellín On Fire 2023 - Rodrigo Cortazar y Asia
 
 - Idilio - Willie Colón ([2:35*](https://youtu.be/az5AXsWVnCc?t=155), [2:38*](https://youtu.be/az5AXsWVnCc?t=158), [2:41*](https://youtu.be/az5AXsWVnCc?t=161), [2:43*](https://youtu.be/az5AXsWVnCc?t=163), [3:23](https://youtu.be/az5AXsWVnCc?t=203), [3:29](https://youtu.be/az5AXsWVnCc?t=209), [3:34](https://youtu.be/az5AXsWVnCc?t=214), [3:39](https://youtu.be/az5AXsWVnCc?t=219), [3:44**](https://youtu.be/az5AXsWVnCc?t=224), [4:46](https://youtu.be/az5AXsWVnCc?t=286), [4:51](https://youtu.be/az5AXsWVnCc?t=291), [4:56](https://youtu.be/az5AXsWVnCc?t=296), [5:01](https://youtu.be/az5AXsWVnCc?t=301), [5:06*](https://youtu.be/az5AXsWVnCc?t=306))
 
-- Te vas a acordar de mi - Orquesta La Libertad ([2:22](https://youtu.be/n5iS3TFlQFM?t=142), [2:26](https://youtu.be/n5iS3TFlQFM?t=146), [2:31](https://youtu.be/n5iS3TFlQFM?t=151), [3:36](https://youtu.be/n5iS3TFlQFM?t=216), [3:42](https://youtu.be/n5iS3TFlQFM?t=222), [3:46](https://youtu.be/n5iS3TFlQFM?t=226))
-
 ### Cada 4 octavas
 
 - Te lo canto yo - Eduardo Moreno & Okocán ([1:24](https://youtu.be/bH7oeSvLuOc?si=BGj2pPamdVWr241b&t=84), [1:35](https://youtu.be/bH7oeSvLuOc?si=h2DqTAbrFI6an4CD&t=95), [1:45](https://youtu.be/bH7oeSvLuOc?si=twdAkxFcLFkLTGXE&t=105), [1:55](https://youtu.be/bH7oeSvLuOc?si=5b5udWnWhTmXm06I&t=115), [2:05](https://youtu.be/bH7oeSvLuOc?si=kz65dIdNyMKGEd7p&t=125), [2:15](https://youtu.be/bH7oeSvLuOc?si=zZGWppJZ-OV-gouu&t=135), [2:25](https://youtu.be/bH7oeSvLuOc?si=sgnDJK7VNU3mffzn&t=145), [2:35](https://youtu.be/bH7oeSvLuOc?si=uMftT6CH9LXQukvb&t=155), [2:46](https://youtu.be/bH7oeSvLuOc?si=IjED8rltZzFATi0a&t=166), [2:51](https://youtu.be/bH7oeSvLuOc?si=3plWUXDT5OkWZKoC&t=171), ...)
@@ -43,6 +41,8 @@ Referencia: Medellín On Fire 2023 - Rodrigo Cortazar y Asia
 - El plato roto - Miguel Quintana (también podríamos usar los coros) ([2:10](https://youtu.be/YZ2YDy9v4Nw?si=5Gh7Jpo1nEH04HU2&t=130), [2:15](https://youtu.be/YZ2YDy9v4Nw?si=CkHjgfpauFH2_Ish&t=135), [2:20](https://youtu.be/YZ2YDy9v4Nw?si=blPrHzNFMbDYR0KK&t=140), [2:25](https://youtu.be/YZ2YDy9v4Nw?si=sgmq-ouYk9DEXpcC&t=145))
 
 - Bochinchosa - Los Hermanos Moreno ([2:36](https://youtu.be/0FJ85dWShKo?si=mtawovU28vQ3Izmv&t=156), [2:41](https://youtu.be/0FJ85dWShKo?si=ji5UGuA7Eammf06k&t=161), [2:46](https://youtu.be/0FJ85dWShKo?si=37wotEvtK0CLJVTL&t=166), [2:51](https://youtu.be/0FJ85dWShKo?si=lmp8cMhqNRIIrWgq&t=171), [2:57](https://youtu.be/0FJ85dWShKo?si=IshstSgMSR0CqBrO&t=177), [3:02](https://youtu.be/0FJ85dWShKo?si=avbdnR08XvLFZq-n&t=182))
+
+- Te vas a acordar de mi - Orquesta La Libertad ([2:22](https://youtu.be/n5iS3TFlQFM?t=142), [2:26](https://youtu.be/n5iS3TFlQFM?t=146), [2:31](https://youtu.be/n5iS3TFlQFM?t=151), [3:36](https://youtu.be/n5iS3TFlQFM?t=216), [3:42](https://youtu.be/n5iS3TFlQFM?t=222), [3:46](https://youtu.be/n5iS3TFlQFM?t=226))
 
 ### Cada octava
 
