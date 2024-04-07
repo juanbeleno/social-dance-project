@@ -44,3 +44,7 @@ Referencia: Medellín On Fire 2023 - Rodrigo Cortazar y Asia
 
 - Bochinchosa - Los Hermanos Moreno ([2:36](https://youtu.be/0FJ85dWShKo?si=mtawovU28vQ3Izmv&t=156), [2:41](https://youtu.be/0FJ85dWShKo?si=ji5UGuA7Eammf06k&t=161), [2:46](https://youtu.be/0FJ85dWShKo?si=37wotEvtK0CLJVTL&t=166), [2:51](https://youtu.be/0FJ85dWShKo?si=lmp8cMhqNRIIrWgq&t=171), [2:57](https://youtu.be/0FJ85dWShKo?si=IshstSgMSR0CqBrO&t=177), [3:02](https://youtu.be/0FJ85dWShKo?si=avbdnR08XvLFZq-n&t=182))
 
+### Cada octava
+
+- Aguacero - El Gran Combo de Puerto Rico ([2:36](https://youtu.be/PDZkbHNDbwo?si=L0gkz5Sd5YyQlBzE&t=156), [2:38](https://youtu.be/PDZkbHNDbwo?si=eah6o_ceAdJ6JSg5&t=158), [2:41](https://youtu.be/PDZkbHNDbwo?si=zFJxLeWQJ8i0jhEb&t=161), [2:44](https://youtu.be/PDZkbHNDbwo?si=UE4Tc_6Xo0IfMYWd&t=164), [2:47](https://youtu.be/PDZkbHNDbwo?si=2p_26OI9ZSOgXG0r&t=167), [2:50](https://youtu.be/PDZkbHNDbwo?si=QeZCku31TdGYYKzU&t=170), [2:52](https://youtu.be/PDZkbHNDbwo?si=Rvubz54CyYWLKftg&t=172), ...)
+
