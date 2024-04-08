@@ -38,6 +38,8 @@ Referencia: Clase en Step Dance - Guasa y Evelyn
 
 - Sensación: giro en 2 tiempos tomando impulso lateral en 5.
 
+## Nota: Podemos usar los pasos de [cortes en 5 de on2](./ON2_CORTES_EN_5.md)
+
 
 ## Canciones para practicar
 
