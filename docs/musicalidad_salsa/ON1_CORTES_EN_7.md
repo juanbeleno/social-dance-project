@@ -38,7 +38,12 @@ Referencia: Clase en Step Dance - Guasa y Evelyn
 
 - Sensación: giro en 2 tiempos tomando impulso lateral en 5.
 
-## Nota: Podemos usar los pasos de [cortes en 5 de on2](./ON2_CORTES_EN_5.md)
+
+- Sensación: Giro desde pretzel.
+  
+https://github.com/juanbeleno/social-dance-project/assets/10092275/58da9c25-6e68-48fa-b637-9f012a38ebcc.mp4
+
+Referencia: [Samuel Funflow & Bejarano - Salsa social dance @ Palmera Playa Vigo [Amor a medio tiempo]](https://youtu.be/rCUl8SBqDv0?t=42)
 
 
 ## Canciones para practicar
