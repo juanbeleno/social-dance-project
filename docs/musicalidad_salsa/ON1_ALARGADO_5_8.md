@@ -38,6 +38,13 @@ https://github.com/juanbeleno/social-dance-project/assets/10092275/6f4b9084-d02c
 Referencia: Clase en Step Dance - Guasa y Evelyn
 
 
+- Sensación: giro de los 2 de afuera hacia adentro
+
+https://github.com/juanbeleno/social-dance-project/assets/10092275/4c9fcc3e-4943-4f5a-837d-f20f3867cb6c.mp4
+
+Referencia: Clase en Step Dance - Guasa y Daniela Rosero
+
+
 ## Canciones recomendadas para practicar
 
 ### Cada 4 octavas
