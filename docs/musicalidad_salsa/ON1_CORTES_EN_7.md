@@ -36,6 +36,13 @@ https://github.com/juanbeleno/social-dance-project/assets/10092275/3c41659e-a8ef
 Referencia: Clase en Step Dance - Guasa y Evelyn
 
 
+- Sensación: giro y medio del chico con frenada en seco.
+
+https://github.com/juanbeleno/social-dance-project/assets/10092275/b99dd394-53dd-4ff7-bfb2-1c950ee5d1f3.mp4
+
+Referencia: Clase en Step Dance - Guasa y Evelyn
+
+
 - Sensación: giro en 2 tiempos tomando impulso lateral en 5.
 
 
