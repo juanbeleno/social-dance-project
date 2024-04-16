@@ -23,11 +23,11 @@ https://github.com/juanbeleno/social-dance-project/assets/10092275/d8d57b71-3510
 Referencia: Clase en Step Dance - Guasa y Evelyn
 
 
-- Sensación: Variación de cambios de frente.
+- Sensación: giro y contragiro.
 
-https://github.com/juanbeleno/social-dance-project/assets/10092275/180c03bf-30a2-4e46-a4a8-b5087196f377.mp4
+https://github.com/juanbeleno/social-dance-project/assets/10092275/44761d5d-cb25-48e1-9956-331662a37d80.mp4
 
-Referencia: Clase en Step Dance - Guasa y Evelyn
+Referencia: [Samuel Funflow & Daniel Maiorano - Salsa Social Dance - LGTBailamos](https://youtu.be/O9rB5NPlhjU?t=7)
 
 
 ## Canciones recomendadas para practicar
