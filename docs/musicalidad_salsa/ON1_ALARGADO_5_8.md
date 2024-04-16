@@ -2,12 +2,6 @@
 
 A continuación, presento varios ejemplos de interpretaciones de sonidos alargados que comienzan en tiempo 5 que tienen sensaciones diferentes en orden de impacto visual (subjetivo):
 
-- Sensación: zapato arrastrado en vertical.
-
-https://github.com/juanbeleno/social-dance-project/assets/10092275/de3f0173-e746-48a9-a6fe-36113b476393.mp4
-
-Referencia: Clase en Ilé - Andrés Leiton y Daniela Peña
-
 
 - Sensación: giro hacia atrás con ronde de jambé.
 
