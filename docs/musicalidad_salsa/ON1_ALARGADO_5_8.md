@@ -17,7 +17,7 @@ https://github.com/juanbeleno/social-dance-project/assets/10092275/037a651b-2dc1
 Referencia: Clase en Step Dance - Guasa y Evelyn
 
 
-- Sensación: giro de los 2.
+- Sensación: giro de los 2. Puede ser con impulso en 1, 2 y 3 o haciendo normal hasta el 3 y acelerando el 5 (hacer 4) para lanzar el giro desde los brazos.
 
 https://github.com/juanbeleno/social-dance-project/assets/10092275/d836b41e-87fd-49ff-b054-691318ad8e14.mp4
 
