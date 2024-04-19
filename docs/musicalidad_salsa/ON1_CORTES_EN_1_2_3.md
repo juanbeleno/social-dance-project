@@ -10,6 +10,12 @@ https://github.com/juanbeleno/social-dance-project/assets/10092275/e91aff42-43aa
 
 Referencia: Medellín On Fire 2023 - Rodrigo Cortazar y Asia
 
+- Sensación: mandarla y devolverla en el lugar
+
+https://github.com/juanbeleno/social-dance-project/assets/10092275/24ac689b-45e7-42dd-a520-885995435382.mp4
+
+Referencia: Clases en Ilé Danza - Andrés Leiton y Daniela Peña
+
 
 ## Canciones recomendadas para practicar
 
