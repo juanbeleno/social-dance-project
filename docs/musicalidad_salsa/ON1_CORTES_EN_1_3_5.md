@@ -1,6 +1,6 @@
-# Cortes en Core Beat (1 - 3 - 5 - 7) (ON1)
+# Cortes en 1, 3 y 5 (ON1)
 
-A continuación, presento varios ejemplos de interpretaciones de cortes en core beat que tienen sensaciones diferentes en orden de impacto visual (subjetivo):
+A continuación, presento varios ejemplos de interpretaciones de cortes en core beat (1, 3 y 5) que tienen sensaciones diferentes en orden de impacto visual (subjetivo):
 
 - Sensación: flicks y cambios de posición. Este paso sirve para cortes en 5 y para cortes en 5 y 7.
 
@@ -28,6 +28,13 @@ Referencia: Clase en Step Dance - Guasa y Evelyn
 https://github.com/juanbeleno/social-dance-project/assets/10092275/d8d57b71-3510-4334-b51c-150a805a0c7f.mp4
 
 Referencia: Clase en Step Dance - Guasa y Evelyn
+
+
+- Sensación: Variación de cambios de frente.
+
+https://github.com/juanbeleno/social-dance-project/assets/10092275/2eea71af-7e70-4fc1-897f-2171cb04c966.mp4
+
+Referencia: [Rodrigue Cabaz & Irina Mikhalkina - Social Dancing | From Back 2 Mambo Prague 20-24 October 2022](https://youtu.be/EwDtcsb-KAc?si=Qf_gPrCOuIK7PycS&t=11)
 
 
 ## Canciones para practicar
