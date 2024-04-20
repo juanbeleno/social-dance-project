@@ -9,13 +9,6 @@ https://github.com/juanbeleno/social-dance-project/assets/10092275/7efed88a-a730
 Referencia: Clase en Ilé - Andrés Leiton
 
 
-- Sensación: cambios de hammerlock. Este paso sirve para cortes en 5 y 7.
-
-https://github.com/juanbeleno/social-dance-project/assets/10092275/d8885c02-ebf5-402d-89b9-f6f5292fc7bb.mp4
-
-Referencia: Clase en Step Dance - Guasa y Evelyn
-
-
 - Sensación: Cambios de frente.
 
 https://github.com/juanbeleno/social-dance-project/assets/10092275/ffa9766e-3dca-469c-a425-47f97955d5ac.mp4
@@ -54,7 +47,7 @@ Referencia: [Rodrigue Cabaz & Irina Mikhalkina - Social Dancing | From Back 2 Ma
 
 ### Aprederselo de memoria
 
-- Chan Chan - Aymée Nuviola - Cada 4 octavas ([3:12](https://youtu.be/uJwotH7-9lQ?si=5sy3SRPAZSjg64Se&t=192), [3:23](https://youtu.be/uJwotH7-9lQ?si=5oKC4_zzk_wbCFNj&t=203), [3:46](https://youtu.be/uJwotH7-9lQ?si=5Jh4sYNmCLeWuJC7&t=226), [3:52](https://youtu.be/uJwotH7-9lQ?si=1MGEMNpjvHRCtqoR&t=232), [3:57](https://youtu.be/uJwotH7-9lQ?si=N-C0dbyhlyTYr8SI&t=237), [4:03](https://youtu.be/uJwotH7-9lQ?si=G5CEa_-hzAZmeqpT&t=243), [4:08](https://youtu.be/uJwotH7-9lQ?si=d2fQPpW-IxXPtlHk&t=248))
+- Chan Chan - Aymée Nuviola - (4 - 8 - 2 - 2 - 2 - 2) ([3:12](https://youtu.be/uJwotH7-9lQ?si=5sy3SRPAZSjg64Se&t=192), [3:23](https://youtu.be/uJwotH7-9lQ?si=5oKC4_zzk_wbCFNj&t=203), [3:46](https://youtu.be/uJwotH7-9lQ?si=5Jh4sYNmCLeWuJC7&t=226), [3:52](https://youtu.be/uJwotH7-9lQ?si=1MGEMNpjvHRCtqoR&t=232), [3:57](https://youtu.be/uJwotH7-9lQ?si=N-C0dbyhlyTYr8SI&t=237), [4:03](https://youtu.be/uJwotH7-9lQ?si=G5CEa_-hzAZmeqpT&t=243), [4:08](https://youtu.be/uJwotH7-9lQ?si=d2fQPpW-IxXPtlHk&t=248))
 
 ### Letra
 
