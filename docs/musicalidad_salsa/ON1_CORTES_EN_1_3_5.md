@@ -9,6 +9,20 @@ https://github.com/juanbeleno/social-dance-project/assets/10092275/7efed88a-a730
 Referencia: Clase en Ilé - Andrés Leiton
 
 
+- Sensación: flick.
+
+https://github.com/juanbeleno/social-dance-project/assets/10092275/19838924-e923-46b4-9711-51cc09a1c511.mp4
+
+Referencia: Clase en Step Dance - Guasa y Evelyn
+
+
+- Sensación: variación cambio de frente.
+
+https://github.com/juanbeleno/social-dance-project/assets/10092275/3c925de1-27f2-4024-8c22-69f4281501fe.mp4
+
+Referencia: Clase en Step Dance - Guasa y Evelyn
+
+
 - Sensación: Cambios de frente.
 
 https://github.com/juanbeleno/social-dance-project/assets/10092275/ffa9766e-3dca-469c-a425-47f97955d5ac.mp4
@@ -41,7 +55,7 @@ Referencia: [Rodrigue Cabaz & Irina Mikhalkina - Social Dancing | From Back 2 Ma
 - Mi negra mariana - Pete "Conde" Rodríguez ([1:09](https://youtu.be/RKf2AYtLvc8?si=yWRVn-qbit2-E2Zo&t=69), [1:21](https://youtu.be/RKf2AYtLvc8?si=m0wS6xRe1Lqi6CWb&t=81), [2:42](https://youtu.be/RKf2AYtLvc8?si=6xx67lwkCiucc0Vr&t=162))
 
 ### Cada 8 octavas
-- Calle luna, calle sol - Willie Colón ([1:01](https://youtu.be/Phy-i5oPJJ0?si=xV6FWymJdDzL2Cc7&t=61), [1:03](https://youtu.be/Phy-i5oPJJ0?si=HVx7cr909SjjW8dX&t=63), [1:28](https://youtu.be/Phy-i5oPJJ0?si=kvrgzBdXK5u42H_-&t=88), [1:30](https://youtu.be/Phy-i5oPJJ0?si=OsLIpFXr0Rc7gemM&t=90), [1:55](https://youtu.be/Phy-i5oPJJ0?si=Bp2L5RutPE3vLfbr&t=115), [1:58](https://youtu.be/Phy-i5oPJJ0?si=rSVd9H-4t7Uqvu0V&t=118))
+- Calle luna, calle sol - Willie Colón (Tiene 2 patrones seguidos) ([1:01](https://youtu.be/Phy-i5oPJJ0?si=xV6FWymJdDzL2Cc7&t=61), [1:03](https://youtu.be/Phy-i5oPJJ0?si=HVx7cr909SjjW8dX&t=63), [1:28](https://youtu.be/Phy-i5oPJJ0?si=kvrgzBdXK5u42H_-&t=88), [1:30](https://youtu.be/Phy-i5oPJJ0?si=OsLIpFXr0Rc7gemM&t=90), [1:55](https://youtu.be/Phy-i5oPJJ0?si=Bp2L5RutPE3vLfbr&t=115), [1:58](https://youtu.be/Phy-i5oPJJ0?si=rSVd9H-4t7Uqvu0V&t=118))
 
 - Dilema - Johnny Ventura ([2:04](https://youtu.be/vYNHgJ7Udcw?si=59vNDTJli-sxXMjJ&t=124), [2:26](https://youtu.be/vYNHgJ7Udcw?si=t4OoIqe14_sIfElE&t=146))
 
@@ -51,4 +65,6 @@ Referencia: [Rodrigue Cabaz & Irina Mikhalkina - Social Dancing | From Back 2 Ma
 
 ### Letra
 
-- Contra la corriente - Marc Anthony - Repite por segunda vez a las 8 octavas ([0:57](https://youtu.be/421JK0r1KKk?si=jKsa3O83kOL2dhAl&t=57), [1:19](https://youtu.be/421JK0r1KKk?si=TXIaU9dfe2nI8ig8&t=79), [2:30](https://youtu.be/421JK0r1KKk?si=QMbuSOaqEqnor36g&t=150), [2:52](https://youtu.be/421JK0r1KKk?si=kxMRSS5M2UuHRS5l&t=172))
+- Contra la corriente - Marc Anthony - Repite por segunda vez a las 8 octavas ([0:57*](https://youtu.be/421JK0r1KKk?si=jKsa3O83kOL2dhAl&t=57), [1:19](https://youtu.be/421JK0r1KKk?si=TXIaU9dfe2nI8ig8&t=79), [2:30*](https://youtu.be/421JK0r1KKk?si=QMbuSOaqEqnor36g&t=150), [2:52](https://youtu.be/421JK0r1KKk?si=kxMRSS5M2UuHRS5l&t=172))
+
+Nota: Al parecer podriamos necesitar pasos para patrones 5, 7 y 1. Dèjame soñar - Tony Vega y Tito Puente
