@@ -2,6 +2,14 @@
 
 A continuación, presento varios ejemplos de interpretaciones de cortes en core beat (1, 3 y 5) que tienen sensaciones diferentes en orden de impacto visual (subjetivo):
 
+
+- Sensación: Patada desde posición de pretzel. Desde posición de pretzel podemos desenrrollar también.
+
+https://github.com/juanbeleno/social-dance-project/assets/10092275/95858675-4952-41e8-ae7e-24f5eb1e4015.mp4
+
+Referencia: Clase en Ilé Danza - Andrés Leiton y Daniela Peña
+
+
 - Sensación: flicks y cambios de posición. Este paso sirve para cortes en 5 y para cortes en 5 y 7.
 
 https://github.com/juanbeleno/social-dance-project/assets/10092275/7efed88a-a730-47dc-89be-09d3c5182f98.mp4
