@@ -37,8 +37,6 @@ https://github.com/juanbeleno/social-dance-project/assets/10092275/b1d93976-71cc
 
 ## Repetición cada 4 octavas
 
-- Hay gente pa' to - Yuniel Jimenez ([0:12*](https://youtu.be/k6pUUC52X0E?t=12), [0:20](https://youtu.be/k6pUUC52X0E?t=20), [0:34*](https://youtu.be/k6pUUC52X0E?t=34), [0:41](https://youtu.be/k6pUUC52X0E?t=41), [0:52*](https://youtu.be/k6pUUC52X0E?t=52), [1:35*](https://youtu.be/k6pUUC52X0E?t=95), [1:43](https://youtu.be/k6pUUC52X0E?t=103), [1:57*](https://youtu.be/k6pUUC52X0E?t=117), [2:04](https://youtu.be/k6pUUC52X0E?t=124), [2:14*](https://youtu.be/k6pUUC52X0E?t=134), [4:28*](https://youtu.be/k6pUUC52X0E?t=268))
-
 - La agarro bajando - Gilberto Santa Rosa (tiene cortes adicionales en 3 y 5 en una octava diferente) ([0:10](https://youtu.be/xWDsNex_VKA?si=t5bpa19q12fIdJIq&t=10), [0:22](https://youtu.be/xWDsNex_VKA?si=zBlqDt9r9xceV04c&t=22), [1:22](https://youtu.be/xWDsNex_VKA?si=YWGF-bMvkDTHYZeV&t=82))
 
 - Que te pasa a ti - Ismael Rivera y sus Cachimbos ([0:30](https://youtu.be/DQP6EB2o-pA?si=2yuH_yiQ9-U-zF-X&t=30), [0:41](https://youtu.be/DQP6EB2o-pA?si=8q2xmk6WB-SQudwC&t=41), [1:21](https://youtu.be/DQP6EB2o-pA?si=g_Hy6c9sy_UQmQZp&t=81), [1:31](https://youtu.be/DQP6EB2o-pA?si=G7YRLmCO3XlMBJlN&t=91), [1:41](https://youtu.be/DQP6EB2o-pA?si=0MYFPMeyW1uqSGN4&t=101))
@@ -65,3 +63,5 @@ https://github.com/juanbeleno/social-dance-project/assets/10092275/b1d93976-71cc
 ### Patrones un poco más complejos
 
 - No quiere nada - Yembeke Cada 4, luego 8 octavas ([0:25](https://youtu.be/NyCt88P4b_c?si=pRAhJLJlICwWKwHA&t=25), [0:36](https://youtu.be/NyCt88P4b_c?si=_7CPxbCand5GXjPt&t=36), [1:00](https://youtu.be/NyCt88P4b_c?si=hTiI7Eu3YxkFDRvu&t=60), [1:11](https://youtu.be/NyCt88P4b_c?si=wglYEUIOMKrNT0_E&t=71), [1:34](https://youtu.be/NyCt88P4b_c?si=OSFh1qsyusVCRsze&t=94), [1:58](https://youtu.be/NyCt88P4b_c?si=RZuzdWCsijCRsCLQ&t=118), [3:25](https://youtu.be/NyCt88P4b_c?si=Bj71hiFo3oMteYxa&t=205), [4:15](https://youtu.be/NyCt88P4b_c?si=zR12W1dleKUwryPh&t=255))
+
+- Hay gente pa' to - Yuniel Jimenez (6 - 4 - 8 - 4 - 4) ([0:12*](https://youtu.be/k6pUUC52X0E?t=12), [0:20](https://youtu.be/k6pUUC52X0E?t=20), [0:34*](https://youtu.be/k6pUUC52X0E?t=34), [0:41](https://youtu.be/k6pUUC52X0E?t=41), [0:52*](https://youtu.be/k6pUUC52X0E?t=52), [1:35*](https://youtu.be/k6pUUC52X0E?t=95), [1:43](https://youtu.be/k6pUUC52X0E?t=103), [1:57*](https://youtu.be/k6pUUC52X0E?t=117), [2:04](https://youtu.be/k6pUUC52X0E?t=124), [2:14*](https://youtu.be/k6pUUC52X0E?t=134), [4:28*](https://youtu.be/k6pUUC52X0E?t=268))
