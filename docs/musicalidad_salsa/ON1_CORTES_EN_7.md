@@ -74,3 +74,5 @@ Referencia: [Samuel Funflow & Bejarano - Salsa social dance @ Palmera Playa Vigo
 ### Otros patrones
 
 - Ritmo en el Corazón - Celia Cruz y Ray Barreto ([1:27](https://youtu.be/Bstf--ymw20?si=CAdH5m6dxOHzG0tH&t=87), [2:21](https://youtu.be/Bstf--ymw20?si=fu08XO53bUFRXhA4&t=141), [2:53](https://youtu.be/Bstf--ymw20?si=YB1Gq6DF4Serqk8S&t=173))
+
+- Què te pasa a ti - Ismael Rive y sus Cachimbos (1 - 1- 2 - 1- 1) ([0:53](https://youtu.be/DQP6EB2o-pA?si=1DGNaq6k72ZUFA2b&t=53), [0:55](https://youtu.be/DQP6EB2o-pA?si=o4hKApNbgEFDPudF&t=55), [1:03](https://youtu.be/DQP6EB2o-pA?si=0WriUsCM-FTOgG2o&t=63), [1:05](https://youtu.be/DQP6EB2o-pA?si=agCvTAwmeYwj3jYi&t=65))
