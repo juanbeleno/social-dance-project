@@ -62,6 +62,8 @@ Referencia: [Rodrigue Cabaz & Irina Mikhalkina - Social Dancing | From Back 2 Ma
 
 - Mi negra mariana - Pete "Conde" Rodríguez ([1:09](https://youtu.be/RKf2AYtLvc8?si=yWRVn-qbit2-E2Zo&t=69), [1:21](https://youtu.be/RKf2AYtLvc8?si=m0wS6xRe1Lqi6CWb&t=81), [2:42](https://youtu.be/RKf2AYtLvc8?si=6xx67lwkCiucc0Vr&t=162))
 
+- Aguacero - El Gran Combo de Puerto Rico (Tiene 2 patrones seguidos) ([2:19](https://youtu.be/PDZkbHNDbwo?si=HWw_IKGnHmLYB8gz&t=139), [2:21](https://youtu.be/PDZkbHNDbwo?si=oZ1ViYx00Pojq9KG&t=141), [2:29](https://youtu.be/PDZkbHNDbwo?si=Iqxac9iCKB-fF1KW&t=149), [2:32](https://youtu.be/PDZkbHNDbwo?si=hbO72WhWKb-P7N8F&t=152))
+
 ### Cada 8 octavas
 - Calle luna, calle sol - Willie Colón (Tiene 2 patrones seguidos) ([1:01](https://youtu.be/Phy-i5oPJJ0?si=xV6FWymJdDzL2Cc7&t=61), [1:03](https://youtu.be/Phy-i5oPJJ0?si=HVx7cr909SjjW8dX&t=63), [1:28](https://youtu.be/Phy-i5oPJJ0?si=kvrgzBdXK5u42H_-&t=88), [1:30](https://youtu.be/Phy-i5oPJJ0?si=OsLIpFXr0Rc7gemM&t=90), [1:55](https://youtu.be/Phy-i5oPJJ0?si=Bp2L5RutPE3vLfbr&t=115), [1:58](https://youtu.be/Phy-i5oPJJ0?si=rSVd9H-4t7Uqvu0V&t=118))
 
