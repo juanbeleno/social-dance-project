@@ -15,8 +15,12 @@ Referencia: Clase en Step Dance - Guasa y Evelyn
 
 ## Canciones recomendadas para practicar
 
+### Cada 2 octavas
+
+- Aguacero - El Gran Combo de Puerto Rico ([2:36](https://youtu.be/PDZkbHNDbwo?si=L0gkz5Sd5YyQlBzE&t=156), [2:38](https://youtu.be/PDZkbHNDbwo?si=eah6o_ceAdJ6JSg5&t=158), [2:41](https://youtu.be/PDZkbHNDbwo?si=zFJxLeWQJ8i0jhEb&t=161), [2:44](https://youtu.be/PDZkbHNDbwo?si=UE4Tc_6Xo0IfMYWd&t=164), [2:47](https://youtu.be/PDZkbHNDbwo?si=2p_26OI9ZSOgXG0r&t=167), [2:50](https://youtu.be/PDZkbHNDbwo?si=QeZCku31TdGYYKzU&t=170), [2:52](https://youtu.be/PDZkbHNDbwo?si=Rvubz54CyYWLKftg&t=172), ...)
+
+- Yambeke - La Sonora Ponceña ([1:23](https://youtu.be/8rRS6Quzq0E?si=oDUtjGPetw4mFOwj&t=83), [1:29](https://youtu.be/8rRS6Quzq0E?si=Qf8dSmRJKj_Y6vy6&t=89), [1:34](https://youtu.be/8rRS6Quzq0E?si=gVl05zuthl3BjI9Q&t=94), [1:39](https://youtu.be/8rRS6Quzq0E?si=CCVMV8Kxl4YNepeV&t=99), [1:45](https://youtu.be/8rRS6Quzq0E?si=pRBE_r594XkSKO-_&t=105), [1:51](https://youtu.be/8rRS6Quzq0E?si=NBEiBJOZBXRK2jvh&t=111),...)
+
 ### Cada octava
 
 -  Qué te pasa a ti - Ismael Rivera y sus Cachimbos ([0:00](https://youtu.be/DQP6EB2o-pA?si=egGehHyJrHVUqF_c), [0:02](https://youtu.be/DQP6EB2o-pA?si=KIyETjVgdWMoZroG&t=2), [0:05](https://youtu.be/DQP6EB2o-pA?si=qvADr1x4zsx67FB-&t=5), [0:10](https://youtu.be/DQP6EB2o-pA?si=UdnxZb-QY8uolzII&t=10), [0:13](https://youtu.be/DQP6EB2o-pA?si=BiQSR3_frYWipk0p&t=13), [0:15](https://youtu.be/DQP6EB2o-pA?si=I041LLqPyDiYItK_&t=15), [0:18](https://youtu.be/DQP6EB2o-pA?si=UifQe9QqPSdC_bNB&t=18), ...)
-  
-- Aguacero - El Gran Combo de Puerto Rico ([2:36](https://youtu.be/PDZkbHNDbwo?si=L0gkz5Sd5YyQlBzE&t=156), [2:38](https://youtu.be/PDZkbHNDbwo?si=eah6o_ceAdJ6JSg5&t=158), [2:41](https://youtu.be/PDZkbHNDbwo?si=zFJxLeWQJ8i0jhEb&t=161), [2:44](https://youtu.be/PDZkbHNDbwo?si=UE4Tc_6Xo0IfMYWd&t=164), [2:47](https://youtu.be/PDZkbHNDbwo?si=2p_26OI9ZSOgXG0r&t=167), [2:50](https://youtu.be/PDZkbHNDbwo?si=QeZCku31TdGYYKzU&t=170), [2:52](https://youtu.be/PDZkbHNDbwo?si=Rvubz54CyYWLKftg&t=172), ...)
