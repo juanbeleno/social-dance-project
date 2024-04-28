@@ -26,3 +26,7 @@ Referencia: Clases en Ilé Danza - Andrés Leiton y Daniela Peña
 ### Cada 2 octavas
 
 - Fuego En El 23 - Sonora Ponceña (se repite 2 octavas seguidas) ([1:50](https://youtu.be/5404tYDaTfk?si=ed4Puoh1OSBut5JN&t=110), [1:53](https://youtu.be/5404tYDaTfk?si=-XwrFL5uwpR7RI6v&t=113), [2:02](https://youtu.be/5404tYDaTfk?si=xnzz7Bgz07KiEmxd&t=122), [2:04](https://youtu.be/5404tYDaTfk?si=twHpeZgDNmZINW3d&t=125), ...)
+
+### Patrón complejo
+
+- La cura - Frankie Ruiz (Un corte en 7 adicional 8 - 10 - 8) ([0:39](https://youtu.be/CO0g4WUObCE?si=vmZ0K3AjCifVZB1_&t=39), [1:05](https://youtu.be/CO0g4WUObCE?si=W2CoZeeCB_OY_VqX&t=65), [1:28](https://youtu.be/CO0g4WUObCE?si=cmDXP3DhYhxx_i7P&t=88))
