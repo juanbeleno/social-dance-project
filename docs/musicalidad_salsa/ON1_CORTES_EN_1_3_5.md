@@ -61,7 +61,7 @@ Referencia: [Rodrigue Cabaz & Irina Mikhalkina - Social Dancing | From Back 2 Ma
 
 ### Cada 2 octavas
 
-- La cura - Frankie Ruiz ([4:43](https://youtu.be/CO0g4WUObCE?si=iEjSj1Ufs3TafZDy&t=283), [4:49](https://youtu.be/CO0g4WUObCE?si=itDz9y2U8iu59EuI&t=289))
+- La cura - Frankie Ruiz ([0:06](https://youtu.be/CO0g4WUObCE?si=CHHXpmlbiyNs_WHE&t=6), [0:11](https://youtu.be/CO0g4WUObCE?si=OUTHsj-Gxt0nz_5_&t=11), [4:43](https://youtu.be/CO0g4WUObCE?si=iEjSj1Ufs3TafZDy&t=283), [4:49](https://youtu.be/CO0g4WUObCE?si=itDz9y2U8iu59EuI&t=289))
 
 
 ### Cada 4 octavas
