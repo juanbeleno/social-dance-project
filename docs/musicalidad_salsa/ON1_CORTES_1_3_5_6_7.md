@@ -21,6 +21,8 @@ Referencia: Clase en Step Dance - Guasa y Evelyn
 
 - Yambeke - La Sonora Ponceña ([1:23](https://youtu.be/8rRS6Quzq0E?si=oDUtjGPetw4mFOwj&t=83), [1:29](https://youtu.be/8rRS6Quzq0E?si=Qf8dSmRJKj_Y6vy6&t=89), [1:34](https://youtu.be/8rRS6Quzq0E?si=gVl05zuthl3BjI9Q&t=94), [1:39](https://youtu.be/8rRS6Quzq0E?si=CCVMV8Kxl4YNepeV&t=99), [1:45](https://youtu.be/8rRS6Quzq0E?si=pRBE_r594XkSKO-_&t=105), [1:51](https://youtu.be/8rRS6Quzq0E?si=NBEiBJOZBXRK2jvh&t=111),...)
 
+- La cura - Frankie Ruiz ([3:07](https://youtu.be/CO0g4WUObCE?si=iDoMZmMC9RTpTw1B&t=187), [3:12](https://youtu.be/CO0g4WUObCE?si=wZ6V2qhlfMCAj5pv&t=192), [3:18](https://youtu.be/CO0g4WUObCE?si=5rtGfV7U6RsGY5xX&t=198), [3:23](https://youtu.be/CO0g4WUObCE?si=xXGx-3ugE03llrmU&t=203), [3:28](https://youtu.be/CO0g4WUObCE?si=PqQeQ_5eOaMUqogR&t=208), [3:33](https://youtu.be/CO0g4WUObCE?si=2nFHKdrn1aDHjXEF&t=213))
+
 ### Cada octava
 
 -  Qué te pasa a ti - Ismael Rivera y sus Cachimbos ([0:00](https://youtu.be/DQP6EB2o-pA?si=egGehHyJrHVUqF_c), [0:02](https://youtu.be/DQP6EB2o-pA?si=KIyETjVgdWMoZroG&t=2), [0:05](https://youtu.be/DQP6EB2o-pA?si=qvADr1x4zsx67FB-&t=5), [0:10](https://youtu.be/DQP6EB2o-pA?si=UdnxZb-QY8uolzII&t=10), [0:13](https://youtu.be/DQP6EB2o-pA?si=BiQSR3_frYWipk0p&t=13), [0:15](https://youtu.be/DQP6EB2o-pA?si=I041LLqPyDiYItK_&t=15), [0:18](https://youtu.be/DQP6EB2o-pA?si=UifQe9QqPSdC_bNB&t=18), ...)
