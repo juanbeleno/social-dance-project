@@ -34,6 +34,10 @@ https://github.com/juanbeleno/social-dance-project/assets/10092275/b1d93976-71cc
 
 - De mí enamorate - Tito Nieves ([0:45](https://youtu.be/7WHf2OjagQ4?t=45), [2:08](https://youtu.be/7WHf2OjagQ4?t=128))
 
+## Repetición cada 2 octavas
+
+- Esa mujer - Tony Vega ([4:06](https://youtu.be/j7mZM4kOk94?si=NMQr7jVd0TjWVXbd&t=246), [4:11](https://youtu.be/j7mZM4kOk94?si=hecSVo3vsGoIto1N&t=251), [4:17](https://youtu.be/j7mZM4kOk94?si=P_8XR6doFWl_yPZi&t=257), [4:23](https://youtu.be/j7mZM4kOk94?si=g6R7rDTIFwZZ_pHe&t=263))
+
 
 ## Repetición cada 4 octavas
 
