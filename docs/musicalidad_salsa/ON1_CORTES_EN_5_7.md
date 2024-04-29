@@ -37,7 +37,6 @@ Referencia: [Samuel Funflow & Daniel Maiorano - Salsa Social Dance - LGTBailamos
 
 - A El - La Crítica ([0:42](https://youtu.be/9wA5ONU9SGk?si=PDrDhJz_xkABh9_k&t=42), [1:14](https://youtu.be/9wA5ONU9SGk?si=viG7Nf97xmgErwSG&t=74), [1:46](https://youtu.be/9wA5ONU9SGk?si=9j8FEatwsUs02w3S&t=106))
 
-
 ### Cada 4 octavas
 
 - Anacaona - Cheo Feliciano (primer corte a la octava 6 -  Cortes en 5 y 6) ([0:13](https://youtu.be/pRhKY1jVJwE?si=dm4YHGcvP3YA2JIC&t=13), [0:25](https://youtu.be/pRhKY1jVJwE?si=l8lN3cABl11TjbTR&t=25), [0:36](https://youtu.be/pRhKY1jVJwE?si=9dI7rYjnQKR3ldzs&t=36), [1:01](https://youtu.be/pRhKY1jVJwE?si=2T07HuN11pb3z6jz&t=61), [1:11](https://youtu.be/pRhKY1jVJwE?si=z3vVMKfZCwiLFiwy&t=71), [1:21](https://youtu.be/pRhKY1jVJwE?si=5eE3VnQypNER2XNB&t=81), [2:36](https://youtu.be/pRhKY1jVJwE?si=R5QFgj1uCe4KEJ7O&t=156), [4:06](https://youtu.be/pRhKY1jVJwE?si=gLWpFvjZFXnfusTq&t=246))
@@ -55,3 +54,5 @@ Referencia: [Samuel Funflow & Daniel Maiorano - Salsa Social Dance - LGTBailamos
 ### Otros patrones
 
 - La esencia del guaguancó - Johnny Pacheco (Octavas 4 - 3 - 3 - 4 - 2 - 4 - 3 - 3 - 4) ([0:10](https://youtu.be/G_cQrxL3v88?si=9YbjJXwFMUeV9Hrv&t=10), [0:18](https://youtu.be/G_cQrxL3v88?si=WiiESLd-2O-_whHP&t=18), [0:26](https://youtu.be/G_cQrxL3v88?si=a_NfZIRNNs2WMXof&t=26), [0:38](https://youtu.be/G_cQrxL3v88?si=AcSC3ZU4ONhkni-W&t=38), [0:43](https://youtu.be/G_cQrxL3v88?si=bRqYqsqOT02TninI&t=43), [0:54](https://youtu.be/G_cQrxL3v88?si=qpdwDulhJjRYcXWo&t=54), [1:02](https://youtu.be/G_cQrxL3v88?si=87H2HF1xR8y-Gotm&t=62), [1:11](https://youtu.be/G_cQrxL3v88?si=UF_BOk62j81aM6nT&t=71), [1:22](https://youtu.be/G_cQrxL3v88?si=IyOpZakHt7YWXw4X&t=82), [1:28](https://youtu.be/G_cQrxL3v88?si=_082VCF5id2Ri4NM&t=88))
+
+- Pirulero - El Gran Combo de Puerto Rico (6 - 4 - 8 - 6 - 4) ([0:18](https://youtu.be/lU4AEQEjjfs?si=W7me_qC90YaZylbB&t=18), [0:32](https://youtu.be/lU4AEQEjjfs?si=mkdXuiSCDEi3hGrQ&t=32), [0:41](https://youtu.be/lU4AEQEjjfs?si=GNPAQerqiTYhu2jl&t=41), [1:00](https://youtu.be/lU4AEQEjjfs?si=eVP2N5guVQOTdBfl&t=60), [1:14](https://youtu.be/lU4AEQEjjfs?si=Rut5nZ2SfxPandwM&t=74), [1:23](https://youtu.be/lU4AEQEjjfs?si=4Tcr3LGF9XnALM2L&t=83), [2:52](https://youtu.be/lU4AEQEjjfs?si=Mk_0NBqZ-J_Qp_JR&t=172))
