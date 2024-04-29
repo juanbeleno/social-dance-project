@@ -1,6 +1,6 @@
 # Cortes en tiempo 1 (ON1)
 
-A continuación, presento varios ejemplos de interpretaciones de cortes en tiempo 1 que tienen sensaciones diferentes en orden de impacto visual (subjetivo):
+A continuación, presento varios ejemplos de interpretaciones de cortes en tiempo 1 que tienen sensaciones diferentes en orden de preferencia de Isa (Del que menos le gusta al que más le gusta):
 
 
 - Sensación: Dar tres giros a la chica en 5 7 y 1. Finalizando con parada en seco.
