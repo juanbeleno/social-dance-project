@@ -1,6 +1,33 @@
 # Cortes en tiempo 7 (ON1)
 
-A continuación, presento varios ejemplos de interpretaciones de cortes en tiempo 7 que tienen sensaciones diferentes en orden de impacto visual (subjetivo):
+A continuación, presento varios ejemplos de interpretaciones de cortes en tiempo 7 que tienen sensaciones diferentes en orden de preferencia de Isa (Del que más le gusta al que menos le gusta):
+
+- Sensación: Copa con giro y medio del lead con freno en seco.
+
+https://github.com/juanbeleno/social-dance-project/assets/10092275/2feafe44-453f-4f8a-b1ba-c0163cf713ee.mp4
+
+
+- Sensación: Ilusión con flick.
+
+https://github.com/juanbeleno/social-dance-project/assets/10092275/7660c804-6bc2-4bdf-878e-e0a022405516.mp4
+
+
+- Sensación: Giro con frenada.
+
+https://github.com/juanbeleno/social-dance-project/assets/10092275/adac0d10-9593-4f33-bc3d-f34d39244e45.mp4
+
+
+- Sensación: Flick.
+
+https://github.com/juanbeleno/social-dance-project/assets/10092275/6f0f6c67-fe22-49e9-a3d0-23f6ad1ea674.mp4
+
+
+- Sensación: Corona al lead.
+
+https://github.com/juanbeleno/social-dance-project/assets/10092275/6512f8ba-fcd1-4ade-8245-194c2092be7d.mp4
+
+
+## Otros candidatos
 
 - Sensación: flick.
 
