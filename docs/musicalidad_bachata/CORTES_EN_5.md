@@ -162,6 +162,22 @@ https://github.com/juanbeleno/social-dance-project/assets/10092275/66a47ec4-53d9
 Referencia: [Otra Vez - Prince Royce | Daniel y Tom Bachata Groove](https://youtu.be/qTBFuW67A10?si=bcctG9uY5-q1kqy7&t=119)
 
 
+- Sensación: Modificación de un paso para tener más tiempo para identificar el corte.
+
+https://github.com/juanbeleno/social-dance-project/assets/10092275/ecee158f-b057-41c2-8f81-9109ceda125a.mp4
+
+
+- Sensación: Modificación de un paso para tener más tiempo para identificar el corte.
+
+https://github.com/juanbeleno/social-dance-project/assets/10092275/3123ff7a-37fb-4e94-a5fb-fa83c4ded5b4.mp4
+
+
+- Sensación: Modificación de un paso para tener más tiempo para identificar el corte.
+
+https://github.com/juanbeleno/social-dance-project/assets/10092275/ad5355df-ef40-41cd-b7a8-8ca29c6e8f0e.mp4
+
+
+
 ## Canciones recomendadas para practicar por cortes en 5
 
 - R.I.P - Romeo Santos ([0:58](https://youtu.be/Uzt3PBzObl4?t=58), [1:13](https://youtu.be/Uzt3PBzObl4?t=73), [1:28](https://youtu.be/Uzt3PBzObl4?t=88), [1:43](https://youtu.be/Uzt3PBzObl4?t=103), [2:11](https://youtu.be/Uzt3PBzObl4?t=131), [2:42](https://youtu.be/Uzt3PBzObl4?t=162), [3:12](https://youtu.be/Uzt3PBzObl4?t=192))
