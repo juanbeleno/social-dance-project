@@ -1,6 +1,18 @@
 # Cortes en tiempo 5 y 7 (ON1)
 
-A continuación, presento varios ejemplos de interpretaciones de cortes en tiempo 5 y 7 que tienen sensaciones diferentes en orden de impacto visual (subjetivo):
+A continuación, presento varios ejemplos de interpretaciones de cortes en tiempo 5 y 7 que tienen sensaciones diferentes en orden de preferencia de Isa (Del que más le gusta al que menos le gusta):
+
+- Sensación: cambios de frente desde posición cómoda.
+
+https://github.com/juanbeleno/social-dance-project/assets/10092275/2f2e6727-d567-4feb-803d-2d55ca4f9681.mp4
+
+
+- Sensación: cambios de frente desde posición cómoda.
+
+https://github.com/juanbeleno/social-dance-project/assets/10092275/670d8c80-8fd9-4c31-8dd2-af6d3ee33ec9.mp4
+
+
+## Otros candidatos
 
 - Sensación: cambios de hammerlock. Este paso sirve para cortes en 5 y 7.
 
