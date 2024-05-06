@@ -1,7 +1,19 @@
 # Sonidos extendidos que comienzan en tiempo 5 (ON1)
 
-A continuación, presento varios ejemplos de interpretaciones de sonidos alargados que comienzan en tiempo 5 que tienen sensaciones diferentes en orden de impacto visual (subjetivo):
+A continuación, presento varios ejemplos de interpretaciones de sonidos extendidos que comienzan en tiempo 5 en orden de preferencia de Isa (Del que más le gusta al que menos le gusta):
 
+
+- Sensación: Ronde de jambe en un 360.
+
+https://github.com/juanbeleno/social-dance-project/assets/10092275/4d23efcc-f314-4ca5-a880-65838930cc79.mp4
+
+
+- Sensación: Giro de los 2 con manos arriba.
+
+https://github.com/juanbeleno/social-dance-project/assets/10092275/4877ee90-7279-4edd-b109-7679f3ace5b2.mp4
+
+
+## Otros candidatos
 
 - Sensación: giro hacia atrás con ronde de jambé.
 
