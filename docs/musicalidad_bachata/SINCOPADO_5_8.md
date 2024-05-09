@@ -13,7 +13,7 @@ Referencia: [OFIR & OFRI | BACHATA DANCE | Romeo Santos - Propuesta Indecente](h
 
 - Sensación: Variación de caminada rápida.
 
-https://github.com/juanbeleno/social-dance-project/assets/10092275/7d171549-124d-481d-a5cd-bcedeb827500.mp4
+https://github.com/juanbeleno/social-dance-project/assets/10092275/2115394a-4c14-455a-a78a-d3e31e22a9de.mp4
 
 Referencia: [Dario y Sara [EL PAPEL PART 2] @ Viva La Bachata Europe 2024 🧸🌴](https://youtu.be/XstSE0qbMUE?si=gXcVmbGgXUniPXwa&t=19)
 
