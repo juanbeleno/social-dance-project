@@ -2,7 +2,29 @@
 
 No todos los ejemplos que voy a presentar son en los tiempos exacto 5, 6 y 7, pero comienzan en 5 y terminan antes del siguiente 1 por lo que decidí agruparlos todos en un mismo paquete. Lo que debemos hacer es adaptar los pasos a la música.
 
-A continuación, presento varios ejemplos de interpretaciones de cortes en tiempo 5, 6 y 7 que tienen sensaciones diferentes en orden de impacto visual (subjetivo):
+A continuación, presento varios ejemplos de interpretaciones de cortes en tiempo 5, 6 y 7 que tienen sensaciones diferentes en orden de preferencia de Isa (del que más le gusta al que menos le gusta):
+
+- Sensación: Vuelta clásica.
+
+https://github.com/juanbeleno/social-dance-project/assets/10092275/79ae121c-5179-45aa-ac74-62d40215d279.mp4
+
+
+- Sensación: Zarandeada a la chica desde copa.
+
+https://github.com/juanbeleno/social-dance-project/assets/10092275/9269ab05-21dc-4ec7-8748-17cbf42314ff.mp4
+
+
+- Sensación: Variación de vuelta clásica.
+
+https://github.com/juanbeleno/social-dance-project/assets/10092275/6dfe96a3-5d8b-4e9c-b25f-305483ede2ef.mp4
+
+
+- Sensación: ochos de salsa caleña.
+
+https://github.com/juanbeleno/social-dance-project/assets/10092275/d9008e8f-d965-4792-9fcd-aff28f0706a5.mp4
+
+
+## Otros candidatos
 
 - Sensación: 3 giros.
 
