@@ -1,16 +1,10 @@
 # Cortes en tiempo 1 3 5 6 7 (ON1)
 
-A continuación, presento varios ejemplos de interpretaciones de cortes en tiempo 1 3 5 6 7 que tienen sensaciones diferentes en orden de impacto visual (subjetivo):
+A continuación, presento varios ejemplos de interpretaciones de cortes en tiempo 1 3 5 6 7 que tienen sensaciones diferentes en orden de preferencia de Isa:
 
+- Sensación: Zarandeada a la chica desde copa.
 
-- Sensación: Variación de cambios de frente.
-
-https://github.com/juanbeleno/social-dance-project/assets/10092275/d8d57b71-3510-4334-b51c-150a805a0c7f.mp4
-
-Referencia: Clase en Step Dance - Guasa y Evelyn
-
-
-- Sensación: Copa con los 2 brazos y en posición de sombra mover el 5, 6 y 7 para acomodar a un básico
+https://github.com/juanbeleno/social-dance-project/assets/10092275/9269ab05-21dc-4ec7-8748-17cbf42314ff.mp4
 
 
 ## Canciones recomendadas para practicar
