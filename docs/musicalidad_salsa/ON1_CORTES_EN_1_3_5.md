@@ -1,6 +1,37 @@
 # Cortes en 1, 3 y 5 (ON1)
 
-A continuación, presento varios ejemplos de interpretaciones de cortes en core beat (1, 3 y 5) que tienen sensaciones diferentes en orden de impacto visual (subjetivo):
+A continuación, presento varios ejemplos de interpretaciones de cortes en core beat (1, 3 y 5) que tienen sensaciones diferentes en orden de preferencia de Isa (del que más le gusta al que menos le gusta):
+
+- Sensación: Flick para poner hammerlock antes de cambio de frente.
+
+https://github.com/juanbeleno/social-dance-project/assets/10092275/68b7d3f2-4962-4bfe-bd1b-03d9672964f1.mp4
+
+
+- Sensación: Poner manualmente el hammerlock en el 1 antes de un cambio de frente.
+
+https://github.com/juanbeleno/social-dance-project/assets/10092275/5b71dec0-1859-4c52-9e1c-000eeb97ff0d.mp4
+
+
+- Sensación: Cambio de frente con visaje de abrir las manos de la chica.
+
+https://github.com/juanbeleno/social-dance-project/assets/10092275/5375d1c2-5a74-47aa-aadd-02fa9a0c7f4d.mp4
+
+
+- Sensación: Cambio de frente desde posición de pretzel.
+
+https://github.com/juanbeleno/social-dance-project/assets/10092275/17e1ab5f-b328-463e-a545-c27571ffc675.mp4
+
+
+- Sensación: Cambio de frente con impulso en el 1 y 3.
+
+https://github.com/juanbeleno/social-dance-project/assets/10092275/bba3daf3-3c62-4ded-ba56-6db39e1931f3.mp4
+
+
+- Sensación: Flick luego de estar en posición de pretzel.
+
+https://github.com/juanbeleno/social-dance-project/assets/10092275/8f239df7-6766-448c-86b1-32242ba8a595.mp4
+
+## Otros candidatos
 
 
 - Sensación: Patada desde posición de pretzel. Desde posición de pretzel podemos desenrrollar también.
