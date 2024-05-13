@@ -2,7 +2,14 @@
 
 No todos los ejemplos que voy a presentar son en los tiempos exacto 1, 2 y 3, pero comienzan en 1 y terminan antes del 5 por lo que decidí agruparlos todos en un mismo paquete. Lo que debemos hacer es adaptar los pasos a la música.
 
-A continuación, presento varios ejemplos de interpretaciones de cortes en tiempo 1, 2 y 3 que tienen sensaciones diferentes en orden de impacto visual (subjetivo):
+A continuación, presento varios ejemplos de interpretaciones de cortes en tiempo 1, 2 y 3 que tienen sensaciones diferentes en orden de preferencia de Isa:
+
+- Sensación: traerla, devolverla y traerla de nuevo solo cambiando pesos.
+
+https://github.com/juanbeleno/social-dance-project/assets/10092275/8d02c69b-7329-48f6-b45a-452cf43c8da2
+
+
+## Otros patrones
 
 - Sensación: juego de manos.
 
