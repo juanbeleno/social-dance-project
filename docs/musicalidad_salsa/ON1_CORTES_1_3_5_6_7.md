@@ -17,6 +17,8 @@ https://github.com/juanbeleno/social-dance-project/assets/10092275/9269ab05-21dc
 
 - La cura - Frankie Ruiz ([3:07](https://youtu.be/CO0g4WUObCE?si=iDoMZmMC9RTpTw1B&t=187), [3:12](https://youtu.be/CO0g4WUObCE?si=wZ6V2qhlfMCAj5pv&t=192), [3:18](https://youtu.be/CO0g4WUObCE?si=5rtGfV7U6RsGY5xX&t=198), [3:23](https://youtu.be/CO0g4WUObCE?si=xXGx-3ugE03llrmU&t=203), [3:28](https://youtu.be/CO0g4WUObCE?si=PqQeQ_5eOaMUqogR&t=208), [3:33](https://youtu.be/CO0g4WUObCE?si=2nFHKdrn1aDHjXEF&t=213))
 
+- Nicomedes - Mickey Cora y su Orquesta Cabala ([1:41](https://youtu.be/bbk99lZR5Qg?si=VYD8NSnFFjDJM_HA&t=101), [1:45](https://youtu.be/bbk99lZR5Qg?si=G7WOvPzuKpoX1vlO&t=105), [1:50](https://youtu.be/bbk99lZR5Qg?si=Zdau9E3dnv93r1fJ&t=110), [1:55](https://youtu.be/bbk99lZR5Qg?si=Auq6W4vQROV1_8KO&t=115), [2:22](https://youtu.be/bbk99lZR5Qg?si=b4JstOYabcxNS_qI&t=142), [2:27](https://youtu.be/bbk99lZR5Qg?si=FNql-fKm2BjSm1OO&t=147), [2:32](https://youtu.be/bbk99lZR5Qg?si=nJcsE6VlH7A143q5&t=152), [2:36](https://youtu.be/bbk99lZR5Qg?si=_11NEb9ZzIpHnQ1T&t=156))
+
 ### Cada octava
 
 -  Qué te pasa a ti - Ismael Rivera y sus Cachimbos ([0:00](https://youtu.be/DQP6EB2o-pA?si=egGehHyJrHVUqF_c), [0:02](https://youtu.be/DQP6EB2o-pA?si=KIyETjVgdWMoZroG&t=2), [0:05](https://youtu.be/DQP6EB2o-pA?si=qvADr1x4zsx67FB-&t=5), [0:10](https://youtu.be/DQP6EB2o-pA?si=UdnxZb-QY8uolzII&t=10), [0:13](https://youtu.be/DQP6EB2o-pA?si=BiQSR3_frYWipk0p&t=13), [0:15](https://youtu.be/DQP6EB2o-pA?si=I041LLqPyDiYItK_&t=15), [0:18](https://youtu.be/DQP6EB2o-pA?si=UifQe9QqPSdC_bNB&t=18), ...)
