@@ -3,11 +3,6 @@
 A continuación, presento varios ejemplos de interpretaciones de cortes en tiempo 1 que tienen sensaciones diferentes en orden de preferencia de Isa (Del que menos le gusta al que más le gusta):
 
 
-- Sensación: Dar tres giros a la chica en 5 7 y 1. Finalizando con parada en seco.
-
-https://github.com/juanbeleno/social-dance-project/assets/10092275/6b0f8818-9475-43c5-b854-da377814a7f3.mp4
-
-
 - Sensación: flick.
 
 https://github.com/juanbeleno/social-dance-project/assets/10092275/0a6bf582-ffd3-4737-b328-f9c80e7c157f.mp4
