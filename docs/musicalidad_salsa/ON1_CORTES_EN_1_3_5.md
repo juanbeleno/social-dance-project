@@ -94,6 +94,8 @@ Referencia: [Rodrigue Cabaz & Irina Mikhalkina - Social Dancing | From Back 2 Ma
 
 - La cura - Frankie Ruiz ([0:06](https://youtu.be/CO0g4WUObCE?si=CHHXpmlbiyNs_WHE&t=6), [0:11](https://youtu.be/CO0g4WUObCE?si=OUTHsj-Gxt0nz_5_&t=11), [4:43](https://youtu.be/CO0g4WUObCE?si=iEjSj1Ufs3TafZDy&t=283), [4:49](https://youtu.be/CO0g4WUObCE?si=itDz9y2U8iu59EuI&t=289))
 
+- Yo Quisiera - Oscar D'León ([0:58](https://youtu.be/hJjGZwFj7xE?si=QzSZZ1SU04EEU-EQ&t=58), [1:03](https://youtu.be/hJjGZwFj7xE?si=EzH22ckYF9Q7vD3M&t=63), [1:49](https://youtu.be/hJjGZwFj7xE?si=hfVRAr5-Mvmj9fOq&t=109), [1:54](https://youtu.be/hJjGZwFj7xE?si=sSTgj75esyb8namg&t=114))
+
 
 ### Cada 4 octavas
 
