@@ -49,15 +49,10 @@ Referencia: [Samuel Funflow & Daniel Maiorano - Salsa Social Dance - LGTBailamos
 
 - A El - La Crítica ([0:42](https://youtu.be/9wA5ONU9SGk?si=PDrDhJz_xkABh9_k&t=42), [1:14](https://youtu.be/9wA5ONU9SGk?si=viG7Nf97xmgErwSG&t=74), [1:46](https://youtu.be/9wA5ONU9SGk?si=9j8FEatwsUs02w3S&t=106))
 
-### Cada 4 octavas
-
-- Anacaona - Cheo Feliciano (primer corte a la octava 6 -  Cortes en 5 y 6) ([0:13](https://youtu.be/pRhKY1jVJwE?si=dm4YHGcvP3YA2JIC&t=13), [0:25](https://youtu.be/pRhKY1jVJwE?si=l8lN3cABl11TjbTR&t=25), [0:36](https://youtu.be/pRhKY1jVJwE?si=9dI7rYjnQKR3ldzs&t=36), [1:01](https://youtu.be/pRhKY1jVJwE?si=2T07HuN11pb3z6jz&t=61), [1:11](https://youtu.be/pRhKY1jVJwE?si=z3vVMKfZCwiLFiwy&t=71), [1:21](https://youtu.be/pRhKY1jVJwE?si=5eE3VnQypNER2XNB&t=81), [2:36](https://youtu.be/pRhKY1jVJwE?si=R5QFgj1uCe4KEJ7O&t=156), [4:06](https://youtu.be/pRhKY1jVJwE?si=gLWpFvjZFXnfusTq&t=246))
-
 ### Cada 2 octavas
 
 - Fuego en el 23 - Sonora Ponceña ([2:26](https://youtu.be/5404tYDaTfk?si=15owsZlDhAMYRZOv&t=146), [2:31](https://youtu.be/5404tYDaTfk?si=RdrudHm_IhwrMQ4Q&t=151), [2:36](https://youtu.be/5404tYDaTfk?si=XsBS8kHUO-MevpHy&t=156), [2:42](https://youtu.be/5404tYDaTfk?si=9JbEfHyLlSMUqcDI&t=162))
 
-- El plato roto - Miguel Quintana (Cortes en 5 y 6) ([3:30](https://youtu.be/YZ2YDy9v4Nw?si=o_gw6puLIlTDfOTr&t=210), [3:35](https://youtu.be/YZ2YDy9v4Nw?si=RkcLkLhYXp7YzZ54&t=215), [3:40](https://youtu.be/YZ2YDy9v4Nw?si=hgJumBqh9d4PKMPZ&t=220), [3:45](https://youtu.be/YZ2YDy9v4Nw?si=Nz4CEMxlF77OEWzj&t=225))
 
 ### Letra
 
