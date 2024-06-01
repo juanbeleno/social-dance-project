@@ -55,6 +55,13 @@ https://github.com/juanbeleno/social-dance-project/assets/10092275/19838924-e923
 Referencia: Clase en Step Dance - Guasa y Evelyn
 
 
+- Sensación: variación cambio de frente. **ATENCIÓN**: Los cambios de frente requieren preparación desde la octava anterior.
+
+https://github.com/juanbeleno/social-dance-project/assets/10092275/25356349-10ef-4fa3-8538-403a06ba8275.mp4
+
+Referencia: [Terry SalsAlianza & Bersy Cortez - Salsa social dancing | 4th World Stars Salsa Festival](https://youtu.be/3OJNAGmuEEY?si=7XG4hN3xupYsEOIF&t=129)
+
+
 - Sensación: variación cambio de frente.
 
 https://github.com/juanbeleno/social-dance-project/assets/10092275/3c925de1-27f2-4024-8c22-69f4281501fe.mp4
