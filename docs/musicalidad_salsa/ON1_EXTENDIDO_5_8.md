@@ -60,7 +60,11 @@ Referencia: Clase en Step Dance - Guasa y Daniela Rosero
 ## Canciones recomendadas para practicar
 
 ### Cada 4 octavas
-- A Maina - Willie Rosario ([1:49](https://youtu.be/bmUXA7aILc0?si=h-k5pKzH_AXhqpmf&t=109), [1:59](https://youtu.be/bmUXA7aILc0?si=GCXEBEGuLa-uudQX&t=119), [2:09](https://youtu.be/bmUXA7aILc0?si=v_NDJ39Y6vXqNXzz&t=129), [2:20](https://youtu.be/bmUXA7aILc0?si=ezkl0ak9AvwTxdnD&t=140), [3:02](https://youtu.be/bmUXA7aILc0?si=j2KYn16X0VbJbvb4&t=182), [3:13](https://youtu.be/bmUXA7aILc0?si=HjS5Fz-DPGruddBZ&t=193), [3:23](https://youtu.be/bmUXA7aILc0?si=6PcsBhI1-wQWB9RC&t=203), [3:34](https://youtu.be/bmUXA7aILc0?si=G-aLTfTyDrDJ66yK&t=214), [3:59](https://youtu.be/bmUXA7aILc0?si=XPkcYVH_FeIZEjOg&t=239), [4:10](https://youtu.be/bmUXA7aILc0?si=YY1UxEnrFN5YUeb8&t=250), [4:20](https://youtu.be/bmUXA7aILc0?si=zriQBWgIvKlX0ioR&t=260))
+- A Maina - Willie Rosario ([1:49](https://youtu.be/bmUXA7aILc0?si=h-k5pKzH_AXhqpmf&t=109), [1:59](https://youtu.be/bmUXA7aILc0?si=GCXEBEGuLa-uudQX&t=119), [2:09](https://youtu.be/bmUXA7aILc0?si=v_NDJ39Y6vXqNXzz&t=129), [2:20](https://youtu.be/bmUXA7aILc0?si=ezkl0ak9AvwTxdnD&t=140), [3:02](https://youtu.be/bmUXA7aILc0?si=j2KYn16X0VbJbvb4&t=182), [3:13](https://youtu.be/bmUXA7aILc0?si=HjS5Fz-DPGruddBZ&t=193), [3:23](https://youtu.be/bmUXA7aILc0?si=6PcsBhI1-wQWB9RC&t=203), [3:34](https://youtu.be/bmUXA7aILc0?si=G-aLTfTyDrDJ66yK&t=214), [3:59](https://youtu.be/bmUXA7aILc0?si=XPkcYVH_FeIZEjOg&t=239), [4:10](https://youtu.be/bmUXA7aILc0?si=YY1UxEnrFN5YUeb8&t=250), [4:20](https://youtu.be/bmUXA7aILc0?si=zriQBWgIvKlX0ioR&t=260)
+
+### Cada 2 octavas
+
+- Pobrecita - La máxima 79 ([2:52](https://youtu.be/NOrfzcA6jzI?si=sM2VniOfNOvKVxsF&t=172), [2:58](https://youtu.be/NOrfzcA6jzI?si=mASGQgGfCe89_Enb&t=178), [3:03](https://youtu.be/NOrfzcA6jzI?si=_JSCYqycgBPMESTt&t=183), [3:08](https://youtu.be/NOrfzcA6jzI?si=xXB9S86vIaJQGR4_&t=188), [3:29](https://youtu.be/NOrfzcA6jzI?si=9ggDMc_s2bg1iSYf&t=209), [3:35](https://youtu.be/NOrfzcA6jzI?si=vva4e7G-__vURTRh&t=215), [3:40](https://youtu.be/NOrfzcA6jzI?si=gPFG-VEwHAf909YB&t=220), [3:45](https://youtu.be/NOrfzcA6jzI?si=o8qQ-xQ8ypBuXa7S&t=225), [3:51](https://youtu.be/NOrfzcA6jzI?si=lLThA5PKTfCUjEom&t=231), [4:06](https://youtu.be/NOrfzcA6jzI?si=VhVvKgtlMg-QWsq8&t=246), [4:09](https://youtu.be/NOrfzcA6jzI?si=9cHAcd0nSTrHtNAq&t=249), [4:12](https://youtu.be/NOrfzcA6jzI?si=_R3wkStFpm8tcPAG&t=252))
 
 
 ### Cada octava
