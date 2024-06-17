@@ -76,9 +76,16 @@ Referencia: [MarceloyBelen Copenhaguen Workshop](https://youtu.be/xpOeKtgM7a8?t=
 
 - Sensación: Movimiento de torso y cadera
 
-https://github.com/juanbeleno/social-dance-project/assets/10092275/076413d7-52c4-4e32-9b3a-a60980055056
+https://github.com/juanbeleno/social-dance-project/assets/10092275/076413d7-52c4-4e32-9b3a-a60980055056.mp4
 
 Referencia: [Anastasia & Jovanny - Bachata Social Dancing | Latin Beach Fest DR 2022 (Punta Cana)](https://youtu.be/mcZnE9UQNLg?si=fWOJQfBk5fa2nwO8&t=102)
+
+
+- Sensación: Poner a la chica a caminar rápido alrededor del chico.
+
+https://github.com/juanbeleno/social-dance-project/assets/10092275/cf1054b6-4477-4cca-80b2-0a8b488b0d73.mp4
+
+Referencia: [Miguel y Sunsire [EL DILEMA] @ Urban Bachata Festival 2024 🚨](https://youtu.be/oru0i0qnEko?si=icQyUWmL0-I1ozQ5&t=19)
 
 
 - Sensación: giro 360 juntos con preparación de rompe.
