@@ -177,6 +177,12 @@ https://github.com/juanbeleno/social-dance-project/assets/10092275/3123ff7a-37fb
 https://github.com/juanbeleno/social-dance-project/assets/10092275/ad5355df-ef40-41cd-b7a8-8ca29c6e8f0e.mp4
 
 
+- Sensación: Desenredar posición de Pretzel
+
+https://github.com/juanbeleno/social-dance-project/assets/10092275/539ff573-336e-4ee7-872e-d7903d5a8419.mp4
+
+Referencia: [Melvin & Gatica [GONE] @ Urban Bachata Festival 2024 🚨](https://youtu.be/QAFM9eTyvDg?si=B6XLFOARSEkOAXIW&t=80)
+
 
 ## Canciones recomendadas para practicar por cortes en 5
 
