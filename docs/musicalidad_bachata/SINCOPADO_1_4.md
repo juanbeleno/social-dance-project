@@ -34,6 +34,13 @@ https://github.com/juanbeleno/social-dance-project/assets/10092275/793d5bd8-11e4
 Referencia: [Tonio & Ysenah / No Tiene La Culpa - Romeo Santos / Bachata Sensual / Social Dancing /Bachata Addict](https://youtu.be/fDuckPb3Gws?t=12)
 
 
+- Sensanción: caminada rápida alrededor del chico.
+
+https://github.com/juanbeleno/social-dance-project/assets/10092275/4884498c-d41c-4549-8886-adfee36dd1cd.mp4
+
+Referencia: [Azael & Sindi - bachata social dancing | Summer Sensual Days 2022 (Rovinj)](https://youtu.be/04v4OZZmnLo?si=zo7waIbtoVY1Iol2&t=173)
+
+
 ## Canciones recomendadas para practicar sincopados
 
 - Bésame - Dani J, Sanco, Dj Husky ([0:05](https://youtu.be/sYJJxSqDdVM?t=5), [0:09](https://youtu.be/sYJJxSqDdVM?t=9), [0:13](https://youtu.be/sYJJxSqDdVM?t=13), [0:16](https://youtu.be/sYJJxSqDdVM?t=16), [1:19](https://youtu.be/sYJJxSqDdVM?t=79), [1:22](https://youtu.be/sYJJxSqDdVM?t=82), [1:26](https://youtu.be/sYJJxSqDdVM?t=86), [1:30](https://youtu.be/sYJJxSqDdVM?t=90), [1:34](https://youtu.be/sYJJxSqDdVM?t=94), [1:38](https://youtu.be/sYJJxSqDdVM?t=98), [1:41](https://youtu.be/sYJJxSqDdVM?t=101), [1:44](https://youtu.be/sYJJxSqDdVM?t=104), [3:02](https://youtu.be/sYJJxSqDdVM?t=182), [3:06](https://youtu.be/sYJJxSqDdVM?t=186), [3:10](https://youtu.be/sYJJxSqDdVM?t=190), [3:14](https://youtu.be/sYJJxSqDdVM?t=194), [3:17](https://youtu.be/sYJJxSqDdVM?t=197), [3:20](https://youtu.be/sYJJxSqDdVM?t=200), [3:24](https://youtu.be/sYJJxSqDdVM?t=204), [3:28](https://youtu.be/sYJJxSqDdVM?t=208))
