@@ -43,6 +43,8 @@ https://github.com/juanbeleno/social-dance-project/assets/10092275/b1d93976-71cc
 
 ## Repetición cada 8 octavas
 
+- Todo tiene su final - Hector Lavoe ([0:46](https://youtu.be/uTXP8VB52-I?si=urUsoPjrLCNCQFH7&t=46), [1:06](https://youtu.be/uTXP8VB52-I?si=nAy3WnkDvDcK2mJC&t=66), [1:25](https://youtu.be/uTXP8VB52-I?si=WNJ5cWUNiKqZKf3l&t=85), [1:45](https://youtu.be/uTXP8VB52-I?si=pE4PmsxpNG29VdfC&t=105))
+
 - Hasta que te conocí - Marc Anthony ([1:53](https://youtu.be/yiFj0jMKdIU?t=113), [2:15](https://youtu.be/yiFj0jMKdIU?t=135), [2:34](https://youtu.be/yiFj0jMKdIU?t=154), [2:57](https://youtu.be/yiFj0jMKdIU?t=177), [3:19](https://youtu.be/yiFj0jMKdIU?t=199), [3:38](https://youtu.be/yiFj0jMKdIU?t=218))
 
 - Adolescent's Orquesta - Persona Ideal (Letra Oficial) ([0:46](https://youtu.be/d9bRnGo2gjk?t=46), [1:03](https://youtu.be/d9bRnGo2gjk?t=63), [1:20](https://youtu.be/d9bRnGo2gjk?t=80), [1:51](https://youtu.be/d9bRnGo2gjk?t=111), [2:09](https://youtu.be/d9bRnGo2gjk?t=129), [2:26](https://youtu.be/d9bRnGo2gjk?t=146), [3:01](https://youtu.be/d9bRnGo2gjk?t=181), [3:23](https://youtu.be/d9bRnGo2gjk?t=203), [3:33](https://youtu.be/d9bRnGo2gjk?t=213))
