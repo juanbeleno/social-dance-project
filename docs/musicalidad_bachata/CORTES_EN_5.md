@@ -181,7 +181,7 @@ https://github.com/juanbeleno/social-dance-project/assets/10092275/ad5355df-ef40
 
 https://github.com/juanbeleno/social-dance-project/assets/10092275/539ff573-336e-4ee7-872e-d7903d5a8419.mp4
 
-Referencia: [Melvin & Gatica [GONE] @ Urban Bachata Festival 2024 🚨](https://youtu.be/QAFM9eTyvDg?si=B6XLFOARSEkOAXIW&t=80)
+Referencia: [Melvin & Gatica [GONE] @ Urban Bachata Festival 2024 🚨](https://youtu.be/QAFM9eTyvDg?si=B6XLFOARSEkOAXIW&t=72)
 
 
 ## Canciones recomendadas para practicar por cortes en 5
