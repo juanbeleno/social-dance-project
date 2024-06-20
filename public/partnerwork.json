@@ -6075,7 +6075,15 @@
     {
         "id": "5cdf8a2",
         "filepath": "salsa/partnerwork/on2/5cdf8a2.mp4",
-        "tags": ["bachata sensual", "bachata reference", "Baudillo", "Maddie"],
+        "tags": ["on2", "salsa reference", "Baudillo", "Maddie"],
+        "level": 4,
+        "source": "https://youtu.be/u_myxpKCZBY?si=hxRIoATzEcPCm18i&t=8",
+        "orientation": "landscape"
+    },
+    {
+        "id": "f2d908e",
+        "filepath": "bachata/partnerwork/sensual/f2d908e.mp4",
+        "tags": ["bachata sensual", "bachata reference", "Sebastian Camilo", "Fernanda Gomez"],
         "level": 4,
         "source": "https://youtu.be/u_myxpKCZBY?si=hxRIoATzEcPCm18i&t=8",
         "orientation": "landscape"
