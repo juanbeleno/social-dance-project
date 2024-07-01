@@ -2,7 +2,55 @@
 
 A parte de los cortes en tiempo 5, la misma interpretación musical puede ser hecha para cuando la voz acentúa el tiempo 5.
 
-A continuación, presento varios ejemplos de interpretaciones de cortes en tiempo 5 que tienen sensaciones diferentes en orden de impacto visual (subjetivo):
+A continuación, presento varios ejemplos de interpretaciones de cortes en tiempo 5 que tienen sensaciones diferentes en orden de impacto visual (Según Isa):
+
+- Sensación: Tabla. Advertencia: Toca prepararlo en 7.
+
+https://github.com/juanbeleno/social-dance-project/assets/10092275/89c57f63-6c4a-4e21-a4fb-30b1715ad145.mp4
+
+
+- Sensación: Cambio de frente sencillo.
+
+https://github.com/juanbeleno/social-dance-project/assets/10092275/a1ed4817-0d2d-4505-9590-2d2bf71806ca.mp4
+
+
+- Sensación: Empuje lateral desde posición de sombra.
+
+https://github.com/juanbeleno/social-dance-project/assets/10092275/2a949dbf-f2df-4ed9-ad52-71200b3006d6.mp4
+
+
+- Sensación: Desenrollar a la chica.
+
+https://github.com/juanbeleno/social-dance-project/assets/10092275/e99b5148-4d8e-4be1-aa6b-cf172646ba69.mp4
+
+
+- Sensación: Cambios de frente para segerir un passé a la chica.
+
+https://github.com/juanbeleno/social-dance-project/assets/10092275/54ffd61d-f9a5-4251-ab5b-87d8daee9d7d.mp4
+
+
+- Sensación: Sugerir un ronde de jambé a la chica.
+
+https://github.com/juanbeleno/social-dance-project/assets/10092275/7b4576f4-2aca-4178-bab1-92c75e05e7e3.mp4
+
+
+- Sensación: Caida de espaldas de la chica. Advertencia: Mejorar mi técnica.
+
+https://github.com/juanbeleno/social-dance-project/assets/10092275/df7d797c-37f0-490e-a93a-6ffc48b9e71e.mp4
+
+
+- Sensación: Cambio de frente del chico. Advertencia: La chica aveces no tiene control de su cuerpo y pasa derecho.
+
+https://github.com/juanbeleno/social-dance-project/assets/10092275/0d1cc432-8960-434f-b780-bef44c594f16.mp4
+
+
+- Sensación: Volver de un cambré. Advertencia: Toca prepararlo en 7.
+
+https://github.com/juanbeleno/social-dance-project/assets/10092275/02489180-d5a3-4b75-8ff8-dcc939f23e49.mp4
+
+
+
+## Otros candidatos
 
 - Para este primer ejemplo, ignoremos la música y concentremonos en el movimiento de empujar lateralmente al follow y alejar la vista hacia un costado contrario del movimiento y luego recuperar la postura en diagonal en tiempo 7 al tiempo que miramos al follow. El efecto de mirar al follow es importante.
 
