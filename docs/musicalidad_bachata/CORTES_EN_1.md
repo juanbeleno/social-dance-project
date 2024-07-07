@@ -107,27 +107,30 @@ Referencia: [Azael Bachata Fever](https://www.instagram.com/p/C4fYagCiHcu/?hl=es
 
 - Solo Conmigo - Romeo Santos ([1:38](https://youtu.be/69ppp5Ipook?t=98), [3:03](https://youtu.be/69ppp5Ipook?t=183), [3:54](https://youtu.be/69ppp5Ipook?t=234))
 
-- Otro te besa - Jr ([0:35](https://youtu.be/z0MFQrEb2ow?si=Y1vnIveWyz5-8Lcz&t=35), [1:06](https://youtu.be/z0MFQrEb2ow?si=d3ILuaRiuKVwwcup&t=66), [1:35](https://youtu.be/z0MFQrEb2ow?si=CdxBQOYNtj0iEl1a&t=95))
-
 - Salvaje - Jr ([1:00](https://youtu.be/77DRRRv6asQ?t=60), [1:55](https://youtu.be/77DRRRv6asQ?t=115), [2:27\*](https://youtu.be/77DRRRv6asQ?t=147))
 
 - R.I.P - Romeo Santos ([0:28](https://youtu.be/Uzt3PBzObl4?t=28))
 
 - Corazon Sin Cara - Prince Royce ([1:30](https://youtu.be/XNGWDH-6yv8?t=90))
 
-- Hookah & Sheridan's - Mr.Don Ft: Dj Khalid (Versión Bachata) ([0:45](https://youtu.be/vmbaZSTSxB4?t=45), [1:31](https://youtu.be/vmbaZSTSxB4?t=91), [2:42](https://youtu.be/vmbaZSTSxB4?t=162), [3:20](https://youtu.be/vmbaZSTSxB4?t=200))
-
 - Sin Censura - Kewin Cosmos ([1:02](https://youtu.be/K_Nv3wvpZhk?t=62), [2:16](https://youtu.be/K_Nv3wvpZhk?t=136), [3:02](https://youtu.be/K_Nv3wvpZhk?t=182))
 
 - El delincuente - It's Will ([0:49](https://youtu.be/4bYxbDCmfRQ?t=49), [1:44](https://youtu.be/4bYxbDCmfRQ?t=104), [2:47](https://youtu.be/4bYxbDCmfRQ?t=167), [3:03](https://youtu.be/4bYxbDCmfRQ?t=183))
 
-- 100 x hora - Kewin Cosmos ([0:57](https://youtu.be/mw_nxlF1wmc?si=z543JZxwyMOmO3XU&t=57))
-
-# Corte en la 5ta estrofa desde el comienzo de la canción
+### Corte en la 5ta estrofa desde el comienzo de la canción
 
 - Te invito - Aventura ([0:16](https://youtu.be/v6aicYYG59I?si=G7jP-oL9E6BB7oYQ&t=16), [0:55](https://youtu.be/v6aicYYG59I?si=M0OZ6hj2YSE0FFqx&t=55), [1:27](https://youtu.be/v6aicYYG59I?si=akujLH-iNKYO9Ici&t=87), [2:29](https://youtu.be/v6aicYYG59I?si=YT1ne4bZs9zGQ721&t=149))
 
 - Mírame - Prince Royce ([0:54](https://youtu.be/1JXupj4_yYw?si=CoJpXtEE_aiN1GpR&t=54), [2:33](https://youtu.be/1JXupj4_yYw?si=qyKfFOYDv6dKr40A&t=153))
+
+- 100 x hora - Kewin Cosmos ([0:57](https://youtu.be/mw_nxlF1wmc?si=z543JZxwyMOmO3XU&t=57))
+
+- Hookah & Sheridan's - Mr.Don Ft: Dj Khalid (Versión Bachata) ([0:45](https://youtu.be/vmbaZSTSxB4?t=45), [1:31](https://youtu.be/vmbaZSTSxB4?t=91), [2:42](https://youtu.be/vmbaZSTSxB4?t=162), [3:20](https://youtu.be/vmbaZSTSxB4?t=200))
+
+- Otro te besa - Jr ([0:35](https://youtu.be/z0MFQrEb2ow?si=Y1vnIveWyz5-8Lcz&t=35), [1:06](https://youtu.be/z0MFQrEb2ow?si=d3ILuaRiuKVwwcup&t=66), [1:35](https://youtu.be/z0MFQrEb2ow?si=CdxBQOYNtj0iEl1a&t=95))
+
+### Cada 8 octavas
+- Tengo una necesidad - Grupo Extra ([1:34](https://youtu.be/s1ucudWHzr8?si=VMNPWgFTnTP1gvZE&t=94), [2:13](https://youtu.be/s1ucudWHzr8?si=T3GK6ej8rtQn2zHF&t=133), [3:05](https://youtu.be/s1ucudWHzr8?si=zZp9gDRdLsCUeU42&t=185), [3:44](https://youtu.be/s1ucudWHzr8?si=GKl1XijOwegoQdyK&t=224), [4:21](https://youtu.be/s1ucudWHzr8?si=Tnq5qbZq7KyzdRrf&t=261))
 
 ### Patrón de repetición
 - Mia - Romeo Santos ([0:54*](https://youtu.be/8iPcqtHoR3U?si=Uynd-0a2378xtOP0&t=54), [2:05](https://youtu.be/8iPcqtHoR3U?si=sHSvdO8p9A4gz_1f&t=125), [3:17](https://youtu.be/8iPcqtHoR3U?si=cYA3yejcbj6ppHOY&t=197), [4:47](https://youtu.be/8iPcqtHoR3U?si=DMAiOfbkQBwbnqtT&t=287))
