@@ -4,7 +4,35 @@ Para este tipo de cortes, he encontrado que se pueden producir en 2 partes de la
 
 Cuando el corte es en el tiempo 1, aveces la música se reinicia y cuando se debería marcar el tiempo 5, en realidad comienza el tiempo 1 de nuevo. Entonces, toca prestar atención por si debemos cambiar el tiempo o no.
 
-A continuación, presento varios ejemplos de interpretaciones de cortes en tiempo 1 que tienen sensaciones diferentes en orden de impacto visual (subjetivo):
+A continuación, presento varios ejemplos de interpretaciones de cortes en tiempo 5 que tienen sensaciones diferentes en orden de impacto visual (Según Isa):
+
+- Sensación: Caída hacia atrás del follow:
+
+https://github.com/juanbeleno/social-dance-project/assets/10092275/36859201-e7c1-44c3-873d-145c2952c66c.mp4
+
+
+- Sensación: Caída lateral del follow.
+
+https://github.com/juanbeleno/social-dance-project/assets/10092275/7e74e0e1-e7ac-4fbb-b2a7-75cc2eceb717.mp4
+
+
+- Sensación: Empujada frontal desde onda.
+
+https://github.com/juanbeleno/social-dance-project/assets/10092275/0c0b1a57-077b-4db9-a0a4-de3223d9f734.mp4
+
+
+- Sensación: Desenrrollada.
+
+https://github.com/juanbeleno/social-dance-project/assets/10092275/db6b1017-c2bf-40e8-b9ca-7d2c99c5bdbe.mp4
+
+
+- Sensación: Empujada frontal desde posición del pretzel.
+
+https://github.com/juanbeleno/social-dance-project/assets/10092275/e1fee06f-e34f-4b39-a23c-01d47cca2ff0.mp4
+
+
+
+## Otros candidatos
 
 - Sensación: Jalón lateral con cambio de posición.
 
