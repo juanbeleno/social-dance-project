@@ -2,7 +2,36 @@
 
 Una de las herramientas que usa el cantante en la bachata es acentuar la voz en el core beat (1, 3, 5 y 7). En ocaciones, la acentuación puede demorar más de una octava, pero uno de los patrones más frecuentes que encontré es la acentuación en el 1, 3 y 5 (sin el 7). Este tipo de musicalidad parece ser más fácil de percibir en los coros, pero tambien aparece en [otras partes de las canciones](https://youtu.be/Uzt3PBzObl4?t=23).
 
-A continuación, presento varios ejemplos de interpretaciones musicales de la acentuación en 1, 3, 5 y 7 que tienen sensaciones diferentes en orden de impacto visual (subjetivo):
+A continuación, presento varios ejemplos de interpretaciones musicales de la acentuación en 1, 3, 5 y 7 que tienen sensaciones diferentes en orden de impacto visual (Según Isa):
+
+- Sensación: Empujar, halar y sugerir una caída perpendicular.
+
+https://github.com/user-attachments/assets/484c1f28-ae1d-4092-96e0-2ef91fddad19.mp4
+
+
+- Sensación: Caminata lado a lado del follower desde posición de pretzel.
+
+https://github.com/user-attachments/assets/d81162b6-ac98-47a6-93ca-f8bbcae56774.mp4
+
+
+- Sensación: Caminada normalita frente a frente.
+
+https://github.com/user-attachments/assets/bc1d724f-331a-4331-8d11-d51ee9abf2d0.mp4
+
+
+- Sensación: Caminata normalita uno al lado del otro.
+
+https://github.com/user-attachments/assets/8f2dbaaf-298a-4f9a-9d6c-ec62974159b6.mp4
+
+
+- Sensación: Enfasis en las manos en un 70.
+
+https://github.com/user-attachments/assets/8bfe4aa2-c869-4ec7-abbf-7b7e8456937d.mp4
+
+
+
+
+## Otros candidatos
 
 - Sensación: tres ondas desde posición de pretzel.
 
