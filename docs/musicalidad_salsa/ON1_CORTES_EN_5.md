@@ -90,6 +90,12 @@ Referencia: Clase en Step Dance - Guasa y Evelyn
 
 - Consolación - Roberto Roena ([0:22](https://youtu.be/ODm6zUMKdEk?si=xBjRWn7DGL7B2efN&t=22), [1:21](https://youtu.be/ODm6zUMKdEk?si=KBLR2lVQjlliD7Mf&t=81), [2:07](https://youtu.be/ODm6zUMKdEk?si=7n7pi6jvg5a6yC_w&t=127), [2:50](https://youtu.be/ODm6zUMKdEk?si=d1uVpfXUz1BLcRtJ&t=170))
 
+
+### Cada 6 octavas
+
+- Esto te pone la cabeza mala - Los Van Van ([0:13](https://youtu.be/48VjCS6i4Sc?si=U8dHCyD1Uu3xxnAO&t=13), [0:27](https://youtu.be/48VjCS6i4Sc?si=v4mn5FmM0MPGt7bd&t=27), [0:42](https://youtu.be/48VjCS6i4Sc?si=G6T88pDbbHAWqK-h&t=42))
+
+
 ### Cada 4 octavas
 
 - Víctor Manuelle - He Tratado (Cover Audio Video) ([1:10](https://youtu.be/7wpVJvRIKYQ?t=70), [1:22](https://youtu.be/7wpVJvRIKYQ?t=82), [2:07](https://youtu.be/7wpVJvRIKYQ?t=127), [2:18](https://youtu.be/7wpVJvRIKYQ?t=138))
