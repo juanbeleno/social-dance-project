@@ -252,14 +252,20 @@ Referencia: [Melvin & Gatica [GONE] @ Urban Bachata Festival 2024 🚨](https://
 
 - Esencia - Pinto Picasso ft. Marco y Sara ([0:20](https://youtu.be/8ToZrR1m5ss?si=i0KwZvCuPHwlM7W4&t=20), [0:53](https://youtu.be/8ToZrR1m5ss?si=nDQ2tjJXycUmZtf9&t=53), [1:08](https://youtu.be/8ToZrR1m5ss?si=NKk_Yz1rDorIyMrA&t=68), [1:17](https://youtu.be/8ToZrR1m5ss?si=-roPR7aCXQOt4O1G&t=77), [1:24](https://youtu.be/8ToZrR1m5ss?si=HWkuHWkhzJHSibea&t=84), [1:39](https://youtu.be/8ToZrR1m5ss?si=V11w32PLB9bru4Vi&t=99), [3:12](https://youtu.be/8ToZrR1m5ss?si=PkYqG0OFEobfy4dZ&t=192))
 
-## Canciones con patrón de cada 8 octavas
+
+### Canciones con patrón de cada 4 octavas
+
+- Niveles - Pinto Picasso ([0:50](https://youtu.be/QvdV4Z8rqUI?si=sQGh0201zgoYT-Az&t=50), [1:07](https://youtu.be/QvdV4Z8rqUI?si=78EPc-sxk35sQh1p&t=67), [1:24](https://youtu.be/QvdV4Z8rqUI?si=iUzwu9vjPBOzUfUc&t=84), [1:41](https://youtu.be/QvdV4Z8rqUI?si=xdRAjKbjHCpVAuUw&t=101), [1:59](https://youtu.be/QvdV4Z8rqUI?si=D0kawZeBgOERHK_w&t=119), [2:16](https://youtu.be/QvdV4Z8rqUI?si=BXiBhAOMFqhimj5Y&t=136), [2:33](https://youtu.be/QvdV4Z8rqUI?si=piQPcjZYE6eCMcLU&t=153), [3:07](https://youtu.be/QvdV4Z8rqUI?si=BiUHgslmdpNngb2d&t=187), [3:24](https://youtu.be/QvdV4Z8rqUI?si=8vS2eqPR3uZlhxrK&t=204), ...)
+
+
+### Canciones con patrón de cada 8 octavas
 - Borracho - Román y Dani J ([0:25](https://youtu.be/phr4AyNB-tE?si=dn3HBCf31B_AEpx0&t=25), [0:40](https://youtu.be/phr4AyNB-tE?si=MSCQHAoPeb4z0OUo&t=40), [0:54](https://youtu.be/phr4AyNB-tE?si=HNGFHSNI3WI31S-w&t=54), [1:10](https://youtu.be/phr4AyNB-tE?si=SCTBuTPztiOk4bjd&t=70), [1:24](https://youtu.be/phr4AyNB-tE?si=YHlrwmwxwDTP5uPZ&t=84), [1:32](https://youtu.be/phr4AyNB-tE?si=4CBjmGWVvBU8vAe4&t=92), [1:39](https://youtu.be/phr4AyNB-tE?si=rxjobiXnq7exzmNk&t=99), [1:54](https://youtu.be/phr4AyNB-tE?si=vVCoLg2ifEqjr5Ze&t=114), [2:08](https://youtu.be/phr4AyNB-tE?si=WPunpAxHt4X0A4hH&t=128), [2:24](https://youtu.be/phr4AyNB-tE?si=NW2r-vo0fSIQzpFX&t=144), [2:38](https://youtu.be/phr4AyNB-tE?si=dP3iD2ajBd4ZUCW_&t=158), [3:10](https://youtu.be/phr4AyNB-tE?si=nM1g7Z_UvUxijuYn&t=190), [3:24](https://youtu.be/phr4AyNB-tE?si=RZkVNmZqLHnmZmLW&t=204), [3:39](https://youtu.be/phr4AyNB-tE?si=f3ih7aNJmGAicpB3&t=219))
 
-## Canciones con patrón de repetición
+### Canciones con patrón de repetición
 
 - Gitana - Dani J ft Luis & Andrea ([0:58](https://youtu.be/l0bPbxWDwO8?si=29QXBwXWz-k5TQsw&t=58), [1:12](https://youtu.be/l0bPbxWDwO8?si=7abEtr9i6YccplLj&t=72), [2:09](https://youtu.be/l0bPbxWDwO8?si=7NuMjNYaTVCtjhRD&t=129), [2:23](https://youtu.be/l0bPbxWDwO8?si=UTuVAB9ACu3dzb3I&t=143))
 
-## Canciones recomendadas para practicar por acentuaciones de la voz en tiempo 5
+### Canciones recomendadas para practicar por acentuaciones de la voz en tiempo 5
 
 - R.I.P - Romeo Santos ([0:36](https://youtu.be/Uzt3PBzObl4?t=36), [0:51](https://youtu.be/Uzt3PBzObl4?t=51), [1:50](https://youtu.be/Uzt3PBzObl4?t=110), [2:04](https://youtu.be/Uzt3PBzObl4?t=124), [2:49](https://youtu.be/Uzt3PBzObl4?t=169), [3:03](https://youtu.be/Uzt3PBzObl4?t=183))
 
