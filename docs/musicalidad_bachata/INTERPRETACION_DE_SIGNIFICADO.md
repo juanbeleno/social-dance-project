@@ -92,3 +92,10 @@ https://github.com/juanbeleno/social-dance-project/assets/10092275/b95f14c3-44cb
 
 Referencia: [David y Laura](https://www.instagram.com/davidylauradancers/)
 
+
+- "Preparo mis maletas y me voy"
+
+https://github.com/user-attachments/assets/0c62c488-0af0-4bcb-a397-12f15b6c5210.mp4
+
+Referencia: [Maycheal y Mayra - SI YA NO VOLVERAS @ Sensual Summer Weekend 2024 🏛️](https://youtu.be/jGAFPYG2XYY?si=piyUH-gA_aDigWiW&t=181)
+
