@@ -110,6 +110,13 @@ https://github.com/juanbeleno/social-dance-project/assets/10092275/cf1054b6-4477
 Referencia: [Miguel y Sunsire [EL DILEMA] @ Urban Bachata Festival 2024 🚨](https://youtu.be/oru0i0qnEko?si=icQyUWmL0-I1ozQ5&t=19)
 
 
+- Sensación: pasitos en circulo desde posiciòn de sombra.
+
+https://github.com/user-attachments/assets/b863eecc-6138-4afe-8c03-b88d71898088.mp4
+
+Referencia: [Maycheal y Mayra [SI YA NO VOLVERAS] @ Sensual Summer Weekend 2024 🏛️](https://youtu.be/jGAFPYG2XYY?si=eMgUk1qC0tsA76YE&t=50)
+
+
 - Sensación: giro 360 juntos con preparación de rompe.
 
 ## Canciones recomendadas para practicar sincopados
