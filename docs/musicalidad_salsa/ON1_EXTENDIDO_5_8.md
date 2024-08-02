@@ -15,6 +15,13 @@ https://github.com/juanbeleno/social-dance-project/assets/10092275/4877ee90-7279
 
 ## Otros candidatos
 
+- Sensación: circulo de cadera.
+
+https://github.com/user-attachments/assets/9c21dd42-3da9-4cea-b626-f20ee672cf09.mp4
+
+Referencia: [Dimitris & Natasha](https://www.instagram.com/p/C-Ipu2Pi97f/)
+
+
 - Sensación: giro hacia atrás con ronde de jambé.
 
 https://github.com/juanbeleno/social-dance-project/assets/10092275/b79ceeb4-911c-47b8-b900-c786570c35fd.mp4
