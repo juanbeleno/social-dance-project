@@ -129,8 +129,6 @@ Referencia: [Maycheal y Mayra [SI YA NO VOLVERAS] @ Sensual Summer Weekend 2024 
 
 - Ciudadana - Romeo Santos ([0:35](https://youtu.be/Plq4dTFS4Pc?t=35), [2:12](https://youtu.be/Plq4dTFS4Pc?t=132))
 
-- Solo conmigo - Romeo Santos ([0:47](https://youtu.be/XEUCbvCEjc8?si=aSJSDT6v6YOm6elr&t=47), [1:03](https://youtu.be/XEUCbvCEjc8?si=OpLC4qGglKMjYP_3&t=63), [2:29](https://youtu.be/XEUCbvCEjc8?si=KOBkg_n4V5XEf3kn&t=149), [2:44](https://youtu.be/XEUCbvCEjc8?si=4OV_jc6pSYHzDS03&t=164))
-
 - 7 pecados - Dani J ([1:18](https://youtu.be/fCMaW1gQBjU?si=kxkYk7BDpeKDEm7_&t=78), [1:25](https://youtu.be/fCMaW1gQBjU?si=lb1rf37KNnsVFSPA&t=85), []())
 
 - Carmín - Romeo Santos ft. Juan Luis Guerra ([0:21](https://youtu.be/D35n4kgX0e0?si=7i_cwFexLcXip_8_&t=21), [1:32](https://youtu.be/D35n4kgX0e0?si=o8SIwygSvrVxfiOz&t=92), [2:04*](https://youtu.be/D35n4kgX0e0?si=du5k3T_jWprLvfNp&t=124), [2:36*](https://youtu.be/D35n4kgX0e0?si=NUbTDBReesWgnpL9&t=156))
@@ -142,6 +140,8 @@ Referencia: [Maycheal y Mayra [SI YA NO VOLVERAS] @ Sensual Summer Weekend 2024 
 - Enseñame a olvidar - Aventura ([0:50](https://youtu.be/uPCZm2Tvjpo?t=50), [1:04](https://youtu.be/uPCZm2Tvjpo?t=64), [2:07](https://youtu.be/uPCZm2Tvjpo?t=127), [2:38*](https://youtu.be/uPCZm2Tvjpo?t=158), [2:46](https://youtu.be/uPCZm2Tvjpo?t=166), [3:31](https://youtu.be/uPCZm2Tvjpo?t=211), [3:48](https://youtu.be/uPCZm2Tvjpo?t=228))
 
 - El papel part 2 - Romeo Santos ([0:32](https://youtu.be/Px3s5DbDYxY?si=ufch_9Y8cSHwHRMU&t=32), [0:47](https://youtu.be/Px3s5DbDYxY?si=YiydBsGvBrd0qiJT&t=47), [1:02](https://youtu.be/Px3s5DbDYxY?si=f6dwaogTjzjFae-8&t=62), [1:41](https://youtu.be/Px3s5DbDYxY?si=-shT3dmIVvdf59aK&t=101), [1:57](https://youtu.be/Px3s5DbDYxY?si=3jPmi7s5l-4cbw0k&t=117), [2:44](https://youtu.be/Px3s5DbDYxY?si=glr975fGSzpb7xHz&t=164), [3:16](https://youtu.be/Px3s5DbDYxY?si=ZhWDwUM-OCYFXdUG&t=196), [4:11](https://youtu.be/Px3s5DbDYxY?si=1UuMWWsxEICzzXYp&t=251))
+
+- Solo conmigo - Romeo Santos ([0:47](https://youtu.be/XEUCbvCEjc8?si=aSJSDT6v6YOm6elr&t=47), [1:03](https://youtu.be/XEUCbvCEjc8?si=OpLC4qGglKMjYP_3&t=63), [2:29](https://youtu.be/XEUCbvCEjc8?si=KOBkg_n4V5XEf3kn&t=149), [2:44](https://youtu.be/XEUCbvCEjc8?si=4OV_jc6pSYHzDS03&t=164))
 
 ## Canciones con sincopados usando la voz
 
