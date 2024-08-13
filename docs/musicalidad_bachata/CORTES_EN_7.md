@@ -8,6 +8,13 @@ A continuación, presento varios ejemplos de interpretaciones de cortes en tiemp
 
 - Sensanciòn: Giro en 2 tiempos del follower
 
+- Sensación: Giro del leader.
+
+https://github.com/user-attachments/assets/594197d4-46e2-468b-b72a-ce79de6e3a04
+
+Source: Clase Mateo y Juanita - Cali Dance Congress 2024
+
+
 ## Canciones recomendadas para practicar
 
 - Me EnRD - Prince Royce ([1:06](https://youtu.be/5JysgNEAe44?si=tQH9cyNcSpSxVO6R&t=66), [2:19](https://youtu.be/5JysgNEAe44?si=iMrbWo_euAI4B-vp&t=139), [3:02](https://youtu.be/5JysgNEAe44?si=5EQqiTvkYXc62Ivh&t=182))
