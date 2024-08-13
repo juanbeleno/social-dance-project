@@ -10,7 +10,7 @@ A continuación, presento varios ejemplos de interpretaciones de cortes en tiemp
 
 - Sensación: Giro del leader.
 
-https://github.com/user-attachments/assets/594197d4-46e2-468b-b72a-ce79de6e3a04
+https://github.com/user-attachments/assets/594197d4-46e2-468b-b72a-ce79de6e3a04.mp4
 
 Source: Clase Mateo y Juanita - Cali Dance Congress 2024
 
