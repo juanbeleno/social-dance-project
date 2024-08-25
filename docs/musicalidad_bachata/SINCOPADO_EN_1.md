@@ -2,9 +2,9 @@
 
 Diferentes instrumentos (güira, bongos, requinto, voz) pueden agregar unos adornos en diferentes partes de la canción. Un adorno que se repite frecuentemente es el uso de sincopados.
 
-EL sincopado que comienza en 1 y termina en 4 (1 1+ 2 2+ 3 3+ 4) generalmente se indica por la voz y es necesario arreglar el conteo porque terminamos con el pie contrario.
+EL sincopado que comienza en 1 generalmente se indica por la voz y es necesario arreglar el conteo porque terminamos con el pie contrario.
 
-A continuación, presento varios ejemplos de interpretaciones musicales del sincopado (1 1+ 2 2+ 3 3+ 4) con diferentes instrumento y con sensaciones diferentes en orden de impacto visual (subjetivo):
+A continuación, presento varios ejemplos de interpretaciones musicales del sincopado en 1 con diferentes instrumento y con sensaciones diferentes en orden de impacto visual (subjetivo):
 
 - Sensación: caminada frente atrás.
 
