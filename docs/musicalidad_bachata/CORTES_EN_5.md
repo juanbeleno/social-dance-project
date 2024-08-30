@@ -255,7 +255,7 @@ Referencia: [Melvin & Gatica [GONE] @ Urban Bachata Festival 2024 🚨](https://
 
 ### Canciones con patrón de cada 4 octavas
 
-- Niveles - Pinto Picasso ([0:50](https://youtu.be/QvdV4Z8rqUI?si=sQGh0201zgoYT-Az&t=50), [1:07](https://youtu.be/QvdV4Z8rqUI?si=78EPc-sxk35sQh1p&t=67), [1:24](https://youtu.be/QvdV4Z8rqUI?si=iUzwu9vjPBOzUfUc&t=84), [1:41](https://youtu.be/QvdV4Z8rqUI?si=xdRAjKbjHCpVAuUw&t=101), [1:59](https://youtu.be/QvdV4Z8rqUI?si=D0kawZeBgOERHK_w&t=119), [2:16](https://youtu.be/QvdV4Z8rqUI?si=BXiBhAOMFqhimj5Y&t=136), [2:33](https://youtu.be/QvdV4Z8rqUI?si=piQPcjZYE6eCMcLU&t=153), [3:07](https://youtu.be/QvdV4Z8rqUI?si=BiUHgslmdpNngb2d&t=187), [3:24](https://youtu.be/QvdV4Z8rqUI?si=8vS2eqPR3uZlhxrK&t=204), ...)
+- Vanidad - Pinto Picasso ([0:50](https://youtu.be/QvdV4Z8rqUI?si=sQGh0201zgoYT-Az&t=50), [1:07](https://youtu.be/QvdV4Z8rqUI?si=78EPc-sxk35sQh1p&t=67), [1:24](https://youtu.be/QvdV4Z8rqUI?si=iUzwu9vjPBOzUfUc&t=84), [1:41](https://youtu.be/QvdV4Z8rqUI?si=xdRAjKbjHCpVAuUw&t=101), [1:59](https://youtu.be/QvdV4Z8rqUI?si=D0kawZeBgOERHK_w&t=119), [2:16](https://youtu.be/QvdV4Z8rqUI?si=BXiBhAOMFqhimj5Y&t=136), [2:33](https://youtu.be/QvdV4Z8rqUI?si=piQPcjZYE6eCMcLU&t=153), [3:07](https://youtu.be/QvdV4Z8rqUI?si=BiUHgslmdpNngb2d&t=187), [3:24](https://youtu.be/QvdV4Z8rqUI?si=8vS2eqPR3uZlhxrK&t=204), ...)
 
 
 ### Canciones con patrón de cada 8 octavas
