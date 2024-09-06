@@ -64,9 +64,14 @@ Referencia: Medellín On Fire 2023 - Rodrigo Cortazar y Asia
 
 - Te vas a acordar de mi - Orquesta La Libertad ([2:22](https://youtu.be/n5iS3TFlQFM?t=142), [2:26](https://youtu.be/n5iS3TFlQFM?t=146), [2:31](https://youtu.be/n5iS3TFlQFM?t=151), [3:36](https://youtu.be/n5iS3TFlQFM?t=216), [3:42](https://youtu.be/n5iS3TFlQFM?t=222), [3:46](https://youtu.be/n5iS3TFlQFM?t=226))
 
+- Aquí Yo Llegue De Nuevo - Orchesta Pueblo ([3:15](https://youtu.be/yvoTDrSA67A?si=r2lhqQLsHOC4FSXO&t=195), [3:20](https://youtu.be/yvoTDrSA67A?si=slQRJa19NFM6AMd_&t=200), [3:25](https://youtu.be/yvoTDrSA67A?si=ONdyQSlVSuNcuQzx&t=205), [3:30](https://youtu.be/yvoTDrSA67A?si=EtXaY8Vi7HUFCTVc&t=210))
+
 ### Cada octava
 
 - Aguacero - El Gran Combo de Puerto Rico ([2:36](https://youtu.be/PDZkbHNDbwo?si=L0gkz5Sd5YyQlBzE&t=156), [2:38](https://youtu.be/PDZkbHNDbwo?si=eah6o_ceAdJ6JSg5&t=158), [2:41](https://youtu.be/PDZkbHNDbwo?si=zFJxLeWQJ8i0jhEb&t=161), [2:44](https://youtu.be/PDZkbHNDbwo?si=UE4Tc_6Xo0IfMYWd&t=164), [2:47](https://youtu.be/PDZkbHNDbwo?si=2p_26OI9ZSOgXG0r&t=167), [2:50](https://youtu.be/PDZkbHNDbwo?si=QeZCku31TdGYYKzU&t=170), [2:52](https://youtu.be/PDZkbHNDbwo?si=Rvubz54CyYWLKftg&t=172), ...)
 
 - Lluvia - Ray De La Paz ([1:08](https://youtu.be/P_n8VZP2TZ0?t=68), [1:32*](https://youtu.be/P_n8VZP2TZ0?t=92), [1:57](https://youtu.be/P_n8VZP2TZ0?t=117), [2:54](https://youtu.be/P_n8VZP2TZ0?t=174), [2:57](https://youtu.be/P_n8VZP2TZ0?t=177), [2:59](https://youtu.be/P_n8VZP2TZ0?t=179), [3:01](https://youtu.be/P_n8VZP2TZ0?t=181), [3:06](https://youtu.be/P_n8VZP2TZ0?t=186), [3:08](https://youtu.be/P_n8VZP2TZ0?t=188), [3:10](https://youtu.be/P_n8VZP2TZ0?t=190), [3:35](https://youtu.be/P_n8VZP2TZ0?t=215))
-  
+
+### Patrones más complejos
+
+- S.E.R.A - Orquesta La Constelación 2 - 6 - 2 ([1:33](https://youtu.be/SWlbxpcFSIY?si=_3EbbxfljTcoOVoY&t=93), [1:38](https://youtu.be/SWlbxpcFSIY?si=VcDdd5TkqFreK5bM&t=98), [1:53](https://youtu.be/SWlbxpcFSIY?si=G1AdYt-qP8XBwPt_&t=113), [1:58](https://youtu.be/SWlbxpcFSIY?si=o_fn0NjaCWnvrBCg&t=118))
