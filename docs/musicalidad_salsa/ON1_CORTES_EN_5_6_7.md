@@ -66,6 +66,8 @@ Referencia: Medellín On Fire 2023 - Rodrigo Cortazar y Asia
 
 - Aquí Yo Llegue De Nuevo - Orchesta Pueblo ([3:15](https://youtu.be/yvoTDrSA67A?si=r2lhqQLsHOC4FSXO&t=195), [3:20](https://youtu.be/yvoTDrSA67A?si=slQRJa19NFM6AMd_&t=200), [3:25](https://youtu.be/yvoTDrSA67A?si=ONdyQSlVSuNcuQzx&t=205), [3:30](https://youtu.be/yvoTDrSA67A?si=EtXaY8Vi7HUFCTVc&t=210))
 
+- La Pandilla de la Salsa - The Latin Brothers ([2:01](https://youtu.be/PMecgoZZrAQ?si=dcbAVWvsHaCwYJci&t=121), [2:06](https://youtu.be/PMecgoZZrAQ?si=lmOUaVh5eCAwbFf1&t=126), [2:11](https://youtu.be/PMecgoZZrAQ?si=PRLLmRmIrBX-Sb5E&t=131), [2:15](https://youtu.be/PMecgoZZrAQ?si=v3mlrVoLdiD4wkUB&t=135))
+
 ### Cada octava
 
 - Aguacero - El Gran Combo de Puerto Rico ([2:36](https://youtu.be/PDZkbHNDbwo?si=L0gkz5Sd5YyQlBzE&t=156), [2:38](https://youtu.be/PDZkbHNDbwo?si=eah6o_ceAdJ6JSg5&t=158), [2:41](https://youtu.be/PDZkbHNDbwo?si=zFJxLeWQJ8i0jhEb&t=161), [2:44](https://youtu.be/PDZkbHNDbwo?si=UE4Tc_6Xo0IfMYWd&t=164), [2:47](https://youtu.be/PDZkbHNDbwo?si=2p_26OI9ZSOgXG0r&t=167), [2:50](https://youtu.be/PDZkbHNDbwo?si=QeZCku31TdGYYKzU&t=170), [2:52](https://youtu.be/PDZkbHNDbwo?si=Rvubz54CyYWLKftg&t=172), ...)
