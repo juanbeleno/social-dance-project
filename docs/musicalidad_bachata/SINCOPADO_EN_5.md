@@ -116,6 +116,11 @@ https://github.com/user-attachments/assets/b863eecc-6138-4afe-8c03-b88d71898088.
 
 Referencia: [Maycheal y Mayra [SI YA NO VOLVERAS] @ Sensual Summer Weekend 2024 🏛️](https://youtu.be/jGAFPYG2XYY?si=eMgUk1qC0tsA76YE&t=50)
 
+- Sensación: Tocar la guitarra como piano por el cuerpo de la chica. IDEA: Desde doble carril por el paso de Santiago pero en 1 tocar el piano en los brazos de la chica. Not related: Corte en 1 con la sensación de lanzar al frente y desenrrollar desde candado o como está.
+
+https://github.com/user-attachments/assets/4b5a9a80-36a8-4367-944e-e8b9c385e3ca.mp4
+
+Referencia: [Double Musicality](https://www.instagram.com/p/DAycCKdCOQ8/?img_index=5)
 
 - Sensación: giro 360 juntos con preparación de rompe.
 
