@@ -6,17 +6,17 @@ A continuación, presento varios ejemplos de interpretaciones de cortes en tiemp
 
 - Sensación: Tabla. Advertencia: Toca prepararlo en 7.
 
-https://github.com/juanbeleno/social-dance-project/assets/10092275/89c57f63-6c4a-4e21-a4fb-30b1715ad145.mp4
+https://github.com/user-attachments/assets/72ae2ce1-a59c-4bca-b22b-7beef22cd63c.mp4
 
 
 - Sensación: Cambio de frente sencillo.
 
-https://github.com/juanbeleno/social-dance-project/assets/10092275/a1ed4817-0d2d-4505-9590-2d2bf71806ca.mp4
+https://github.com/user-attachments/assets/7f7235e3-38e7-4cae-9871-4f8e9d81bd4e.mp4
 
 
 - Sensación: Empuje lateral desde posición de sombra.
 
-https://github.com/juanbeleno/social-dance-project/assets/10092275/2a949dbf-f2df-4ed9-ad52-71200b3006d6.mp4
+https://github.com/user-attachments/assets/27ae16e2-a288-41d2-8f2e-88f9d20c2b2a.mp4
 
 
 - Sensación: Desenrollar a la chica.
@@ -27,21 +27,6 @@ https://github.com/juanbeleno/social-dance-project/assets/10092275/e99b5148-4d8e
 - Sensación: Cambios de frente para segerir un passé a la chica.
 
 https://github.com/juanbeleno/social-dance-project/assets/10092275/54ffd61d-f9a5-4251-ab5b-87d8daee9d7d.mp4
-
-
-- Sensación: Sugerir un ronde de jambé a la chica.
-
-https://github.com/juanbeleno/social-dance-project/assets/10092275/7b4576f4-2aca-4178-bab1-92c75e05e7e3.mp4
-
-
-- Sensación: Caida de espaldas de la chica. Advertencia: Mejorar mi técnica.
-
-https://github.com/juanbeleno/social-dance-project/assets/10092275/df7d797c-37f0-490e-a93a-6ffc48b9e71e.mp4
-
-
-- Sensación: Cambio de frente del chico. Advertencia: La chica aveces no tiene control de su cuerpo y pasa derecho.
-
-https://github.com/juanbeleno/social-dance-project/assets/10092275/0d1cc432-8960-434f-b780-bef44c594f16.mp4
 
 
 - Sensación: Volver de un cambré. Advertencia: Toca prepararlo en 7.
