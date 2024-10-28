@@ -76,6 +76,8 @@ Referencia: Medellín On Fire 2023 - Rodrigo Cortazar y Asia
 
 - Lluvia - Ray De La Paz ([1:08](https://youtu.be/P_n8VZP2TZ0?t=68), [1:32*](https://youtu.be/P_n8VZP2TZ0?t=92), [1:57](https://youtu.be/P_n8VZP2TZ0?t=117), [2:54](https://youtu.be/P_n8VZP2TZ0?t=174), [2:57](https://youtu.be/P_n8VZP2TZ0?t=177), [2:59](https://youtu.be/P_n8VZP2TZ0?t=179), [3:01](https://youtu.be/P_n8VZP2TZ0?t=181), [3:06](https://youtu.be/P_n8VZP2TZ0?t=186), [3:08](https://youtu.be/P_n8VZP2TZ0?t=188), [3:10](https://youtu.be/P_n8VZP2TZ0?t=190), [3:35](https://youtu.be/P_n8VZP2TZ0?t=215))
 
+- Bailen Mi Guaguancó - Angel Melendez ([1:03](https://youtu.be/UDAYpNTtq_Y?si=DrYZkEs8g0q2Vgcl&t=63), [1:06](https://youtu.be/UDAYpNTtq_Y?si=zN-d0o9_yLBRlaMB&t=66), [1:08](https://youtu.be/UDAYpNTtq_Y?si=eh4IYzXmDw741Pwh&t=68), [1:11](https://youtu.be/UDAYpNTtq_Y?si=E_py2-DvrLqGnI7l&t=71))
+
 ### Patrones más complejos
 
 - S.E.R.A - Orquesta La Constelación 2 - 6 - 2 ([1:33](https://youtu.be/SWlbxpcFSIY?si=_3EbbxfljTcoOVoY&t=93), [1:38](https://youtu.be/SWlbxpcFSIY?si=VcDdd5TkqFreK5bM&t=98), [1:53](https://youtu.be/SWlbxpcFSIY?si=G1AdYt-qP8XBwPt_&t=113), [1:58](https://youtu.be/SWlbxpcFSIY?si=o_fn0NjaCWnvrBCg&t=118))
