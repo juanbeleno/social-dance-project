@@ -89,3 +89,5 @@ Referencia: Clase en Step Dance - Guasa y Daniela Rosero
 - Oh Mayi- DJ Ricky Campanelli ([2:17](https://youtu.be/yDxN6JOBuMw?si=BBT9smMpWZAYylSe&t=137), [2:19](https://youtu.be/yDxN6JOBuMw?si=sY9D6QI6Zz54zHs2&t=139), [2:21](https://youtu.be/yDxN6JOBuMw?si=kbIpKTISwxIF81RS&t=141), [2:23](https://youtu.be/yDxN6JOBuMw?si=USxnSuCxLQh7Fr94&t=143))
 
 - La Malanga - Mercado Negro ([0:31](https://youtu.be/apbMGO0Kwk4?si=JR__YxjRKXfRmVO3&t=31), [0:33](https://youtu.be/apbMGO0Kwk4?si=Y4EEgDSpxsI1_PRz&t=33), [0:35](https://youtu.be/apbMGO0Kwk4?si=Vqw7arosK1A2w5nD&t=35), [0:37](https://youtu.be/apbMGO0Kwk4?si=eWPjKSteuYL2xhPq&t=37))
+
+- Bailen Mi Guaguancó - Angel Melendez ([0:22](https://youtu.be/UDAYpNTtq_Y?si=qZpa3yAWCBxZzVNC&t=22), [0:24](https://youtu.be/UDAYpNTtq_Y?si=vuOk7ZUN3-fq34zO&t=24), [0:27](https://youtu.be/UDAYpNTtq_Y?si=OEYghtn2KCnGghxK&t=27), [0:30](https://youtu.be/UDAYpNTtq_Y?si=nQsmy3MM6U1HFN2n&t=30))
