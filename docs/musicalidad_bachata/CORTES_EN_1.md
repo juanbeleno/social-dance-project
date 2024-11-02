@@ -6,29 +6,21 @@ Cuando el corte es en el tiempo 1, aveces la música se reinicia y cuando se deb
 
 A continuación, presento varios ejemplos de interpretaciones de cortes en tiempo 5 que tienen sensaciones diferentes en orden de impacto visual (Según Isa):
 
+
 - Sensación: Caída hacia atrás del follow:
 
-https://github.com/juanbeleno/social-dance-project/assets/10092275/36859201-e7c1-44c3-873d-145c2952c66c.mp4
+https://github.com/user-attachments/assets/cf55b8c2-dcfa-495c-8989-44add775d042.mp4
 
 
-- Sensación: Caída lateral del follow.
+- Sensación: Empujada frontal desde onda finalizando con giro rápido de la chica.
 
-https://github.com/juanbeleno/social-dance-project/assets/10092275/7e74e0e1-e7ac-4fbb-b2a7-75cc2eceb717.mp4
-
-
-- Sensación: Empujada frontal desde onda.
-
-https://github.com/juanbeleno/social-dance-project/assets/10092275/0c0b1a57-077b-4db9-a0a4-de3223d9f734.mp4
-
-
-- Sensación: Desenrrollada.
-
-https://github.com/juanbeleno/social-dance-project/assets/10092275/db6b1017-c2bf-40e8-b9ca-7d2c99c5bdbe.mp4
+https://github.com/user-attachments/assets/c17b9ca9-6d23-4fe9-abd3-4c36c82d2744.mp4
 
 
 - Sensación: Empujada frontal desde posición del pretzel.
 
-https://github.com/juanbeleno/social-dance-project/assets/10092275/e1fee06f-e34f-4b39-a23c-01d47cca2ff0.mp4
+https://github.com/user-attachments/assets/91f014a6-0f08-45a6-bcd5-ebd21001cf9d.mp4
+
 
 
 
