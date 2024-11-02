@@ -19,20 +19,9 @@ https://github.com/user-attachments/assets/7f7235e3-38e7-4cae-9871-4f8e9d81bd4e.
 https://github.com/user-attachments/assets/27ae16e2-a288-41d2-8f2e-88f9d20c2b2a.mp4
 
 
-- Sensación: Desenrollar a la chica.
+- Sensación: Volver de un cambré. Advertencia: Toca prepararlo una octava antes.
 
-https://github.com/juanbeleno/social-dance-project/assets/10092275/e99b5148-4d8e-4be1-aa6b-cf172646ba69.mp4
-
-
-- Sensación: Cambios de frente para segerir un passé a la chica.
-
-https://github.com/juanbeleno/social-dance-project/assets/10092275/54ffd61d-f9a5-4251-ab5b-87d8daee9d7d.mp4
-
-
-- Sensación: Volver de un cambré. Advertencia: Toca prepararlo en 7.
-
-https://github.com/juanbeleno/social-dance-project/assets/10092275/02489180-d5a3-4b75-8ff8-dcc939f23e49.mp4
-
+https://github.com/user-attachments/assets/3f5a772d-33a8-43be-871c-726bad83fc38.mp4
 
 
 ## Otros candidatos
