@@ -1,12 +1,20 @@
 # Cortes en tiempo 7
 
-A parte de los cortes en tiempo 5, la misma interpretación musical puede ser hecha para cuando la voz acentúa el tiempo 5.
+A continuación, presento varios ejemplos de interpretaciones de cortes en tiempo 7 que tienen sensaciones diferentes en orden de impacto visual (Según Yo):
 
-A continuación, presento varios ejemplos de interpretaciones de cortes en tiempo 5 que tienen sensaciones diferentes en orden de impacto visual (Según Isa):
+- Sensación: Desenrrollar a la chica.
 
-- Sensación: Desenrollar a la followers
+https://github.com/user-attachments/assets/7b9b1d43-622a-49d4-a668-5695e6ff7a3e.mp4
 
-- Sensanciòn: Giro en 2 tiempos del follower
+
+- Sensación: Giro en 2 tiempos desde un madrid.
+
+https://github.com/user-attachments/assets/4bc13286-d48e-40c9-8cac-c07a0af6f511.mp4
+
+
+- Sensanción: Contragiro.
+
+## Otras sensaciones
 
 - Sensación: Giro del leader.
 
