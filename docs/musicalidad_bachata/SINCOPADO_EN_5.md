@@ -2,26 +2,13 @@
 
 Diferentes instrumentos (güira, bongos, requinto, voz) pueden agregar unos adornos en diferentes partes de la canción. Un adorno que se repite frecuentemente es el uso de sincopados.
 
-A continuación, presento varios ejemplos de interpretaciones del sincopado comenzando en tiempo 5 que tienen sensaciones diferentes en orden de impacto visual (Según Isa):
-
-- Sensanción: Sacar a la chica de su eje y hacerla caminar rápido a mi alrededor.
-
-https://github.com/juanbeleno/social-dance-project/assets/10092275/301c58db-c441-4a20-aa03-02c2366af694.mp4
-
-
-- Sensanción: Descabelada.
-
-https://github.com/juanbeleno/social-dance-project/assets/10092275/154dc6d4-6cda-441b-bdbd-460f1ebbb125.mp4
+Ejemplos de interpretaciones del sincopado comenzando en tiempo 5 que tienen sensaciones diferentes en orden de impacto visual (Según Yo):
 
 
 - Sensanción: Circulos de pecho con desplazamiento hacia atrás del follow.
 
-https://github.com/juanbeleno/social-dance-project/assets/10092275/88dbea29-3e59-4c34-9b29-f2c5f9244ef3.mp4
+https://github.com/user-attachments/assets/22feda0e-6e0c-4685-a3ba-6b1ae4db4e67.mp4
 
-
-- Sensación: Caminata rápida en círculos con preparación de rompe.
-
-https://github.com/juanbeleno/social-dance-project/assets/10092275/fdf991c1-659c-429a-b4b4-0cf1df0cf1bc.mp4
 
 
 ## Otros candidatos
