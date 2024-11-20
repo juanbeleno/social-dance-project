@@ -14,6 +14,10 @@ https://github.com/user-attachments/assets/4bc13286-d48e-40c9-8cac-c07a0af6f511.
 
 - Sensanción: Contragiro.
 
+https://github.com/user-attachments/assets/d26fe78d-c642-401f-a4b7-be0d0f2bfa8c.mp4
+
+
+
 ## Otras sensaciones
 
 - Sensación: Giro del leader.
