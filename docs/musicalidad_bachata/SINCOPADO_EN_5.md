@@ -109,6 +109,12 @@ https://github.com/user-attachments/assets/4b5a9a80-36a8-4367-944e-e8b9c385e3ca.
 
 Referencia: [Double Musicality](https://www.instagram.com/p/DAycCKdCOQ8/?img_index=5)
 
+- Sensación: Juego de manos.
+
+https://github.com/user-attachments/assets/ff3aa21e-d234-43b1-a2ab-a608dd8f28c7.mp4
+
+Referencia: [Monday Social at Latin Groove Fam](https://www.instagram.com/p/DCw3XzoivXc/)
+
 - Sensación: giro 360 juntos con preparación de rompe.
 
 ## Canciones recomendadas para practicar sincopados
