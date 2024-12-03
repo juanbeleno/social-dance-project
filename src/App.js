@@ -149,6 +149,7 @@ function App() {
   useEffect(() => {
     // Define the base url
     const baseUrl = `${process.env.PUBLIC_URL}/`;
+    //const baseUrl = ``;
 
     axios.get(`${baseUrl}partnerwork.json`)
     .then((response) => {
