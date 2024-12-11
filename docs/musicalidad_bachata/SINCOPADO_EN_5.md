@@ -115,6 +115,12 @@ https://github.com/user-attachments/assets/ff3aa21e-d234-43b1-a2ab-a608dd8f28c7.
 
 Referencia: [Monday Social at Latin Groove Fam](https://www.instagram.com/p/DCw3XzoivXc/)
 
+- Sensación: 2 giros alrededor del chico
+
+https://github.com/user-attachments/assets/4e1aaa9c-0eeb-4546-a9fc-d39e4b2edd18.mp4
+
+Referencia: [Moz’art and Laure - Afterclass Demo](https://www.instagram.com/p/DBi_odnM_gO/)
+
 - Sensación: giro 360 juntos con preparación de rompe.
 
 ## Canciones recomendadas para practicar sincopados
