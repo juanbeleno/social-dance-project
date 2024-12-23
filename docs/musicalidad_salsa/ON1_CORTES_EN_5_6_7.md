@@ -78,6 +78,8 @@ Referencia: Medellín On Fire 2023 - Rodrigo Cortazar y Asia
 
 - Bailen Mi Guaguancó - Angel Melendez ([1:03](https://youtu.be/UDAYpNTtq_Y?si=DrYZkEs8g0q2Vgcl&t=63), [1:06](https://youtu.be/UDAYpNTtq_Y?si=zN-d0o9_yLBRlaMB&t=66), [1:08](https://youtu.be/UDAYpNTtq_Y?si=eh4IYzXmDw741Pwh&t=68), [1:11](https://youtu.be/UDAYpNTtq_Y?si=E_py2-DvrLqGnI7l&t=71))
 
+- El Tubo - Babo Jimenez Y Su Banda ([2:38](https://youtu.be/I4x7f5cZH3U?si=qDjg1QBftRoSVRgC&t=158), [2:41](https://youtu.be/I4x7f5cZH3U?si=t2ecd2YOMZM6mWMu&t=161), [2:44](https://youtu.be/I4x7f5cZH3U?si=gR54o2foVqjXPuuc&t=164), [2:46](https://youtu.be/I4x7f5cZH3U?si=gQzyW-yyhOoHeLf_&t=166))
+
 ### Patrones más complejos
 
 - S.E.R.A - Orquesta La Constelación 2 - 6 - 2 ([1:33](https://youtu.be/SWlbxpcFSIY?si=_3EbbxfljTcoOVoY&t=93), [1:38](https://youtu.be/SWlbxpcFSIY?si=VcDdd5TkqFreK5bM&t=98), [1:53](https://youtu.be/SWlbxpcFSIY?si=G1AdYt-qP8XBwPt_&t=113), [1:58](https://youtu.be/SWlbxpcFSIY?si=o_fn0NjaCWnvrBCg&t=118))
