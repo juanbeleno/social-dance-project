@@ -98,6 +98,8 @@ Referencia: [Samuel Funflow & Bejarano - Salsa social dance @ Palmera Playa Vigo
 
 - Yo cambiaré por ti - Guayacan Orquesta ([1:16](https://youtu.be/tj7gFhIBlx8?si=Mc4LzztAgn1HHlAp&t=76), [1:22](https://youtu.be/tj7gFhIBlx8?si=foTjxywZNVj-jfeJ&t=82), [1:58](https://youtu.be/tj7gFhIBlx8?si=XDol6c67WBVdlY7M&t=118), [2:03](https://youtu.be/tj7gFhIBlx8?si=Yh_li3PdtJH-MvuS&t=123), [2:13](https://youtu.be/tj7gFhIBlx8?si=CwVO2QrsIA9NWJSX&t=133), [3:28](https://youtu.be/tj7gFhIBlx8?si=_cYG4wQfeG8lbuIc&t=208))
 
+- Teresita - Conjunto Classico / Tito Nieves ([2:37](https://youtu.be/HEjkt1otXf0?si=t7S7CgxTuS5BXEYF&t=157), [2:43](https://youtu.be/HEjkt1otXf0?si=asqwKugZNuKDIaWM&t=163), [2:48](https://youtu.be/HEjkt1otXf0?si=MupLpNW3X1vMbUt9&t=168), [2:54](https://youtu.be/HEjkt1otXf0?si=IbLXC_9VtH8m6Sa7&t=174))
+
 ### Cada octava
 
 - Salsa de Tomate - Orquesta La Selecta de Veracruz ([0:16](https://youtu.be/yrPybSmCbD8?si=zfAalUVNscyPYRWV&t=16), [0:19](https://youtu.be/yrPybSmCbD8?si=XiOUS0AqcaaVeq1r&t=19), [0:21](https://youtu.be/yrPybSmCbD8?si=Rx7aunvSrC6N2jXn&t=21), [0:23](https://youtu.be/yrPybSmCbD8?si=1Ugx6Kj95oUyOLFD&t=23))
