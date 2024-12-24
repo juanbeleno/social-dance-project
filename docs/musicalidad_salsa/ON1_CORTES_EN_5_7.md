@@ -67,3 +67,5 @@ Referencia: [Samuel Funflow & Daniel Maiorano - Salsa Social Dance - LGTBailamos
 - Me liberé - El Gran Combo de Puerto Rico (5 - 11 - 11 - 11) ([0:15](https://youtu.be/frsVQWSINAI?si=qww61BypMViFb0Qc&t=15), [0:42](https://youtu.be/frsVQWSINAI?si=xgqSG88bDetu8gnR&t=42), [1:09](https://youtu.be/frsVQWSINAI?si=_DSS4q6FVCf3B3eS&t=69), [1:31](https://youtu.be/frsVQWSINAI?si=Ob9ayDVmyTZao-8A&t=91))
 
 - Tendria Que Llorar Por Ti - Moncho Santana (2 - 4 - 2) ([1:00](https://youtu.be/tWUj7aKOX-Q?si=mVEOYSxlyvIdRVzj&t=60), [1:06](https://youtu.be/tWUj7aKOX-Q?si=7paY-EA12ntL5RAg&t=66), [1:20](https://youtu.be/tWUj7aKOX-Q?si=7rvsWQXvCBIJXQyN&t=80), [1:25](https://youtu.be/tWUj7aKOX-Q?si=cPvYnRHK-PKe0aYO&t=85))
+
+- Ella Se Hizo Deseo - Tito Rojas (15 - 8) ([0:52](https://youtu.be/XZ-vA5X5qhw?si=_n9Vv05sYt6ptCmj&t=52), [1:34](https://youtu.be/XZ-vA5X5qhw?si=1rjKL56F0YzwWD_F&t=94), [1:56](https://youtu.be/XZ-vA5X5qhw?si=G81U9FZlmW6FOV-h&t=116))
