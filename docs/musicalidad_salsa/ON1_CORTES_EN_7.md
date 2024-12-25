@@ -104,6 +104,8 @@ Referencia: [Samuel Funflow & Bejarano - Salsa social dance @ Palmera Playa Vigo
 
 - Salsa de Tomate - Orquesta La Selecta de Veracruz ([0:16](https://youtu.be/yrPybSmCbD8?si=zfAalUVNscyPYRWV&t=16), [0:19](https://youtu.be/yrPybSmCbD8?si=XiOUS0AqcaaVeq1r&t=19), [0:21](https://youtu.be/yrPybSmCbD8?si=Rx7aunvSrC6N2jXn&t=21), [0:23](https://youtu.be/yrPybSmCbD8?si=1Ugx6Kj95oUyOLFD&t=23))
 
+- Mi Linda Mujer - Rodrigo Bastidas ([2:29](https://youtu.be/PdbOMqI9noI?si=JTaplRBBzsPyHfzn&t=149), [2:32](https://youtu.be/PdbOMqI9noI?si=e9kppbh8rQHLCJPq&t=152), [2:34](https://youtu.be/PdbOMqI9noI?si=iRVzBgTE-eWzhD6c&t=154), [2:37](https://youtu.be/PdbOMqI9noI?si=eatuyjCPz88Lefr9&t=157))
+
 ### Otros patrones
 
 - Ritmo en el Corazón - Celia Cruz y Ray Barreto ([1:27](https://youtu.be/Bstf--ymw20?si=CAdH5m6dxOHzG0tH&t=87), [2:21](https://youtu.be/Bstf--ymw20?si=fu08XO53bUFRXhA4&t=141), [2:53](https://youtu.be/Bstf--ymw20?si=YB1Gq6DF4Serqk8S&t=173))
