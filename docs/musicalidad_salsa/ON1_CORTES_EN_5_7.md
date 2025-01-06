@@ -53,6 +53,8 @@ Referencia: [Samuel Funflow & Daniel Maiorano - Salsa Social Dance - LGTBailamos
 
 - Fuego en el 23 - Sonora Ponceña ([2:26](https://youtu.be/5404tYDaTfk?si=15owsZlDhAMYRZOv&t=146), [2:31](https://youtu.be/5404tYDaTfk?si=RdrudHm_IhwrMQ4Q&t=151), [2:36](https://youtu.be/5404tYDaTfk?si=XsBS8kHUO-MevpHy&t=156), [2:42](https://youtu.be/5404tYDaTfk?si=9JbEfHyLlSMUqcDI&t=162))
 
+- Pa' la rumba - El Kalambuco Ensamble, Javier Ponte ([4:34](https://youtu.be/sUB0kqKWrLo?si=jo8RAvjWcgEXxT4K&t=274), [4:39](https://youtu.be/sUB0kqKWrLo?si=HH3Kf277NAKFNWnZ&t=279), [4:44](https://youtu.be/sUB0kqKWrLo?si=DsnogtN_ZWEXDtRr&t=284))
+
 
 ### Letra
 
