@@ -23,20 +23,6 @@ function App() {
     selectedLevels: [],
     useBookmarks: false,
     bookmarks: [
-      '8ece891', 'd133f59', '3646ea2', 'c2c1d2a', '7b8f2d7',
-      '8d1cae4', '363e288', 'c5a858f', 'cd4a231', '39374ab',
-      'd161c0f', '7e35c3d', 'ceb3a33', 'f5c001b', '4bc7968',
-      '3a2cbc7', 'a0dd46a', '40962f6', '8b366f2', 'a489ab8',
-      'c15dfca', 'ae06380', '5fcf0c5', '4a693ae', '70ec7ca',
-      'bf91e1d', '39233da', '6db2906', '23ce236', '218f7bb',
-      '6e72f10', 'b6cc22fb', '0530180', '0a3953a', 'd7e8c97',
-      '83bbd23', '6b1372f', 'eaa17be', '2320e00',
-      '1618d52', '1c9b87f', '84b2a81',
-      '5fb6c7d', '563398d', 'f2fa10c', '3aee1d7', '7048e3e',
-      '163e819', '439b0b0', 'a6046b1', 'f779180', '42d0e2c',
-      '1385378', 'baabf3f', 'aa7ef97', 'd9a21ba', '26ee386',
-      '6463c4f', 'e62a43e', '12dbc32', '276cd62', 'f97f357',
-      'a246af6', '6707d56', '8ae7164'
     ]
   });
 
@@ -44,7 +30,7 @@ function App() {
   localStorage.setItem("bookmarks", JSON.stringify(allValues.bookmarks))
 
   // Define the number of elements to load
-  const numContentElements = 15;
+  const numContentElements = 21;
 
   // Handle bookmark selection
   const changeBookmarkSelection = () => {
