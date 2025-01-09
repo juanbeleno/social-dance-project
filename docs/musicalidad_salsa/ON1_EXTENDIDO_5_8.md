@@ -73,6 +73,8 @@ Referencia: Clase en Step Dance - Guasa y Daniela Rosero
 
 - Pobrecita - La máxima 79 ([2:52](https://youtu.be/NOrfzcA6jzI?si=sM2VniOfNOvKVxsF&t=172), [2:58](https://youtu.be/NOrfzcA6jzI?si=mASGQgGfCe89_Enb&t=178), [3:03](https://youtu.be/NOrfzcA6jzI?si=_JSCYqycgBPMESTt&t=183), [3:08](https://youtu.be/NOrfzcA6jzI?si=xXB9S86vIaJQGR4_&t=188), [3:29](https://youtu.be/NOrfzcA6jzI?si=9ggDMc_s2bg1iSYf&t=209), [3:35](https://youtu.be/NOrfzcA6jzI?si=vva4e7G-__vURTRh&t=215), [3:40](https://youtu.be/NOrfzcA6jzI?si=gPFG-VEwHAf909YB&t=220), [3:45](https://youtu.be/NOrfzcA6jzI?si=o8qQ-xQ8ypBuXa7S&t=225), [3:51](https://youtu.be/NOrfzcA6jzI?si=lLThA5PKTfCUjEom&t=231), [4:06](https://youtu.be/NOrfzcA6jzI?si=VhVvKgtlMg-QWsq8&t=246), [4:09](https://youtu.be/NOrfzcA6jzI?si=9cHAcd0nSTrHtNAq&t=249), [4:12](https://youtu.be/NOrfzcA6jzI?si=_R3wkStFpm8tcPAG&t=252))
 
+- Otra Oportunidad - JImmy Bosch ([3:32](https://youtu.be/u5WCHSERgIk?si=hLf4pTyjGFhs_BT3&t=212), [3:37](https://youtu.be/u5WCHSERgIk?si=zBqDSWMJG-EFgoZg&t=217))
+
 
 ### Cada octava
 
