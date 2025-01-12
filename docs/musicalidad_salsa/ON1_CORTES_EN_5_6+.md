@@ -6,6 +6,11 @@ A continuación, presento varios ejemplos de interpretaciones de cortes en tiemp
 
 https://github.com/juanbeleno/social-dance-project/assets/10092275/2f2e6727-d567-4feb-803d-2d55ca4f9681.mp4
 
+
+
+Inspiración:
+[Samuel FunFlow and Sveltlana](https://www.instagram.com/p/C6WrrpNiwhV/)
+
 ## Canciones recomendadas para practicar
 
 ### Cada 4 octavas
@@ -19,3 +24,7 @@ https://github.com/juanbeleno/social-dance-project/assets/10092275/2f2e6727-d567
 ### Otros patrones
 
 - Yo Quisiera - Oscar D'León (9 - 10 - 6) ([0:18](https://youtu.be/hJjGZwFj7xE?si=iB-LiMOnizdK2sfd&t=18), [0:41](https://youtu.be/hJjGZwFj7xE?si=t5Rvh4vNZC9O7B2C&t=41), [0:55](https://youtu.be/hJjGZwFj7xE?si=mWrPHaPl47fxaEVH&t=55), [1:13](https://youtu.be/hJjGZwFj7xE?si=ESVpJ-tfHHhbnFt3&t=73), [1:46](https://youtu.be/hJjGZwFj7xE?si=96kf04coxeNjGFe6&t=106), [2:04](https://youtu.be/hJjGZwFj7xE?si=KiE_QbSvMs8pi5_H&t=124), [5:48](https://youtu.be/hJjGZwFj7xE?si=gg8RjfsMzT88KsNZ&t=348))
+
+- Pirulero - El Gran Combo de Puerto Rico (6 - 4 - 8 - 6 - 4) ([0:18](https://youtu.be/lU4AEQEjjfs?si=W7me_qC90YaZylbB&t=18), [0:32](https://youtu.be/lU4AEQEjjfs?si=mkdXuiSCDEi3hGrQ&t=32), [0:41](https://youtu.be/lU4AEQEjjfs?si=GNPAQerqiTYhu2jl&t=41), [1:00](https://youtu.be/lU4AEQEjjfs?si=eVP2N5guVQOTdBfl&t=60), [1:14](https://youtu.be/lU4AEQEjjfs?si=Rut5nZ2SfxPandwM&t=74), [1:23](https://youtu.be/lU4AEQEjjfs?si=4Tcr3LGF9XnALM2L&t=83), [2:52](https://youtu.be/lU4AEQEjjfs?si=Mk_0NBqZ-J_Qp_JR&t=172))
+
+- La perrita de vicente - Fernando Lavoy ([1:36](https://youtu.be/tx3KL0UqRyI?si=nLs_HOgCupHVpQUi&t=96))
