@@ -90,6 +90,14 @@ https://github.com/juanbeleno/social-dance-project/assets/10092275/2eea71af-7e70
 Referencia: [Rodrigue Cabaz & Irina Mikhalkina - Social Dancing | From Back 2 Mambo Prague 20-24 October 2022](https://youtu.be/EwDtcsb-KAc?si=Qf_gPrCOuIK7PycS&t=11)
 
 
+- Sensación: Giros en el eje
+
+https://github.com/user-attachments/assets/442684ee-82e8-4715-aaf6-8b33da9e553a.mp4
+
+Referencia: [Dejon Polansky and Clo Ferreira - Flor Pálida - Marc Anthony](https://www.instagram.com/p/DEz1avQRcQ8/)
+
+
+
 ## Canciones para practicar
 
 ### Cada octava
