@@ -2,22 +2,22 @@
 
 A continuación, presento varios ejemplos de interpretaciones de cortes en tiempo 5 que tienen sensaciones diferentes en orden de preferencia de Isa:
 
-- Sensación: Cambio de frente con impulso en el 1 y 3.
+- Sensación: Cambio de frente con impulso en el 1 y 3. No usar: EStá simple y no me gusta la técnica.
 
 https://github.com/juanbeleno/social-dance-project/assets/10092275/bba3daf3-3c62-4ded-ba56-6db39e1931f3.mp4
 
 
-- Sensación: Poner manualmente el hammerlock en el 1 antes de un cambio de frente.
+- Sensación: Poner manualmente el hammerlock en el 1 antes de un cambio de frente. Usar.
 
 https://github.com/juanbeleno/social-dance-project/assets/10092275/5b71dec0-1859-4c52-9e1c-000eeb97ff0d.mp4
 
 
-- Sensación: Flick para poner hammerlock antes de cambio de frente.
+- Sensación: Flick para poner hammerlock antes de cambio de frente. No usar: Se parece al anterior y es más feo.
 
 https://github.com/juanbeleno/social-dance-project/assets/10092275/68b7d3f2-4962-4bfe-bd1b-03d9672964f1.mp4
 
 
-- Sensación: Flick luego de estar en posición de pretzel.
+- Sensación: Flick luego de estar en posición de pretzel. Usar.
 
 https://github.com/juanbeleno/social-dance-project/assets/10092275/8f239df7-6766-448c-86b1-32242ba8a595.mp4
 
