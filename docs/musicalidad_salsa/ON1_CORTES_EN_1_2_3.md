@@ -4,7 +4,7 @@ No todos los ejemplos que voy a presentar son en los tiempos exacto 1, 2 y 3, pe
 
 A continuación, presento varios ejemplos de interpretaciones de cortes en tiempo 1, 2 y 3 que tienen sensaciones diferentes en orden de preferencia de Isa:
 
-- Sensación: traerla, devolverla y traerla de nuevo solo cambiando pesos.
+- Sensación: traerla, devolverla y traerla de nuevo solo cambiando pesos. Usar: Intentar hacerla desde bloqueo de brazos en posición de cross.
 
 https://github.com/juanbeleno/social-dance-project/assets/10092275/8d02c69b-7329-48f6-b45a-452cf43c8da2
 
