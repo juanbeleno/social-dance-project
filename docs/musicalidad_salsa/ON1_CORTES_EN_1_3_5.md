@@ -2,34 +2,41 @@
 
 A continuación, presento varios ejemplos de interpretaciones de cortes en core beat (1, 3 y 5) que tienen sensaciones diferentes en orden de preferencia de Isa (del que más le gusta al que menos le gusta):
 
-- Sensación: Flick para poner hammerlock antes de cambio de frente.
+- Sensación: Flick para poner hammerlock antes de cambio de frente. No usar: No me gusta.
 
 https://github.com/juanbeleno/social-dance-project/assets/10092275/68b7d3f2-4962-4bfe-bd1b-03d9672964f1.mp4
 
 
-- Sensación: Poner manualmente el hammerlock en el 1 antes de un cambio de frente.
+- Sensación: Poner manualmente el hammerlock en el 1 antes de un cambio de frente. Usar.
 
 https://github.com/juanbeleno/social-dance-project/assets/10092275/5b71dec0-1859-4c52-9e1c-000eeb97ff0d.mp4
 
 
-- Sensación: Cambio de frente con visaje de abrir las manos de la chica.
+- Sensación: Cambio de frente con visaje de abrir las manos de la chica. No usar: Isa hac eun pasé raro, entonces es posible que otras follows lo malinterpreten y no me gusta tanto el paso.
 
 https://github.com/juanbeleno/social-dance-project/assets/10092275/5375d1c2-5a74-47aa-aadd-02fa9a0c7f4d.mp4
 
 
-- Sensación: Cambio de frente desde posición de pretzel.
+- Sensación: Cambio de frente desde posición de pretzel. No usar: No me gusta tanto
 
 https://github.com/juanbeleno/social-dance-project/assets/10092275/17e1ab5f-b328-463e-a545-c27571ffc675.mp4
 
 
-- Sensación: Cambio de frente con impulso en el 1 y 3.
+- Sensación: Cambio de frente con impulso en el 1 y 3. No usar: No me gusta tanto.
 
 https://github.com/juanbeleno/social-dance-project/assets/10092275/bba3daf3-3c62-4ded-ba56-6db39e1931f3.mp4
 
 
-- Sensación: Flick luego de estar en posición de pretzel.
+- Sensación: Flick luego de estar en posición de pretzel. Usar.
 
 https://github.com/juanbeleno/social-dance-project/assets/10092275/8f239df7-6766-448c-86b1-32242ba8a595.mp4
+
+- Sensación: Giros en el eje. Usar
+
+https://github.com/user-attachments/assets/442684ee-82e8-4715-aaf6-8b33da9e553a.mp4
+
+Referencia: [Dejon Polansky and Clo Ferreira - Flor Pálida - Marc Anthony](https://www.instagram.com/p/DEz1avQRcQ8/)
+
 
 ## Otros candidatos
 
@@ -88,13 +95,6 @@ Referencia: Clase en Step Dance - Guasa y Evelyn
 https://github.com/juanbeleno/social-dance-project/assets/10092275/2eea71af-7e70-4fc1-897f-2171cb04c966.mp4
 
 Referencia: [Rodrigue Cabaz & Irina Mikhalkina - Social Dancing | From Back 2 Mambo Prague 20-24 October 2022](https://youtu.be/EwDtcsb-KAc?si=Qf_gPrCOuIK7PycS&t=11)
-
-
-- Sensación: Giros en el eje
-
-https://github.com/user-attachments/assets/442684ee-82e8-4715-aaf6-8b33da9e553a.mp4
-
-Referencia: [Dejon Polansky and Clo Ferreira - Flor Pálida - Marc Anthony](https://www.instagram.com/p/DEz1avQRcQ8/)
 
 
 
