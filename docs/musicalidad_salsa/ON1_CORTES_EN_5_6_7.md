@@ -4,22 +4,22 @@ No todos los ejemplos que voy a presentar son en los tiempos exacto 5, 6 y 7, pe
 
 A continuación, presento varios ejemplos de interpretaciones de cortes en tiempo 5, 6 y 7 que tienen sensaciones diferentes en orden de preferencia de Isa (del que más le gusta al que menos le gusta):
 
-- Sensación: Vuelta clásica.
+- Sensación: Vuelta clásica. Usar.
 
 https://github.com/juanbeleno/social-dance-project/assets/10092275/79ae121c-5179-45aa-ac74-62d40215d279.mp4
 
 
-- Sensación: Zarandeada a la chica desde copa.
+- Sensación: Zarandeada a la chica desde copa. Usar.
 
 https://github.com/juanbeleno/social-dance-project/assets/10092275/9269ab05-21dc-4ec7-8748-17cbf42314ff.mp4
 
 
-- Sensación: Variación de vuelta clásica.
+- Sensación: Variación de vuelta clásica. No Usar: No tengo la técnica en el corto plazo.
 
 https://github.com/juanbeleno/social-dance-project/assets/10092275/6dfe96a3-5d8b-4e9c-b25f-305483ede2ef.mp4
 
 
-- Sensación: ochos de salsa caleña.
+- Sensación: ochos de salsa caleña. No usar: Eso es de salsa caleña, mejor usar [este paso](fac4ab3)
 
 https://github.com/juanbeleno/social-dance-project/assets/10092275/d9008e8f-d965-4792-9fcd-aff28f0706a5.mp4
 
