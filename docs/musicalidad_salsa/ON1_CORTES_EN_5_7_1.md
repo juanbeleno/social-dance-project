@@ -2,9 +2,11 @@
 
 A continuación, presento varios ejemplos de interpretaciones de cortes en core beat (5, 7 y 1) que tienen sensaciones diferentes en orden de preferencia de Isa (del que más le gusta al que menos le gusta):
 
-- Sensación: Flick para poner hammerlock antes de cambio de frente.
+- Sensación: Flicks
 
-https://github.com/juanbeleno/social-dance-project/assets/10092275/68b7d3f2-4962-4bfe-bd1b-03d9672964f1.mp4
+https://github.com/juanbeleno/social-dance-project/assets/10092275/150ffc12-ba79-434a-aedc-b418808578ad.mp4
+
+Referencia: [Panagiotis Aglamisis & Myrto Misyri - Salsa social dancing on Quarantine (June, 2020)](https://youtu.be/qdzE2k0mXms?t=120)
 
 ## Otros candidatos
 
