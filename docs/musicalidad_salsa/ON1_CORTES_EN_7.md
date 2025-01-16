@@ -27,6 +27,13 @@ https://github.com/juanbeleno/social-dance-project/assets/10092275/6f0f6c67-fe22
 https://github.com/juanbeleno/social-dance-project/assets/10092275/6512f8ba-fcd1-4ade-8245-194c2092be7d.mp4
 
 
+- Sensación: Cruce de pies por delante.
+
+https://github.com/juanbeleno/social-dance-project/assets/10092275/64e2dfb7-ef7e-43d5-b30d-d6cf83531585.mp4
+
+Referencia: [Eddie Torres Jr & Nadegda - Salsa social dancing | 4th World Stars Salsa Festival](https://youtu.be/XIsL2A9fltU?t=86)
+
+
 ## Otros candidatos
 
 - Sensación: flick.
