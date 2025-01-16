@@ -18,6 +18,12 @@ https://github.com/juanbeleno/social-dance-project/assets/10092275/4c9fcc3e-4943
 
 Referencia: Clase en Step Dance - Guasa y Daniela Rosero
 
+- Sensación: Giro congelado del lead.
+
+https://github.com/user-attachments/assets/c75a8409-0602-4f50-a9e7-a24750f2e065.mp4
+
+Referencia: [Dejon Polansky and Clo Ferreira](https://www.instagram.com/p/DEBd5Rpxzpr/)
+
 
 ## Otros candidatos
 
