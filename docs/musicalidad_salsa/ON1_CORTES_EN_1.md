@@ -3,24 +3,24 @@
 A continuación, presento varios ejemplos de interpretaciones de cortes en tiempo 1 que tienen sensaciones diferentes en orden de preferencia de Isa (Del que menos le gusta al que más le gusta):
 
 
-- Sensación: flick.
+- Sensación: flick. No usar: No me gusta.
 
 https://github.com/juanbeleno/social-dance-project/assets/10092275/0a6bf582-ffd3-4737-b328-f9c80e7c157f.mp4
 
 
-- Sensación: visaje de cubano. Versión  más complicada con giro del hombre hacia atrás.
+- Sensación: visaje de cubano. Versión  más complicada con giro del hombre hacia atrás. Modificar: Hacer un brisas en tiempo 5 y hacer visaje caleño/cubano en el 1.
 
 https://github.com/juanbeleno/social-dance-project/assets/10092275/899ab11f-9322-499d-9c63-d165a35bd761.mp4
 
 Referencia: [Willy Arey & Jessy Valentini - Social dancing | Salsa On Tour Festival 2023 (San Vincenzo, Italy)](https://youtu.be/cARF65rnDu8?si=IW-2k-QMNNFyXbJy&t=85)
 
-- Sensación: visaje de cubano v2.
+- Sensación: visaje de cubano v2. Modificar: Esperar el 6 en el lugar y cruzar en el 7 el giro pro detrás.
 
 https://github.com/juanbeleno/social-dance-project/assets/10092275/a1744c05-900f-4046-b1d7-294aeb395f08.mp4
 
 Referencia: [Fernando Sosa & Tatiana Bonaguro - Social Dancing | The Original Latin Dance Congress 2019 (Bangkok)](https://youtu.be/hCpS5V_Bnkg?si=yoqadkJ8EHp6dmj6&t=209)
 
-- Sensación: Desenrrollar desde posición de pretzel.
+- Sensación: Desenrrollar desde posición de pretzel. No usar: No me gusta.
 
 https://github.com/juanbeleno/social-dance-project/assets/10092275/b1d93976-71cc-41ad-96b8-7e0525467f87.mp4
 
