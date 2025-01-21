@@ -17,9 +17,9 @@ Generalmente, las canciones introducen un puente para hacer la transición entre
 **Referencias:**
 
 - [Bachata Musicality Explained: Phases](https://www.instagram.com/p/CkYkEfMo1Ol/?hl=es-la)
-- [Bachata bongo rhythms (Derecho, Majao, Mambo) Tutorial](https://www.youtube.com/watch?v=ugXrFsLbkgQ&t=141s)
 - [3 ritmos básicos de bachata en bongo y guira- Academia de Bachata - musicalidad](https://www.youtube.com/watch?v=kSQVKBmtZu4)
 - [AUTHENTIC BACHATA® EXPLAINED: Video Series: Part#04 Musicality #1](https://www.youtube.com/watch?v=B1nZLlyzRdc)
+- [Bachata bongo rhythms (Derecho, Majao, Mambo) Tutorial](https://www.youtube.com/watch?v=ugXrFsLbkgQ&t=141s)
 
 ## Introducción a la teoría musical para bailarines/bailadores de bachata
 
