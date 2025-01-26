@@ -30,7 +30,7 @@ function App() {
   localStorage.setItem("bookmarks", JSON.stringify(allValues.bookmarks))
 
   // Define the number of elements to load
-  const numContentElements = 24;
+  const numContentElements = 36;
 
   // Handle bookmark selection
   const changeBookmarkSelection = () => {
