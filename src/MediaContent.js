@@ -15,14 +15,14 @@ export default function MediaContent(props) {
                     ref={videoRef}
                     onCanPlay={() => setPlayBack()}
                     className={`m-auto ${orientation === 'portrait' ? 'h-full' : 'w-full'}`}>
-                    <source src={`img/${filepath}`} type="video/mp4"/>
+                    <source src={`socialdanceproject/img/${filepath}`} type="video/mp4"/>
                 Your browser does not support the video tag.
                 </video>
             )
         } else {
             return (
                 <img
-                src={`img/${filepath}`}
+                src={`socialdanceproject/img/${filepath}`}
                 alt=""
                 className={`m-auto ${orientation === 'portrait' ? 'h-full' : 'w-full'}`}/>
             )
