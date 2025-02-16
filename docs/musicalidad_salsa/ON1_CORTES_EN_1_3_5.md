@@ -120,6 +120,8 @@ Referencia: [Rodrigue Cabaz & Irina Mikhalkina - Social Dancing | From Back 2 Ma
 
 - Hace Tiempo - Rafu Warner ([1:17](https://youtu.be/UN5nCKUUo4k?si=re8OUB2wlKh4ni25&t=77), [1:27](https://youtu.be/UN5nCKUUo4k?si=fb-SunR163hLTF7E&t=87), [1:37](https://youtu.be/UN5nCKUUo4k?si=xnRvMNKkfTw1fvTn&t=98), [3:03](https://youtu.be/UN5nCKUUo4k?si=gOQcZpSeZROwcKIx&t=183), [3:14](https://youtu.be/UN5nCKUUo4k?si=03eKfh7Wn8nYI8jx&t=194), [3:24](https://youtu.be/UN5nCKUUo4k?si=ul6xP6VEqdAyxisO&t=204))
 
+- Ángel Canales - Hace Tiempo ([1:08](https://youtu.be/_mrAESYCV3I?si=0noaxAOXI6Y56S4r&t=68), [1:18](https://youtu.be/_mrAESYCV3I?si=lxvQTRBX6NQlW1ll&t=78), [1:28](https://youtu.be/_mrAESYCV3I?si=CoKQIIyVgE-wyvqU&t=88), [1:38](https://youtu.be/_mrAESYCV3I?si=bMhJ6dXXutdDhlOv&t=98))
+
 ### Cada 8 octavas
 - Calle luna, calle sol - Willie Colón (Tiene 2 patrones seguidos) ([1:01](https://youtu.be/Phy-i5oPJJ0?si=xV6FWymJdDzL2Cc7&t=61), [1:03](https://youtu.be/Phy-i5oPJJ0?si=HVx7cr909SjjW8dX&t=63), [1:28](https://youtu.be/Phy-i5oPJJ0?si=kvrgzBdXK5u42H_-&t=88), [1:30](https://youtu.be/Phy-i5oPJJ0?si=OsLIpFXr0Rc7gemM&t=90), [1:55](https://youtu.be/Phy-i5oPJJ0?si=Bp2L5RutPE3vLfbr&t=115), [1:58](https://youtu.be/Phy-i5oPJJ0?si=rSVd9H-4t7Uqvu0V&t=118))
 
