@@ -82,6 +82,8 @@ Referencia: Medellín On Fire 2023 - Rodrigo Cortazar y Asia
 
 - El Tubo - Babo Jimenez Y Su Banda ([2:38](https://youtu.be/I4x7f5cZH3U?si=qDjg1QBftRoSVRgC&t=158), [2:41](https://youtu.be/I4x7f5cZH3U?si=t2ecd2YOMZM6mWMu&t=161), [2:44](https://youtu.be/I4x7f5cZH3U?si=gR54o2foVqjXPuuc&t=164), [2:46](https://youtu.be/I4x7f5cZH3U?si=gQzyW-yyhOoHeLf_&t=166))
 
+- Lebrón Brothers - Llegamos ([1:38](https://youtu.be/bH02xs8AxN8?si=hxSUDNORdvg_bz5E&t=98), [1:41](https://youtu.be/bH02xs8AxN8?si=7cJizy9xFtL4ISJD&t=101), [1:43](https://youtu.be/bH02xs8AxN8?si=gJ4L87yH2cR8DZNB&t=103), ...)
+
 ### Patrones más complejos
 
 - S.E.R.A - Orquesta La Constelación 2 - 6 - 2 ([1:33](https://youtu.be/SWlbxpcFSIY?si=_3EbbxfljTcoOVoY&t=93), [1:38](https://youtu.be/SWlbxpcFSIY?si=VcDdd5TkqFreK5bM&t=98), [1:53](https://youtu.be/SWlbxpcFSIY?si=G1AdYt-qP8XBwPt_&t=113), [1:58](https://youtu.be/SWlbxpcFSIY?si=o_fn0NjaCWnvrBCg&t=118))
