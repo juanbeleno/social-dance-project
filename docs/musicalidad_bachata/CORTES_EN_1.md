@@ -137,6 +137,8 @@ Referencia: [Azael Bachata Fever](https://www.instagram.com/p/C4fYagCiHcu/?hl=es
 
 - El delincuente - It's Will ([0:49](https://youtu.be/4bYxbDCmfRQ?t=49), [1:44](https://youtu.be/4bYxbDCmfRQ?t=104), [2:47](https://youtu.be/4bYxbDCmfRQ?t=167), [3:03](https://youtu.be/4bYxbDCmfRQ?t=183))
 
+- Paris - Pinto Picasso  ([0:53](https://youtu.be/g81JtMbrJtw?si=Li8X2PHfu_vBa_ZP&t=53), [1:23*](https://youtu.be/g81JtMbrJtw?si=mc7pL2XEnY2vHOD2&t=83), [1:34](https://youtu.be/g81JtMbrJtw?si=E8RSqwYUZ0ONZ5bw&t=94), [2:33*](https://youtu.be/g81JtMbrJtw?si=jfM80KmFBIOjFEta&t=153), [2:45](https://youtu.be/g81JtMbrJtw?si=XxQx9NNdGe7-JZ0L&t=165), [3:30*](https://youtu.be/g81JtMbrJtw?si=_OSwcOBdklNyLhq8&t=210))
+
 ### Corte en la 5ta estrofa desde el comienzo de la canción
 
 - Te invito - Aventura ([0:16](https://youtu.be/v6aicYYG59I?si=G7jP-oL9E6BB7oYQ&t=16), [0:55](https://youtu.be/v6aicYYG59I?si=M0OZ6hj2YSE0FFqx&t=55), [1:27](https://youtu.be/v6aicYYG59I?si=akujLH-iNKYO9Ici&t=87), [2:29](https://youtu.be/v6aicYYG59I?si=YT1ne4bZs9zGQ721&t=149))
