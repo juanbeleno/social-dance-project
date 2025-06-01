@@ -134,8 +134,8 @@ function App() {
   // Update the feed, given the filters
   useEffect(() => {
     // Define the base url
-    //const baseUrl = `${process.env.PUBLIC_URL}/`;
-    const baseUrl = ``;
+    const baseUrl = `${process.env.PUBLIC_URL}/`;
+    //const baseUrl = ``;
 
     axios.get(`${baseUrl}partnerwork.json`)
     .then((response) => {
