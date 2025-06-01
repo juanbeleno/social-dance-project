@@ -11,11 +11,15 @@ export default function MediaContent(props) {
                 videoRef.current.playbackRate = 0.75;
             };
             return (
-                <video autoPlay loop muted
+                <video autoPlay loop muted controlsList='nodownload'
                     ref={videoRef}
                     onCanPlay={() => setPlayBack()}
                     className={`m-auto ${orientation === 'portrait' ? 'h-full' : 'w-full'}`}>
-                    <source src={`img/${filepath}`} type="video/mp4"/>
+                    <source
+                        src={`img/${filepath}`}
+                        type="video/mp4"
+                        playsInline
+                        webkit-playsinline="true"/>
                 Your browser does not support the video tag.
                 </video>
             )
