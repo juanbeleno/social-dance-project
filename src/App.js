@@ -30,7 +30,7 @@ function App() {
   localStorage.setItem("bookmarks", JSON.stringify(allValues.bookmarks))
 
   // Define the number of elements to load
-  const numContentElements = 24;
+  const numContentElements = 42;
 
   // Handle bookmark selection
   const changeBookmarkSelection = () => {
@@ -134,8 +134,8 @@ function App() {
   // Update the feed, given the filters
   useEffect(() => {
     // Define the base url
-    const baseUrl = `${process.env.PUBLIC_URL}/`;
-    //const baseUrl = ``;
+    //const baseUrl = `${process.env.PUBLIC_URL}/`;
+    const baseUrl = ``;
 
     axios.get(`${baseUrl}partnerwork.json`)
     .then((response) => {
