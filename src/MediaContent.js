@@ -16,7 +16,7 @@ export default function MediaContent(props) {
                     onCanPlay={() => setPlayBack()}
                     className={`m-auto ${orientation === 'portrait' ? 'h-full' : 'w-full'}`}>
                     <source
-                        src={`img/${filepath}`}
+                        src={`socialdanceproject/img/${filepath}`}
                         type="video/mp4"
                         playsInline
                         webkit-playsinline="true"/>
@@ -26,7 +26,7 @@ export default function MediaContent(props) {
         } else {
             return (
                 <img
-                src={`img/${filepath}`}
+                src={`socialdanceproject/img/${filepath}`}
                 alt=""
                 className={`m-auto ${orientation === 'portrait' ? 'h-full' : 'w-full'}`}/>
             )
