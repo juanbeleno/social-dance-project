@@ -9099,7 +9099,7 @@
     {
         "id": "172b651",
         "filepath": "bachata/partnerwork/sensual/172b651.mp4",
-        "tags": ["combo", "bachata sensual", "selected bachata candidate", "Andres", "Yessica Gil"],
+        "tags": ["combo", "bachata sensual", "learned bachata reference", "Andres", "Yessica Gil"],
         "level": 4,
         "source": "https://www.instagram.com/p/DIwNNKZM3uI/?img_index=1",
         "orientation": "portrait"
@@ -9513,6 +9513,49 @@
         "tags": ["combo", "bachata sensual", "selected bachata candidate", "SINCOPADO_EN_5","Leonardo Pafumi", "Anie Peña"],
         "level": 4,
         "source": "https://www.instagram.com/p/DQHecMRDGve/",
+        "orientation": "portrait"
+    },
+    { 
+        "id": "ecb15fe",
+        "filepath": "bachata/partnerwork/sensual/ecb15fe.mp4",
+        "tags": ["combo", "bachata sensual", "bachata repertoire (practice)", "SINCOPADO_EN_5", "Isabella Zertuche", "Yo"],
+        "level": 4,
+        "source": "Ensayo - 22/10/2025",
+        "orientation": "portrait",
+        "references": [""]
+    },
+    { 
+        "id": "aecaef8",
+        "filepath": "bachata/partnerwork/sensual/aecaef8.mp4",
+        "tags": ["combo", "bachata sensual", "bachata repertoire (practice)", "CORTE_EN_5", "Isabella Zertuche", "Yo"],
+        "level": 4,
+        "source": "Ensayo - 22/10/2025",
+        "orientation": "portrait",
+        "references": [""]
+    },
+    { 
+        "id": "cda71fa",
+        "filepath": "bachata/partnerwork/sensual/cda71fa.mp4",
+        "tags": ["combo", "bachata sensual", "bachata repertoire (practice)", "CORTE_EN_5", "SINCOPADO_EN_5", "Isabella Zertuche", "Yo"],
+        "level": 4,
+        "source": "Ensayo - 22/10/2025",
+        "orientation": "portrait",
+        "references": ["172b651"]
+    },
+    {
+        "id": "aced7de",
+        "filepath": "bachata/partnerwork/sensual/aced7de.mp4",
+        "tags": ["combo", "bachata sensual", "learned bachata reference", "SINCOPADO_EN_5", "Walter Rodes", "Sara Panero"],
+        "level": 4,
+        "source": "https://www.instagram.com/p/DO_O57ACNdZ/",
+        "orientation": "portrait"
+    },
+    {
+        "id": "278a44a",
+        "filepath": "bachata/partnerwork/sensual/278a44a.mp4",
+        "tags": ["combo", "bachata sensual", "learned bachata reference", "CORTE_EN_5", "Walter Rodes", "Sara Panero"],
+        "level": 4,
+        "source": "https://www.instagram.com/p/DO_O57ACNdZ/",
         "orientation": "portrait"
     }
 ]
