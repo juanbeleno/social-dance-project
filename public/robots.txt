@@ -1,3 +1,6 @@
 # https://www.robotstxt.org/robotstxt.html
 User-agent: *
 Disallow:
+
+https://youtu.be/txIWQkl1fBg?si=R2Zf7E014fIJR_lQ&t=40
+https://youtu.be/txIWQkl1fBg?si=fgKDsupNtjUpkqOu&t=100
